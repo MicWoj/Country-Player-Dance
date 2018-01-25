@@ -75,7 +75,10 @@ Partial Class CountryPlayer
         Me.TabPage7 = New System.Windows.Forms.TabPage()
         Me.ListBox1 = New System.Windows.Forms.ListBox()
         Me.ProgressBar_Dance = New System.Windows.Forms.ProgressBar()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.TabPage.SuspendLayout()
+        Me.TabPage1.SuspendLayout()
         Me.TabPage2.SuspendLayout()
         CType(Me.AxAcroPDF1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage5.SuspendLayout()
@@ -108,6 +111,8 @@ Partial Class CountryPlayer
         '
         'TabPage1
         '
+        Me.TabPage1.Controls.Add(Me.Label1)
+        Me.TabPage1.Controls.Add(Me.Button1)
         Me.TabPage1.Location = New System.Drawing.Point(4, 22)
         Me.TabPage1.Name = "TabPage1"
         Me.TabPage1.Padding = New System.Windows.Forms.Padding(3)
@@ -559,6 +564,24 @@ Partial Class CountryPlayer
         Me.ProgressBar_Dance.Size = New System.Drawing.Size(230, 19)
         Me.ProgressBar_Dance.TabIndex = 19
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(32, 26)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 20
+        Me.Button1.Text = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(157, 36)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(39, 13)
+        Me.Label1.TabIndex = 21
+        Me.Label1.Text = "Label1"
+        '
         'CountryPlayer
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -579,6 +602,8 @@ Partial Class CountryPlayer
         Me.Name = "CountryPlayer"
         Me.Text = "Country Player"
         Me.TabPage.ResumeLayout(False)
+        Me.TabPage1.ResumeLayout(False)
+        Me.TabPage1.PerformLayout()
         Me.TabPage2.ResumeLayout(False)
         Me.TabPage2.PerformLayout()
         CType(Me.AxAcroPDF1, System.ComponentModel.ISupportInitialize).EndInit()
@@ -645,5 +670,7 @@ Partial Class CountryPlayer
     Friend WithEvents Label8 As System.Windows.Forms.Label
     Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
     Friend WithEvents ButtonNew As System.Windows.Forms.Button
+    Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents Button1 As System.Windows.Forms.Button
 
 End Class

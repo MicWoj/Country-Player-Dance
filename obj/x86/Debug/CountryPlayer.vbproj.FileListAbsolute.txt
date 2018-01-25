@@ -46,3 +46,28 @@ G:\VB\CountryPlayer\bin\Debug\AxInterop.AcroPDFLib.dll
 G:\VB\CountryPlayer\bin\Debug\AxInterop.WMPLib.dll
 G:\VB\CountryPlayer\obj\x86\Debug\CP_xml.exe.manifest
 G:\VB\CountryPlayer\obj\x86\Debug\CP_xml.application
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\CP_xml.exe.config
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\Interop.WMPLib.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\Interop.WMPNSSCI.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CountryPlayer.vbproj.ResolveComReference.cache
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.exe
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.xml
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.pdb
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\CP_xml.exe.manifest
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\CP_xml.application
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\CP_xml.exe
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\CP_xml.pdb
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\CP_xml.xml
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\Interop.AcroPDFLib.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\Interop.WMPLib.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\AxInterop.WMPLib.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.CountryPlayer.resources
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.Resources.resources
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CountryPlayer.vbproj.GenerateResource.Cache
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.exe.manifest
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.application
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.CP_LoginForm.resources

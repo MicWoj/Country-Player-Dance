@@ -1,4 +1,6 @@
-﻿Module CP_Fonctions
+﻿Imports System.Net.NetworkInformation
+
+Module CP_Fonctions
     Public Structure FOLDERFILE
         Public FolderName As String
         Public FileName As String
@@ -33,5 +35,14 @@
             GetFileName.FolderName = "Empty"
         End If
     End Function
+
+
+
+    Function getMacAddress()
+        Dim nics() As NetworkInterface = _
+              NetworkInterface.GetAllNetworkInterfaces
+        Return nics(0).GetPhysicalAddress.ToString
+    End Function
+
 
 End Module

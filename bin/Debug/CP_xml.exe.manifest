@@ -66,26 +66,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CP_xml.exe" size="214016">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CP_xml.exe" size="256512">
       <assemblyIdentity name="CP_xml" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>l1B7EQ11GFznRUvFDhsY7aH/9pI=</dsig:DigestValue>
+        <dsig:DigestValue>qsN7lLDus/Vczis5UdXx9f0aakI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.AcroPDFLib.dll" size="11776">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.AcroPDFLib.dll" size="12800">
       <assemblyIdentity name="Interop.AcroPDFLib" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>yDUq8rPxF53eJGnZak/PEvm4ggU=</dsig:DigestValue>
+        <dsig:DigestValue>BcOrTsy29n0yvIhFASnb+Tztb8U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
