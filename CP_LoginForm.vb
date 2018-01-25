@@ -3,18 +3,20 @@ Public Class CP_LoginForm
 
     Private Sub OK_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles OK.Click
         Dim strMac As String
-        Dim lngMac As Long
+        Dim lngMac As Double
         Dim keyPrivate As Long
-        Dim keyPublic As Long
+        Dim keyPublic As Double
         keyPrivate = 1965
         strMac = "&H" & getMacAddress()
         ' string hexadécimal -> décimal
         lngMac = CLng(strMac)
+        lngMac = lngMac * 2
+        keyPublic = CLng("&H" & PasswordTextBox.Text)
         If (PasswordTextBox.Text = "") Then
             MsgBox("Veuillez saisir un numéro de clef !")
         Else
-            keyPublic = CLng("&H" & PasswordTextBox.Text)
-            If (Equals(keyPrivate, keyPublic - lngMac)) Then
+            'keyPublic = CLng("&H" & PasswordTextBox.Text)
+            If (keyPrivate = keyPublic - lngMac) Then
                 CountryPlayer.Show()
                 Me.Close()
             Else
