@@ -1,0 +1,91 @@
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\bin\Debug\CP_xml.exe.manifest
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\bin\Debug\CP_xml.application
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\bin\Debug\CP_xml.exe
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\bin\Debug\CP_xml.pdb
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\bin\Debug\CP_xml.xml
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\obj\x86\Debug\CP_xml.Form1.resources
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\obj\x86\Debug\CP_xml.Resources.resources
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\obj\x86\Debug\CP_xml.vbproj.GenerateResource.Cache
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\obj\x86\Debug\CP_xml.exe.manifest
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\obj\x86\Debug\CP_xml.application
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\obj\x86\Debug\CP_xml.exe
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\obj\x86\Debug\CP_xml.xml
+C:\Users\frq08995\AppData\Local\Temporary Projects\CP_xml\obj\x86\Debug\CP_xml.pdb
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\bin\Debug\CP_xml.exe.manifest
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\bin\Debug\CP_xml.application
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\bin\Debug\CP_xml.exe
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\bin\Debug\CP_xml.pdb
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\bin\Debug\CP_xml.xml
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\CP_xml.CountryPlayer.resources
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\CP_xml.Resources.resources
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\CP_xml.vbproj.GenerateResource.Cache
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\CP_xml.exe.manifest
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\CP_xml.application
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\CP_xml.exe
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\CP_xml.xml
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\CP_xml.pdb
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\bin\Debug\Interop.AcroPDFLib.dll
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\CP_xml.vbproj.ResolveComReference.cache
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\bin\Debug\Interop.WMPLib.dll
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\bin\Debug\AxInterop.WMPLib.dll
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\Interop.WMPLib.dll
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\Interop.WMPNSSCI.dll
+C:\Data\Visual Studio 2010\Projects\CP_xml\CP_xml\obj\x86\Debug\AxInterop.WMPLib.dll
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\Interop.AcroPDFLib.dll
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\Interop.WMPLib.dll
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\Interop.WMPNSSCI.dll
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\AxInterop.WMPLib.dll
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.vbproj.ResolveComReference.cache
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.exe
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.xml
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.pdb
+g:\VB\CP_xml\CP_xml\CP_xml\bin\Debug\CP_xml.exe.manifest
+g:\VB\CP_xml\CP_xml\CP_xml\bin\Debug\CP_xml.application
+g:\VB\CP_xml\CP_xml\CP_xml\bin\Debug\CP_xml.exe
+g:\VB\CP_xml\CP_xml\CP_xml\bin\Debug\CP_xml.pdb
+g:\VB\CP_xml\CP_xml\CP_xml\bin\Debug\CP_xml.xml
+g:\VB\CP_xml\CP_xml\CP_xml\bin\Debug\Interop.AcroPDFLib.dll
+g:\VB\CP_xml\CP_xml\CP_xml\bin\Debug\Interop.WMPLib.dll
+g:\VB\CP_xml\CP_xml\CP_xml\bin\Debug\AxInterop.AcroPDFLib.dll
+g:\VB\CP_xml\CP_xml\CP_xml\bin\Debug\AxInterop.WMPLib.dll
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.CountryPlayer.resources
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.Resources.resources
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.vbproj.GenerateResource.Cache
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.exe.manifest
+g:\VB\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.application
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\Interop.WMPNSSCI.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.vbproj.ResolveComReference.cache
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.exe
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.xml
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.pdb
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\bin\Debug\CP_xml.exe.manifest
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\bin\Debug\CP_xml.application
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\bin\Debug\CP_xml.exe
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\bin\Debug\CP_xml.pdb
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\bin\Debug\CP_xml.xml
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\bin\Debug\Interop.WMPLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.CountryPlayer.resources
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.Resources.resources
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.vbproj.GenerateResource.Cache
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.exe.manifest
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CP_xml\CP_xml\CP_xml\obj\x86\Debug\CP_xml.application
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CountryPlayer\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CountryPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CountryPlayer\obj\x86\Debug\Interop.WMPNSSCI.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CountryPlayer\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CountryPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CountryPlayer\obj\x86\Debug\CP_xml.vbproj.ResolveComReference.cache
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CountryPlayer\obj\x86\Debug\CP_xml.exe
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CountryPlayer\obj\x86\Debug\CP_xml.xml
+C:\Users\michel\Documents\Visual Studio 2010\Projects\CountryPlayer\obj\x86\Debug\CP_xml.pdb

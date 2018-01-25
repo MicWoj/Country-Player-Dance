@@ -1,0 +1,6036 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--XML Database.-->
+<Danses>
+     <Danse Style="Catalan">
+         <Name>1929</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Sese, Carmen, Ramona, Neus</Choregraphe>
+         <Musique>1929</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>16 Bars</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4 R</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Edu Roldos and Lidia</Choregraphe>
+         <Musique>16 Bars</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>2 Hell And Back</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Rob Fowler and Kate Sala</Choregraphe>
+         <Musique>If You're Going Through Hell</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>24 By 24</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Els Quatre</Choregraphe>
+         <Musique>Twenty Four By Twenty Four</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>2x12</Name>
+         <Niveau>I</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>4 Wheelin</Name>
+         <Niveau></Niveau>
+         <Compte>32/</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>50 Ways</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Pat Stott</Choregraphe>
+         <Musique>50 Ways To Say Goodbye</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>8 Ball</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Sandrine Tassinari and Magali Lebrun</Choregraphe>
+         <Musique>Outback Booty Call</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>A B L</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/1</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Val Myers</Choregraphe>
+         <Musique>Dancin' Cowboys</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>A Better Way</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>"Country" Club</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>A Bombon</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/ct</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>One Woman Man</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>A "Country" Boy</Name>
+         <Niveau>A</Niveau>
+         <Compte>2*34</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Thank God I'm A "Country" Boy</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>A Good Day To Run</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>A Little Betty Dance</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>The Little Man</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>A Love Dance</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>A Love Song</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>A Womans Love</Name>
+         <Niveau>D</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Anna Ma Badia</Choregraphe>
+         <Musique>A Woman's Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Ab Whirl</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>If It Don't Come Easy</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Add Em Up</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2/c</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Add Em Up</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>After</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Chrystel Durand</Choregraphe>
+         <Musique>I Don't Want This Night To End</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Ain't Going Down</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Till The Sun Comes Up</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Alabama Slammin</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>If You Want My Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Alcohol</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Put Some Alcohol On It</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Alive</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Marta Agut Martinez</Choregraphe>
+         <Musique>Love Is Alive</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>All About A Woman</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Maggie Gallagher</Choregraphe>
+         <Musique>Don't Ask Me About A Woman</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>All My Mates</Name>
+         <Niveau>I</Niveau>
+         <Compte>96/2 2phr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Moggia</Choregraphe>
+         <Musique>Get Yer Redneck On</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>All Over Again</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Louis James Sequeira</Choregraphe>
+         <Musique>I 'll Do It All Over Again</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>All You Need</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Robbie Mc Gowan Hickie</Choregraphe>
+         <Musique>All You Really Need Is Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Alone</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 2r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Edu</Choregraphe>
+         <Musique>Shady Grove</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Amazing Grace</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Rachael Mcenaney</Choregraphe>
+         <Musique>Amazing Grace</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Amber</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Live To Love Another Day</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>American Beer</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>1*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>We Got The Love</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>American Kids</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart>6*8</Depart>
+         <Choregraphe>Randy Pelletier</Choregraphe>
+         <Musique>American Kids</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>American Ride</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>3*8+4</Depart>
+         <Choregraphe>Margo Lamotta</Choregraphe>
+         <Musique>Good Directions</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>An Absolute Dream</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Joyce Plaskett</Choregraphe>
+         <Musique>Land Of Dreams</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Anything About You</Name>
+         <Niveau>A</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Anything For Love</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>Anything For Love</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Anything Goes</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Robbie Mc Gowan Hickie</Choregraphe>
+         <Musique>Why Dont We Just Dance</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Anyway</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart>8*8</Depart>
+         <Choregraphe>Bruno Moggia</Choregraphe>
+         <Musique>She Loves Me Anyway</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Applejack "Country"</Name>
+         <Niveau>I</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Archy Breaky Heart</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Askin Question</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Larry Bass</Choregraphe>
+         <Musique>Askin' Questions</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>At The End</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Toni Sanchez</Choregraphe>
+         <Musique>Girls Love To Go Dancin</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Ay Ay Ay</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Navajo Rug</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Baby Belle</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Gaye Teather</Choregraphe>
+         <Musique>The Belle Of Liverpool</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Back On Trail</Name>
+         <Niveau>A</Niveau>
+         <Compte>80 T48</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Where I Go Again</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Back To Memphis</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tr</Compte>
+         <Depart>5*8</Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique>When The Sun Dont Always Shine</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Bad Girl</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4 Trr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Radically Crazy</Choregraphe>
+         <Musique>I Can Live With That</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Bad Things</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4</Compte>
+         <Depart>1*8</Depart>
+         <Choregraphe>Bill Goodlad</Choregraphe>
+         <Musique>Bad Things</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Ballymore Boys</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Banjo</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/2 Rrr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lynn Card</Choregraphe>
+         <Musique>Banjo</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Bare Essentials</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Beautiful Day</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Gaye Teather</Choregraphe>
+         <Musique>A Beautiful Day</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Beer For My Horses</Name>
+         <Niveau>N</Niveau>
+         <Compte>40/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Christine Bass</Choregraphe>
+         <Musique>Beer For My Horses</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Beer Season</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 Tt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Beer Season</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Best Down Night</Name>
+         <Niveau>A</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Better Times</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8+2</Depart>
+         <Choregraphe>Pat Stott andvikki Morris</Choregraphe>
+         <Musique>Better Times A Comin</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Bible Belt</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Virginie and Fatima</Choregraphe>
+         <Musique>Bible Belt</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Big Ben</Name>
+         <Niveau>I</Niveau>
+         <Compte>68/2 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>Come On Dance</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Big Love In Town</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>Big Love In A Small Town</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Big One</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Lilly Hollnsteiner and Mario Niederhuber</Choregraphe>
+         <Musique>Life s Like Fishing</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Bill Basic</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/4</Compte>
+         <Depart>1*8</Depart>
+         <Choregraphe>Bill Ray</Choregraphe>
+         <Musique>Lord Have Mercy On A "Country" Boy</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Billy S Dance</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/p</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Pierre Mercier</Choregraphe>
+         <Musique>San Francisco</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Black Boots</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Anna Balaguer</Choregraphe>
+         <Musique>Young Enough To Know It All</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Black Cadillac</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adolfo Calderero</Choregraphe>
+         <Musique>Long Black Cadillac</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Black Coffee</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Black Coffee</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Black Horse</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4 Rr</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Kate Sala</Choregraphe>
+         <Musique>The Black Horse And The Cherry Tree</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Blazon Stone</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/1 Ab Trf</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>When It Comes To Love</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Blue Jean Night</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Daniel Hernandez</Choregraphe>
+         <Musique>Barefoot Blue Jean Night</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Blue Note</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Big Blue Note</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Blue Rodeo</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>1*8</Depart>
+         <Choregraphe>Helen O Mallet Et Schneider Imre</Choregraphe>
+         <Musique>Blue Rodeo</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Blue Rose</Name>
+         <Niveau>D</Niveau>
+         <Compte>38/p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Blue Rose Is</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Bobbi With An I</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Rachael Mcenaney</Choregraphe>
+         <Musique>Bobbi With An I</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Bomshell Stomp</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Boot Scootin Boogie</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Boot Scootin Boogie</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Bossier City</Name>
+         <Niveau>I</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Bounty</Name>
+         <Niveau>I</Niveau>
+         <Compte>46/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>Bounty</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Boys And Girls</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Gary Lafferty</Choregraphe>
+         <Musique>If I Were A Boy</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Boys Will Be Boys</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>12</Depart>
+         <Choregraphe>Gaye Teather</Choregraphe>
+         <Musique>That Don't Make Me A Bad Guy</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Bring Down The House</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Broken Feet</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart>4*8+4</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Ain't Got Trouble Now</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Broken Heart</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Leo Boomen</Choregraphe>
+         <Musique>My Next Broken Heart</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Brotherhood</Name>
+         <Niveau>I</Niveau>
+         <Compte>96/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Do You Still Wanna Buy Me That Drink</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Bruises</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Niels Poulslen</Choregraphe>
+         <Musique>Bruises</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Bud Wiser</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Make Her Fall In Love With Me Song</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Buddy</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 R</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Bruno Moggia</Choregraphe>
+         <Musique>One Step Forward</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Buffalo Road</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Bug In My Margarita</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 Rr</Compte>
+         <Depart>4*8+4</Depart>
+         <Choregraphe>Peter Metelnick and Alison Biggs</Choregraphe>
+         <Musique>Long Way To Go</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>By My Side</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Silvia Denise Staiti</Choregraphe>
+         <Musique>Honeysuckle</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cabo San Lucas</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Rep Ghazali</Choregraphe>
+         <Musique>Cabo San Lucas</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cadillac And Caviar</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>A Different Kind Of Fine</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>California Blues</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4</Compte>
+         <Depart>2</Depart>
+         <Choregraphe>Jean Bridgeman</Choregraphe>
+         <Musique>California Blue</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Can T Stop It</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Canadian Boots</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Merce Orriols</Choregraphe>
+         <Musique>Good Boots</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Canadian Stroll</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>When Love Comes Around</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cannibal Stomp</Name>
+         <Niveau>I</Niveau>
+         <Compte>72/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Cannibals</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Casanova Cowboy</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Rob Fowler</Choregraphe>
+         <Musique>Cowboy Casanova</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Catahoula</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>"Catalan" Christmas</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Valentin Devismes</Choregraphe>
+         <Musique>Swingin Door</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>"Catalan" Girl</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Morgane Lebrun</Choregraphe>
+         <Musique>Emotional Girl</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>"Catalan" Trip</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Magali Lebrun</Choregraphe>
+         <Musique>Ride Of Your Life</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>"Catalan" Up</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Sandrine Tassinari and Magali Lebrun</Choregraphe>
+         <Musique>Me And The Boys</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Celebrity</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Celibrity</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Celtic Connection</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Maggie Gallagher Et Peter Metelnick</Choregraphe>
+         <Musique>Celtic Connection</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Celtic Ct</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Celtic Kittens</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Maggie Gallagher</Choregraphe>
+         <Musique>Celtic Kittens</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Centurion</Name>
+         <Niveau>I</Niveau>
+         <Compte>100/4 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Chacha One</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Charlie's Touch Down</Name>
+         <Niveau>D</Niveau>
+         <Compte>20/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Chasing Girl</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2 Trttt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Chasing Girls</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Chattahoochee</Name>
+         <Niveau>D</Niveau>
+         <Compte>28/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Chattaoochee</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cheap Talk</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>8*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Talk Is Cheap</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Cheek To Cheek</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Rob Fowler</Choregraphe>
+         <Musique>Stuck Like Glue</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Cheer Up</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>All Friends</Choregraphe>
+         <Musique>Pills</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cheese Burger</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Everybody's Go"NF" Gon</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cheyenne</Name>
+         <Niveau>D</Niveau>
+         <Compte>24/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Cheyenne Dancers</Choregraphe>
+         <Musique>Spirit Of The Hawk</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Chica Boum Boum</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Boom Boom Goes My Heart</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Chips and Dip</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Same All Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Chupa Chup's</Name>
+         <Niveau>A</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Circles</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adolfo Calderero</Choregraphe>
+         <Musique>Circles</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>City Light</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>City Lights</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>City Of New Orleans</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4 T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>The City Of New Orleans</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Claire S Dance</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Whose Bed Have Your Boots Been Under</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cliche</Name>
+         <Niveau>I</Niveau>
+         <Compte>34/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Kate Sala</Choregraphe>
+         <Musique>Modern Day Bonnie and Clyde</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Closer</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Mary Kelly</Choregraphe>
+         <Musique>Closer</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cmr Rah Rumba</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Meet Me Down In Campus</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Coastin</Name>
+         <Niveau>D</Niveau>
+         <Compte>40/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Tina And Ray Yeoman</Choregraphe>
+         <Musique>The Lord Of The Dance</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Colorado Girl</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Dan Albro</Choregraphe>
+         <Musique>Colorado Girl By</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Come On Back To Me</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/2</Compte>
+         <Depart>2*8+2</Depart>
+         <Choregraphe>James P Ford</Choregraphe>
+         <Musique>Come On Back</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Conversation</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cooler Online</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Online</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Copperhead Road</Name>
+         <Niveau>D</Niveau>
+         <Compte>24/4</Compte>
+         <Depart>7*8</Depart>
+         <Choregraphe>Steve Smith</Choregraphe>
+         <Musique>Copperhead</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Cor Catala</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique>Jar Of Clay</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Corn Don T Grow</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Tina Argyle</Choregraphe>
+         <Musique>Where Corn Don't Grow</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Cost Me</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 2r</Compte>
+         <Depart></Depart>
+         <Choregraphe>The Teachers</Choregraphe>
+         <Musique>Cost Me Everything</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cotton Eye Joe 2</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Cotton Eye Joe</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cotton Eyed Joe</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/c</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Cotton Eye Joe</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cotton Pickin Morning</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Cotton Pickin Time</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Countrified Soul</Name>
+         <Niveau>I</Niveau>
+         <Compte>Abc</Compte>
+         <Depart></Depart>
+         <Choregraphe>Darren "daz" Bailey and Rob Fowler</Choregraphe>
+         <Musique>Countrified Soul</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>"Country" As Can Be</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>12</Depart>
+         <Choregraphe>Suzanne Wilson</Choregraphe>
+         <Musique>"Country" As Can Be</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>"Country" Foon</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Cowboy</Choregraphe>
+         <Musique>Famous In A Small Town</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>"Country" Girl Shake</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>"Country" Roads</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart>16</Depart>
+         <Choregraphe>Kate Sala</Choregraphe>
+         <Musique>"Country" Roads</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>"Country" Strong</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Mario Niederhuber</Choregraphe>
+         <Musique>That Changes Everything</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>"Country" Style</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Neus Lloveras</Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>"Country" Surf</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>"Country" Two Step</Name>
+         <Niveau>D</Niveau>
+         <Compte>40/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Masters In Line</Choregraphe>
+         <Musique>I Just Want My Baby Back</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>"Country" Walkin</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Teree Desarro</Choregraphe>
+         <Musique>Walkin In The "Country"</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Courtland Grapevine</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Unknown</Choregraphe>
+         <Musique>This Dirty Little Town</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cowboy Boogie</Name>
+         <Niveau>D</Niveau>
+         <Compte>24/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Achy Brocken Heart</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cowboy Charleston</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Baton Rouge</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cowboy Strut</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>"Country" Crazy</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Crazy</Name>
+         <Niveau>A</Niveau>
+         <Compte>Abc /2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lilly Hollnsteiner and Mario Niederhuber</Choregraphe>
+         <Musique>I Want Crazy</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Crazy Bout A Mercury</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Maxwell</Choregraphe>
+         <Musique>Mercury Blues</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Crazy Friends</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Marie Cremona and Julien Balme</Choregraphe>
+         <Musique>The Mother Load</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cucaracha</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Hank and Mary Dalh</Choregraphe>
+         <Musique>All You Ever Do Is Bring Me Down</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Cups</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 R</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Gabi Ibanez and Paqui Monroy</Choregraphe>
+         <Musique>When Im Gone</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cut A Rug</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Roll Back The Rug</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Cut And Strut</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Inconnu</Choregraphe>
+         <Musique>Suds In The Bucket</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>D And V</Name>
+         <Niveau>A</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Daisy Jane</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Dance Again</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Standin' Still</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Dancing Cowboy</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart>I+2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Best Of The Best</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Dancing Violins</Name>
+         <Niveau>I</Niveau>
+         <Compte>112/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Maggie Gallagher</Choregraphe>
+         <Musique>Duelling Violins</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Danse Du Bison</Name>
+         <Niveau>D</Niveau>
+         <Compte>40/f</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Que Si Que No</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Darlin</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Darlin</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Dart</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Gianmarco Rossato Johnny</Choregraphe>
+         <Musique>Driftin</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Day Job</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Day Job</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Detroit Down</Name>
+         <Niveau>N</Niveau>
+         <Compte>48 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>Shuttin' Down Detroit</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Dhss</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Gaye Teather</Choregraphe>
+         <Musique>A World Of Blue</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Diamonds Make Babies</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Peter Metelnick and Alison Biggs</Choregraphe>
+         <Musique>Diamonds Make Babies</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Disappearing Tail Lights</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4 Rr</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Alison Biggs and Peter Metelnick</Choregraphe>
+         <Musique>Disappearing Tail Lights</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Dixie Rose</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Doctor Doctor</Name>
+         <Niveau>I</Niveau>
+         <Compte>80/4 Rtr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Masters In Line</Choregraphe>
+         <Musique>Bad Case Of Loving You</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Don T Drink The Water</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Don't Ask</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Don't Ask Me About A Woman</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Don't Brother Me</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Don't Stop</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 Trr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Pills</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Double Shuffle</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Down The Road</Name>
+         <Niveau>D</Niveau>
+         <Compte>32</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Down The Road</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Dreamers</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Two Of Us</Choregraphe>
+         <Musique>Dreamers And Believers</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Drift Away</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab 64 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Teddy Fournet</Choregraphe>
+         <Musique>Drift Away</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Driven</Name>
+         <Niveau>I</Niveau>
+         <Compte>84/2 Tt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rob Fowler</Choregraphe>
+         <Musique>Drive</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Duty Free</Name>
+         <Niveau>I</Niveau>
+         <Compte>Abc/1</Compte>
+         <Depart>5</Depart>
+         <Choregraphe>Esther and Jose</Choregraphe>
+         <Musique>Natural Disaster</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Earthbound</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4 Rrr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Gudrun Schneider and Martina Ecke</Choregraphe>
+         <Musique>Earthbound</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Easy Apple Jack</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/ T</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Easy Come Easy Go</Name>
+         <Niveau>D</Niveau>
+         <Compte>40/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Debbie Moore</Choregraphe>
+         <Musique>Any Man Of Mine</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Easy Foot</Name>
+         <Niveau>N</Niveau>
+         <Compte>32 Tt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lolita Tournatory</Choregraphe>
+         <Musique>The Fool In Me</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Easy Way</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Just Be You</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Edens Edge Amen</Name>
+         <Niveau>I</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>El Paso</Name>
+         <Niveau>D</Niveau>
+         <Compte>24/p</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Inconnu</Choregraphe>
+         <Musique>Neon Moon</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Eldorado</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Every Girl</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Electric Slide</Name>
+         <Niveau>D</Niveau>
+         <Compte>18/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Inconnu</Choregraphe>
+         <Musique>I Like It, I Love It</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Elt</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Danny Leclerc</Choregraphe>
+         <Musique>Every Little Thing</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Enjoy The Ride</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Alison and Peter</Choregraphe>
+         <Musique>One Way Ticket</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Everybody Knows</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Everybody Knows</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Factor 8</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Gaye Teather</Choregraphe>
+         <Musique>Working On A Tan</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Fais Do Do</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4</Compte>
+         <Depart>8*8</Depart>
+         <Choregraphe>Michelle Chandonnet</Choregraphe>
+         <Musique>Fais Do Do</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Fake Id</Name>
+         <Niveau>I</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Family</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab T Rr</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique>Welcome To The Family</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Fearless Mom S</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Southern Gang</Choregraphe>
+         <Musique>I Call It Gone</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Fifty Two Beers Ago</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Beers Ago</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Fill In The Blank</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rachael Mcenaney</Choregraphe>
+         <Musique>Fill In The Blank</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Fiona</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Marianne Langagne</Choregraphe>
+         <Musique>Fiona</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Firestorm</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Cajun Hoedown</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>First</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Neus Pino Segura</Choregraphe>
+         <Musique>Love I've Found In You</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Fisher's Hornpipes</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Fisher's Hornpipes</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Five Minutes</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas and Merce Orriols</Choregraphe>
+         <Musique>Texas As Hell</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Follow Me Down</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Jean Luke</Choregraphe>
+         <Musique>Follow Me Down</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Footloose</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4 Trrtrt</Compte>
+         <Depart>6*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Footloose</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>For My Baby</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Custom Made</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>For Neige</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 Trtr</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>Saturday Night</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>For The Life</Name>
+         <Niveau>I</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Forever And Ever</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Forever And Ever</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Forever Little</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Love Story</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Free And Easy</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Malcom and Viv Owen</Choregraphe>
+         <Musique>That's How I Got To Memphis</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Free Time</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 Tr</Compte>
+         <Depart>1*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>I Believe In You</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Freedom Road</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tt</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Adriano Castagnoli and David Villellas</Choregraphe>
+         <Musique>Our Song</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Freight Train</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Rool On Clikety Clack</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Fresh Start</Name>
+         <Niveau>N</Niveau>
+         <Compte>68/2 T</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Into The Wind</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Friday Yet</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>8</Depart>
+         <Choregraphe>Nadia Krieg</Choregraphe>
+         <Musique>Is It Friday Yet</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Galway Girls</Name>
+         <Niveau>N</Niveau>
+         <Compte>31/2 R</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Chris Hodgson</Choregraphe>
+         <Musique>Gypsy</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Get A Little Thirsty</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/2 Ttrttt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Marie Claude Gil</Choregraphe>
+         <Musique>Thisrty</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Get Ready</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ph/2</Compte>
+         <Depart>8</Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>Fishing In The Dark</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Get Reel</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Ghost Train</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Ghost Train</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Giddy On Up</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4 Trr</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Giddy On Up</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Gift To You</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2trrrr</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Edu Roldos and Lidia</Choregraphe>
+         <Musique>Mission Temple Fireworks Stand</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Gipsy Rosaly</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rob Fowler</Choregraphe>
+         <Musique>Gypsy</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Girls Gone Wild</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Girls Like That</Name>
+         <Niveau>N</Niveau>
+         <Compte>62/4 R</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Lili and Mario</Choregraphe>
+         <Musique>Girls Like That</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Go Crazy</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab /2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Strikes</Choregraphe>
+         <Musique>Makin' This Boy Go Crazy</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Go Home</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>A Place To Call Home</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Go Mama Go</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4 T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Kate Sala and Robbie Mcgowan Hickie</Choregraphe>
+         <Musique>Let Your Momma Go</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Go Somewhere</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Thierry Valun</Choregraphe>
+         <Musique>If It Gets You Where You Wanna Go</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>God Blessed Texas</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Shirley K. Batson</Choregraphe>
+         <Musique>God Bless Texas</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Gods Will</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Gods Got A Plan</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Gold Digger</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rachael Mcenaney</Choregraphe>
+         <Musique>Gold Digger</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Gomm</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Mario and Lilly Hollnsteinen</Choregraphe>
+         <Musique>Gentle On My Mind</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Good Girls Gone Bad</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rachael Mcenaney</Choregraphe>
+         <Musique>Good Girls Gone Bad</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Good Luck Girl</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Good Riddance</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2r</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Good Riddance (time Of Your Life)</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Good Start</Name>
+         <Niveau>N</Niveau>
+         <Compte>40/2 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Sunny Sweeney</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Good Time</Name>
+         <Niveau>D</Niveau>
+         <Compte>48/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Jenny Cain</Choregraphe>
+         <Musique>Good Time</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Good Time Comin On</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Stephane Cormier</Choregraphe>
+         <Musique>Good Time Comin'on</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Good Time Jackson</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Dan Albro</Choregraphe>
+         <Musique>Good Time</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Good To Be Us</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Good To Share</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Magali Lebrun</Choregraphe>
+         <Musique>Lights On The Hill</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Goodbye Monday</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rob Fowler</Choregraphe>
+         <Musique>Goodbye Monday</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Got My Baby Back</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart>8*8</Depart>
+         <Choregraphe>Maggie Gallagher</Choregraphe>
+         <Musique>I Got My Baby Back Derek Ryan</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Gotta Keep Praying</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Yvonne Van Baalen</Choregraphe>
+         <Musique>Till The Answer Comes</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Ground Zero</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Wink</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Grundy Gallop</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Jenny Rockett</Choregraphe>
+         <Musique>Sold</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Gunmen</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Gypsy</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>H2o2</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Chris Hodgson</Choregraphe>
+         <Musique>Water</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Halleluja</Name>
+         <Niveau>I</Niveau>
+         <Compte>68/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Joy's Gonna Come In The Mornig</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Hard Time</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lidia Calderero and Edu Roldos</Choregraphe>
+         <Musique>Til The Wheels Fall Off</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Harlem Blues</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>Justin Townes Earle</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Harley</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Heart Of Mind</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Rrt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Nadia Krieg and Mario Niederhuber</Choregraphe>
+         <Musique>Get Me Off Her Mind</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Heart Pulse</Name>
+         <Niveau>A</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Hearts And Flowers</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Hearts And Flowers</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Heavy Heart</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Hey Girl</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Micaela Svensson Erlandsson</Choregraphe>
+         <Musique>Come Do A Little Life</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Hey Man</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Darren Bailey</Choregraphe>
+         <Musique>Hey Man</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Heyday Tonight</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/1 F</Compte>
+         <Depart></Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>Heyday Tonight</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Hight Voltage</Name>
+         <Niveau>A</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Hippie And Cowboy</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Billy Currington</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Hold Together</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Maeva and Maelys</Choregraphe>
+         <Musique>Long Black Train</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Hold+</Name>
+         <Niveau>I</Niveau>
+         <Compte>96</Compte>
+         <Depart></Depart>
+         <Choregraphe>Jgor Pasin</Choregraphe>
+         <Musique>Maybe I Shouldnt</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Home To Louisiana</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Gilles Labrecque</Choregraphe>
+         <Musique>Home To Louisiana</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Homegrown</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rachael Mcenaney</Choregraphe>
+         <Musique>Homegrown</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Honky Tonk</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/1</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Inconnu</Choregraphe>
+         <Musique>Where Am I Gonna Liveyou Aint Much Fun</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Honky Tonk Heartache</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Fatima</Choregraphe>
+         <Musique>Honky Tonk Heartache</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Hooked On "Country"</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>12</Depart>
+         <Choregraphe>Inconnu</Choregraphe>
+         <Musique>Hooked On "Country"</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Hot Little</Name>
+         <Niveau>I</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Hot Tamales</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Born To Boogie</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Hurricane</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Sal Gonzalez</Choregraphe>
+         <Musique>Hurricane</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Hush Hush</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>I Can Help</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Maite Alemany</Choregraphe>
+         <Musique>I Can Help You</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>I Feel A Sin A Comin On</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>I Love This Bar</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>I Love This Bar</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>I Run To You</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>I Run To You</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>I Told You</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Marianne Langagne</Choregraphe>
+         <Musique>I Told You So</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>I Will Fly</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/36 Ab</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>I'll Fly</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>If The World</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Heiko Lattner</Choregraphe>
+         <Musique>If The Word Had From Porch</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>I'm A Northern Girl</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Severine Fillon</Choregraphe>
+         <Musique>Northern Girl</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>In My Heart</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 R</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Magali Lebrun</Choregraphe>
+         <Musique>Ball And Chain</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>I"NF"inity</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Inseme</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Irish Stew</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Lois Lightfoot</Choregraphe>
+         <Musique>Irish Stew</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Islands In The Stream</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Islands In The Stream</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>It Happens</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Just Us</Choregraphe>
+         <Musique>It Happens</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>It S America</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 Tt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Gaye Teather</Choregraphe>
+         <Musique>It's America</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>It S Easy</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Geoff Langford</Choregraphe>
+         <Musique>No News</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>It S For You</Name>
+         <Niveau>N</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Two Of Us</Choregraphe>
+         <Musique>Here For A Good Time</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>It S Life</Name>
+         <Niveau></Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Valentina Trigila</Choregraphe>
+         <Musique>This Is The Life</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>It's A "Country" Thing</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>I'm From The "Country"</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>It's Alright</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Fish</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>It's Easy</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Geoff Langford</Choregraphe>
+         <Musique>You Lied To Me</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>It's Only "Country"</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Marie Claude Gil</Choregraphe>
+         <Musique>It's Only "Country"</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Itty Bitty</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Jack Daniels</Name>
+         <Niveau>N</Niveau>
+         <Compte>40/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Double Trouble</Choregraphe>
+         <Musique>No One Needs To Know</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Jacket Joe</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4 Tttttr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Esther and Jose</Choregraphe>
+         <Musique>Trapper Jacket Joe</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Jacob S Ladder</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Jacob S Ladder</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Jailhouse Creole</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>8*8</Depart>
+         <Choregraphe>Double Trouble</Choregraphe>
+         <Musique>Jailhouse Rock, King Creole</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Jamaica Mistaka</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Almost Jamaic</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Jambalaya</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Ian St Leon</Choregraphe>
+         <Musique>Jambalaya</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Joana</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Xose Massotti</Choregraphe>
+         <Musique>Come Earling Morning</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>John Wayne</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>John Wayne and Jesus</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Jr</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Gabi Ibanez</Choregraphe>
+         <Musique>All You Need Is Me</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Jumping Jack Flash</Name>
+         <Niveau>A</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique>Pavement End</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Just A "Country" Boy</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Just A Little Love</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>3*8</Depart>
+         <Choregraphe>Maggie Gallagher</Choregraphe>
+         <Musique>Just A Little Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Just Another American</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4</Compte>
+         <Depart>8*8</Depart>
+         <Choregraphe>Tales (marta Gelabert and Carles Clols)</Choregraphe>
+         <Musique>American Saturday Night</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Just Chillaxin</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 R</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Pascal Dhorne</Choregraphe>
+         <Musique>Chillaxin</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Just Love</Name>
+         <Niveau>I</Niveau>
+         <Compte>64</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas - Silvia Denise Staiti - Silvia Calsina Virginie Barjaud - Teddy Fournet</Choregraphe>
+         <Musique>Just A Little Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Just Married</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/2 3t</Compte>
+         <Depart></Depart>
+         <Choregraphe>Silvia Calsina</Choregraphe>
+         <Musique>Toothbrush</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Keep Cool</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Keep On Cracking</Name>
+         <Niveau>I</Niveau>
+         <Compte>74/4</Compte>
+         <Depart>5*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Whyd You Come In Here Lookin Like That</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Kerosene Lane</Name>
+         <Niveau>A</Niveau>
+         <Compte>64/2 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Moggia</Choregraphe>
+         <Musique>Kerosene Lane</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Kick Your Shoes Off</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Carol Cotherman</Choregraphe>
+         <Musique>How "Country" Feels</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Kill The Spiders</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8+4</Depart>
+         <Choregraphe>Gaye Teather</Choregraphe>
+         <Musique>You Need A Man Around Here</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Kiss Off</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Robbie Mcgowan Hickie</Choregraphe>
+         <Musique>If I Was A Woman</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Kisses Coming</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Guylaine Gagne</Choregraphe>
+         <Musique>Keep Them Kisses Comin</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Kmo</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Girl Next Door</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Knee Deep</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 Rtr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Peter Metelnick and Alison Biggs</Choregraphe>
+         <Musique>Knee Deep</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Krash</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Don't Know When I'll Love Again</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>La Chappeloise</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Tell Me Ma</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Laia and Sweet</Name>
+         <Niveau>N</Niveau>
+         <Compte>34/2</Compte>
+         <Depart>2*8+2</Depart>
+         <Choregraphe>Montse and Laia</Choregraphe>
+         <Musique>I'm Alright</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Laid Back "Country"</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Vikki Morris</Choregraphe>
+         <Musique>Ready To Roll</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Lake Darbonne</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 R</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Lake Darbonne</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Lalali</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Lili and Mario</Choregraphe>
+         <Musique>This Is Not Goodbye</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Last Cowboy</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Silvia Calsina</Choregraphe>
+         <Musique>Last Living Cowboy</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Late Express</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Silvia Denise Staiti</Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Lay Low</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Darren Bailey</Choregraphe>
+         <Musique>Lay Low</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Leaving Of Liverpool</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>8</Depart>
+         <Choregraphe>Maggie Gallagher</Choregraphe>
+         <Musique>The Leaving Of Liverpool</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Less Travelled</Name>
+         <Niveau>I</Niveau>
+         <Compte>A64/b32 T32</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>The Road Less Travelled</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Let You Go</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2 T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Roll In The Hay</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Leti</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>"Country" Junkie</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Lets Go</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab Ttr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Magali Lebrun and Julien Balme</Choregraphe>
+         <Musique>Friday Night Drunk</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Letting Go</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>Ain't Lettin' Go"</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Liar Liar</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8+4</Depart>
+         <Choregraphe>Fatima Ouhibi</Choregraphe>
+         <Musique>Liar, Liar</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Life Is Better</Name>
+         <Niveau>N</Niveau>
+         <Compte>56/2 Rtt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Marie Claude Gil</Choregraphe>
+         <Musique>Recording Grinning</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Like A Memory</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lili and Mario</Choregraphe>
+         <Musique>I Can't Sleep</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Like A Rose</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>The Lost Cowboy</Choregraphe>
+         <Musique>Like A Rose</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Like You Want</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Jean Marc Lejeune</Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Lindy Shuffle</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Jane Smee</Choregraphe>
+         <Musique>I Need More Of You</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Lips So Close</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rafel Corbi</Choregraphe>
+         <Musique>When Your Lips Are So Close</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Little Baby</Name>
+         <Niveau>N</Niveau>
+         <Compte>66/2 Trr</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>I'm Gonna Get You</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Little Bit Of Luck</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Fred</Choregraphe>
+         <Musique>A Little Bit Of Luck</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Little Bit Cajun</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Rob Fowler</Choregraphe>
+         <Musique>Empty</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Little Kiss Me Honey</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Kitty Van Der Westen</Choregraphe>
+         <Musique>Kiss Me Honey Honey</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Little Liza Jane</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Niels Poulsen</Choregraphe>
+         <Musique>Liza Jane</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Little Rhumba</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Like She's Not Lyours</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Little Rock And Roll</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rob Fowler</Choregraphe>
+         <Musique>Little Bit Rock N Roll</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Little Rope</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Claude Mela</Choregraphe>
+         <Musique>I Like You A Lot</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Little Tiago</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 R</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>I Think I Like It Here</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Little Wagon Wheel</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Gaye Teather</Choregraphe>
+         <Musique>Wagon Wheel</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Little White Church</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/2 Ttrt</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Nathalie Di Vito</Choregraphe>
+         <Musique>Little White Church</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Live Laugh Love</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Live Laugh Love</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Livin On Love</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Livin On Love</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Lock Out</Name>
+         <Niveau>I</Niveau>
+         <Compte>64</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Mokkamann</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Loco Cash</Name>
+         <Niveau>I</Niveau>
+         <Compte>Abc</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lolita Tournatory</Choregraphe>
+         <Musique>Independent Trucker</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Long Hot Summer</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Long Hot Summer</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Long Live Rock and Roll</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Darren Bailey, Fred Whitehouse</Choregraphe>
+         <Musique>Long Live Rock N' Roll</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Long Long Way</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Maureen And Michele Jones</Choregraphe>
+         <Musique>Long Long Way</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Long Pride</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>It's Gonna Take A Little Bit Longer</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Look Around</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 4r</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Take A Look Around</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Lord Help Me</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Marie Sorensen</Choregraphe>
+         <Musique>Lord Help Me Be The Kind Of Person</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Losers And Winners</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Anna Balaguer</Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Lost In Me</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Wagon Wheel</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Love Good For The Heart</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Maxence Bail</Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Love Me</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Love Me Just A Little Bit Longer</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Love S Gonna Make It</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Love Story</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Love Story</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Love Trick</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Love You Too Much</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Love You Too Much</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Loveline</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Silvia Denise Staiti</Choregraphe>
+         <Musique>How Ill Always Be</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Lover Please Come Back</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/p</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bobby Houle</Choregraphe>
+         <Musique>Lover Please Please Come Back</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Loves Gonna Make It</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Dan Albro</Choregraphe>
+         <Musique>Love's Gonna Make It Alright</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Lucky You</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Ami Carter</Choregraphe>
+         <Musique>Lucky You</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Lunam</Name>
+         <Niveau>I</Niveau>
+         <Compte>A64b32/1</Compte>
+         <Depart></Depart>
+         <Choregraphe>Silvia Denise Staiti and David Villellas</Choregraphe>
+         <Musique>"Country" Soul</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Mandd</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Marie Machu and Dominique Tritsch</Choregraphe>
+         <Musique>Dancing Int The Moonlight</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Mandj</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Some Lessons Learned</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Make This Day</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4 Rr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Rachael Mcenaney</Choregraphe>
+         <Musique>Make This Day</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Makita</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Kate Sala and Robbie Mcgowan Hickie</Choregraphe>
+         <Musique>Just One Time</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Mama!</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Phil Cheve</Choregraphe>
+         <Musique>Mama</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Marti</Name>
+         <Niveau>D</Niveau>
+         <Compte>24/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Anna Balaguer</Choregraphe>
+         <Musique>Paint The Town Tonight</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Mary Mary</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4 T</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Mary</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Maverockin</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Gaye Teather</Choregraphe>
+         <Musique>As Long As There's Loving Tonight</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>May Be</Name>
+         <Niveau>N</Niveau>
+         <Compte>32 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lolita Tournatory</Choregraphe>
+         <Musique>Busted Rear Mirror</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Mayday</Name>
+         <Niveau>A</Niveau>
+         <Compte>Abc T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Mario Hollnsteiner</Choregraphe>
+         <Musique>Heyday Tonight</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Me And You Back At Mama S</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>Meanwhile Back At Mama's</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Mercedes Benz</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Britt Christoffersen</Choregraphe>
+         <Musique>Mercedes Benz</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Messed Up In Memphis</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4 R</Compte>
+         <Depart>8*8</Depart>
+         <Choregraphe>Dee Musk</Choregraphe>
+         <Musique>Messed Up In Memphis</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Messed Up In Memphis Deb</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart>8*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Messed Up In Memphis</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Mestei</Name>
+         <Niveau>I</Niveau>
+         <Compte>60/2 Tr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Tell Me I'm Wrong</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Mexican Wind</Name>
+         <Niveau>I</Niveau>
+         <Compte>96/p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Mexican Wind</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Midnigt Train</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Severine Fillion and Adriano Castagnoli</Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Million Dollar</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>6*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Million Dollar Blues</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Mimi</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Teki Anna Bolos Cardona</Choregraphe>
+         <Musique>Chevy Coupe</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Mistery Machine</Name>
+         <Niveau>N</Niveau>
+         <Compte>64 4r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Motor "Country" "Catalan" Band</Choregraphe>
+         <Musique>Wherever You Go</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Monday For Two</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Jocelyne Milville</Choregraphe>
+         <Musique>Except For Monday</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Mountain Man</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Rrrr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Mountain Man</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Mr Policeman</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Ria Vos</Choregraphe>
+         <Musique>Mr Policeman</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Muntsa</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Kids Forever</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>My Blue Jeans</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 Rt</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>If You Love Somebody</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>My Dear Juliet</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Pilar Perez Solera</Choregraphe>
+         <Musique>My Dear Juliet</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>My Everything</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Dee Musk</Choregraphe>
+         <Musique>Center Of My World</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>My First Dance</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Achy Brocken Heart</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>My Glory Day</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Silvia Denise Staiti</Choregraphe>
+         <Musique>Lookin Out My Backdoor</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>My Heart Is Yours</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Neus</Choregraphe>
+         <Musique>My Heart Won</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>My Man</Name>
+         <Niveau>A</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>My Maria</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>My Maria</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>My Truck</Name>
+         <Niveau>D</Niveau>
+         <Compte>36/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Me And My Truck</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>My Utopia</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Ole Jacobson</Choregraphe>
+         <Musique>Utopia</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Never Ever</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 Tt</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>No No Never</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Never Let Go</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>When Your Lips Are So Close</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Nevermind</Name>
+         <Niveau>A</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Las Vegas Gold</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>No Problem</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Little Bit</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Nomes Per Tu</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/1</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Amics Del "Country" Sands</Choregraphe>
+         <Musique>Italian Line Dance Crowd</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Not Fair</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Not Fair</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Nothin Like You</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 R</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Claude Mela</Choregraphe>
+         <Musique>Nothinlike You</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Nothing To Loose</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Novocaine</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Oh My Darling</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Oh Suzanna</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Guylaine Bourdages</Choregraphe>
+         <Musique>Oh Suzanna</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Old Beach Roller Coaster</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Martina Ecke</Choregraphe>
+         <Musique>Roller Coaster</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Old Dan Tucker</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Guy Lories and Juliette Tobbak</Choregraphe>
+         <Musique>Old Dan Tucker</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Old Friend</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Ed Lawton</Choregraphe>
+         <Musique>My Old Friend</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Old River</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Ain't That The Way It Always Ends</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>On The Rocks</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Peter Metelnick</Choregraphe>
+         <Musique>The Streets Of Nashville</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>One</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>One and One</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>One For The Road</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/1 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Genevieve Darrot - Roberto Sanchez</Choregraphe>
+         <Musique>One For The Road</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Open Heart Cowboy</Name>
+         <Niveau>N</Niveau>
+         <Compte>62/2 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Sandrine Tassinari and Magali Lebrun</Choregraphe>
+         <Musique>Little Yellow Blanket</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Oregon</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Silvia Denise Staiti</Choregraphe>
+         <Musique>Getaway Truck</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Overrated</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Alison Biggs and Peter Metelnick</Choregraphe>
+         <Musique>Overrated</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>P3</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Gabi Ibanez</Choregraphe>
+         <Musique>Take It Or Break It</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Patient Heart</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/2 P</Compte>
+         <Depart>8</Depart>
+         <Choregraphe>Michael Vera-lobos and Lisa Foord</Choregraphe>
+         <Musique>Patient Heart</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Peace Love And Horses</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Jojo "Country"</Choregraphe>
+         <Musique>Peace Love And Horses</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>People Are Crazy</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Gaye Teather</Choregraphe>
+         <Musique>People Are Crazy</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Perfect Day</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Perfect Deal</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 Rr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>She's Callin It Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Phoenix</Name>
+         <Niveau>I</Niveau>
+         <Compte>58/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Blue Radio</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Pick A Ball</Name>
+         <Niveau>D</Niveau>
+         <Compte>8/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Pizza And Beer</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Adriano Castangnoli</Choregraphe>
+         <Musique>Dreaming Enough To Get Me By</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Pizzirico</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Dynamite Dot</Choregraphe>
+         <Musique>Pizzirico</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Play</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Silvia Denise Staiti</Choregraphe>
+         <Musique>Play</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Pot Of Gold</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Dance Above The Rainbow</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Power</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Power</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Powerful Thing</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Priority</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Chicken Fried</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Priscilla</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 4r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique>Priscilla</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Pure Love</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Push For The Stride</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Caroline Cooper</Choregraphe>
+         <Musique>Push For The Stride</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Quater After One</Name>
+         <Niveau>I</Niveau>
+         <Compte>56/4 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Need You Now</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Quickly</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Working On A Tan</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Quim</Name>
+         <Niveau>I</Niveau>
+         <Compte>72/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Neus Lloveras</Choregraphe>
+         <Musique>Angel Of The Night</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Quitter</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Maggie Gallagher</Choregraphe>
+         <Musique>Quitter</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Radio Romp</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Elisa Portelli</Choregraphe>
+         <Musique>Reading Alone</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Raindrop</Name>
+         <Niveau>A</Niveau>
+         <Compte>80/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Moggia</Choregraphe>
+         <Musique>Wheatherbeaten Soul</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Rainy Day</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Fatima Ouhibi</Choregraphe>
+         <Musique>Save It For A Rainy Day</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Rainy Night</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>David Sickles</Choregraphe>
+         <Musique>I Love A Rainy Night</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Razor Sharp</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Recall</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Moggia</Choregraphe>
+         <Musique>If The World Had A Front Porch</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Recto Verso</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Red Camaro</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/2 Tt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Daniel Trepat</Choregraphe>
+         <Musique>Red Camaro</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Red Hot Salsa</Name>
+         <Niveau>D</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Red Hot Salsa</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Redneck Woman</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Reds</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Anna Balaguer</Choregraphe>
+         <Musique>Red</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Rhyme Or Reason</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rachael Mcenaney</Choregraphe>
+         <Musique>It Happenes</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Ride The River</Name>
+         <Niveau>I</Niveau>
+         <Compte>48</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Ride The River</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Ridin</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Riggin</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Sandrine Tassinari</Choregraphe>
+         <Musique>One Hand In The Riggin</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Rio</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Big Blue Note</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Rock Paper Scissor</Name>
+         <Niveau>I</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Rock Yourself</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Amandine Marchand</Choregraphe>
+         <Musique>How Long</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Rockin With The Rhythm</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rob Fowler</Choregraphe>
+         <Musique>Rockin With The Rhythm Or The Rain</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Roll In The Hay</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Annie Corthesy</Choregraphe>
+         <Musique>Roll In The Hay</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Rumba Stroll</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Run Around Sue</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Runaround Sue</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Run Away</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Too Good Of A Day</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Runaway</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Stefano Civa</Choregraphe>
+         <Musique>Sunday Drive</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Rythme Of The Road</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sahara</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Pilar Solera</Choregraphe>
+         <Musique>I Want A Girl In A Pick Up Truck</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sail Away</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 4r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Cathy Dumoulin</Choregraphe>
+         <Musique>Sail Away</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Salem</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 3tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Montse Bou, Cristina Mora, Olga Tormo, Leonor Pallares</Choregraphe>
+         <Musique>When I Was A Kid</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Seminol Wind</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/c</Compte>
+         <Depart></Depart>
+         <Choregraphe>Inconnu</Choregraphe>
+         <Musique>Seminole Wind</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Settle Down</Name>
+         <Niveau>I</Niveau>
+         <Compte>80/4 5t3r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Syndie Berger</Choregraphe>
+         <Musique>Settle Down</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Seventy 4</Name>
+         <Niveau>I</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sexy Tractor Fun</Name>
+         <Niveau>N</Niveau>
+         <Compte>40/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Inconnu</Choregraphe>
+         <Musique>She Thinks My Tractor\'s Sexy</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Shake This Town</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Amandine Cristofol</Choregraphe>
+         <Musique>Shake This Town</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>She Is</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>That Was Us</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>She Knows</Name>
+         <Niveau>I</Niveau>
+         <Compte>64 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lili and Mario</Choregraphe>
+         <Musique>Can t Say No</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sheriff On Fire</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Party For Two</Choregraphe>
+         <Musique>Ring Of Fire</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Shore Thing</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Eddie Huffman</Choregraphe>
+         <Musique>Shore Thing</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Short Time</Name>
+         <Niveau>I</Niveau>
+         <Compte>68/2</Compte>
+         <Depart>4*8+4</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Chicken Pickin</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Shotgun</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Shotgun Rider</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Shotgun House</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Shane Worley</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Shotgun Rider!</Name>
+         <Niveau>I</Niveau>
+         <Compte>68/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Noe Roldan</Choregraphe>
+         <Musique>Shotgun Rider</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Side Of Love</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Wrong Side Of Love</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Silver Lining</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Maggie Gallagher</Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Simple Life</Name>
+         <Niveau>N</Niveau>
+         <Compte>Abc</Compte>
+         <Depart></Depart>
+         <Choregraphe>Anne Adohi</Choregraphe>
+         <Musique>Simple Life</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sixteen Steps</Name>
+         <Niveau>D</Niveau>
+         <Compte>24/p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Where Am I Gonna Live</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Skiff A Billy</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Skiffle Time</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart>3*8</Depart>
+         <Choregraphe>Darren Bailey</Choregraphe>
+         <Musique>Mama Don't Allow</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sky Bumpus</Name>
+         <Niveau>D</Niveau>
+         <Compte>40/f</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Man, I Feel Like A Woman</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Slap And Stomp</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8+4</Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>Hollywood</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Slappin Leather</Name>
+         <Niveau>D</Niveau>
+         <Compte>40/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Gayle Brandon</Choregraphe>
+         <Musique>Paivement End</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Small Town</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 2r</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Smoke 'em If You Got 'em</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Smallest Town</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Algaly Fofana</Choregraphe>
+         <Musique>Smallest Town On Earth</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Smile and Beers</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab 2t</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Life Don't Get Much Better ...</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Smile Again</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>I Fell In Love</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Smiling Song</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Michelle Risley</Choregraphe>
+         <Musique>Smilin Song</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Smiling+</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/1</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Marta Agut</Choregraphe>
+         <Musique>Anytime I'm Smiling</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Smoky Bar</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Moggia</Choregraphe>
+         <Musique>When It Rains</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Snuggled Up</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Mario Niederhuber</Choregraphe>
+         <Musique>That Thing We Do</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>So Much</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>6*8</Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>Take Me Home With You</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Socks And Diapers</Name>
+         <Niveau>A</Niveau>
+         <Compte>Phabc/1</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Favorite State Of Mind</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Solar Power</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 R</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Working On A Tan</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Solitary Man</Name>
+         <Niveau>N</Niveau>
+         <Compte>56/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>If I Were A Stranger</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Solomon River</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Where The Solomon River Flows</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Some Beach</Name>
+         <Niveau>I</Niveau>
+         <Compte>40/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Some Beach</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Somebody Like You</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/2 Rr</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Somebody Like You</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Something Good</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lilly Hollnsteiner</Choregraphe>
+         <Musique>On To Something Good</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Something In The Water</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Niels B. Poulsen</Choregraphe>
+         <Musique>Something In The Water</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Something!</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Motor "Country" "Catalan" Band</Choregraphe>
+         <Musique>Somethin' Like Somethin</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Somewhere Else</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>Somewhere Else</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Somewhere In My Car</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rachael Mcenaney</Choregraphe>
+         <Musique>Somewher In My Car</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Somewhere!</Name>
+         <Niveau>I</Niveau>
+         <Compte>72/2 3r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique>Somewhere Off 35</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Song To You</Name>
+         <Niveau>I</Niveau>
+         <Compte>Abc /1</Compte>
+         <Depart></Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>My Song To You</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Soooh</Name>
+         <Niveau>I</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Soul Mate</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab Tr</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Maeva and Maelys</Choregraphe>
+         <Musique>No Place Like You</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Soundchaser</Name>
+         <Niveau>I</Niveau>
+         <Compte>108/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Have We Reached The Bottom Yet</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>South Of Santa Fe</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>South Of Santa Fe</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Southern</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Trouble Is A Woman</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Speak To The Sky</Name>
+         <Niveau>N</Niveau>
+         <Compte>56/2 Tt</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Spring Rain</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Springsteen</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Gail Smith</Choregraphe>
+         <Musique>Springsteen</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Stay Strong</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Absolutely Positively</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Stay Up Tonight</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>I Don't Want This Night To End</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Stay!</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lili and Mario</Choregraphe>
+         <Musique>Stay With Me</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Stealing The Best</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Danse Above The Rainbow</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sticks And Stones</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Sticks And Stones</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Stomp</Name>
+         <Niveau>A</Niveau>
+         <Compte>Ab Tt</Compte>
+         <Depart>6*8</Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique>Stomp</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Stop And Cafe</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Jack's Truck Stop And Cafe</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Stop Crying</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Cati Torrella</Choregraphe>
+         <Musique>I'm So Happy That I Can't Stop Crying</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Straight On</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Strangers</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Adolfo Calderero</Choregraphe>
+         <Musique>Picking Up Stranger</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Stroll Along Cha Cha</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>I Just Want To Dance With You</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Suds In The Bucket</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Yvonne Anderson</Choregraphe>
+         <Musique>Suds In The Bucket</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sugar And Pai</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>1*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Sugar And Pai</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sugar Kane</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>It Happens</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Summer Fly</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Summer Fly</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Summertime</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 Ttt</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Where The Summertime Never Ends</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sunbeam</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4 Rr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Bruno Moggia</Choregraphe>
+         <Musique>Sunbeam</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sunrise</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart>8*8</Depart>
+         <Choregraphe>Lidia Calderero and Edu Roldos</Choregraphe>
+         <Musique>Leavin' Stephenville</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sunset</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>You Belong With Me</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sunset Lovin</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>The Ball Breakers</Choregraphe>
+         <Musique>Sunset Lovin</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sunshine Express</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Superheroes</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 2r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique>Lifelines And Superheroes</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sway</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>It's Your Call</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sweet Dance</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Sweet Spot</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sweet Dummy</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Montse Sweet</Choregraphe>
+         <Musique>Shotgun</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sweet Fanny</Name>
+         <Niveau>A</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique>Roll In The Hay</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sweet Goodbye</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Sweet Goodbye</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sweet Home*</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lolita Tournatory</Choregraphe>
+         <Musique>Home</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sweet Love</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Montse Sweet</Choregraphe>
+         <Musique>Little Things</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Sweet Loving</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sweet Maureen</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rafel Corbi</Choregraphe>
+         <Musique>Sweet Maureen/</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sweet Ride</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Sweetheart Cha Cha</Name>
+         <Niveau>I</Niveau>
+         <Compte>36/4p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>It Must Be Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sweets and Wilds</Name>
+         <Niveau>I</Niveau>
+         <Compte>56/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Montse, Rebeca, Aleix, Jordi</Choregraphe>
+         <Musique>Big Dog Daddy</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sweety</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Montse Chafino</Choregraphe>
+         <Musique>You Already Love Me</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Tag On</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 Rr</Compte>
+         <Depart>5*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Too Strong To Break</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Tailgate</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Tailgate</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Take It Easy</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>I+8</Depart>
+         <Choregraphe>Nathalie Bertizberea</Choregraphe>
+         <Musique>Take It Easy</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Take Me Away</Name>
+         <Niveau></Niveau>
+         <Compte>64/2 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>Road I'm On</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Talk Is Cheap</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>8*8</Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>Talk Is Cheap</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Tatoo</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Tavern Times</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>1*8</Depart>
+         <Choregraphe>Marie-france Simon Et Nadege Gadriot</Choregraphe>
+         <Musique>Honkytonk Life</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Teen's</Name>
+         <Niveau>A</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Telepathy</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Chris Hodgson</Choregraphe>
+         <Musique>You Can_t Read My Mind</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Telescopic</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rob Fowler</Choregraphe>
+         <Musique>Telescope</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Tell Me Ma</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Tell Me Ma</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Tell Me Why</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Mishi Ziminski</Choregraphe>
+         <Musique>Tell Me</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Tennessee Mountain</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Lydie Bonnet</Choregraphe>
+         <Musique>Tennessee Bound</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Tennessee Skies</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Esther and Jose</Choregraphe>
+         <Musique>Nomad</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Terrible S Girls</Name>
+         <Niveau>N</Niveau>
+         <Compte>Abc</Compte>
+         <Depart>3*8</Depart>
+         <Choregraphe>Girls Meeting</Choregraphe>
+         <Musique>Terribles Two</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Texas Waltz</Name>
+         <Niveau>D</Niveau>
+         <Compte>36/p</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Dream On Texas Ladies</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Thank You Folks</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Amics Del "Country" Sands</Choregraphe>
+         <Musique>Thank You Folks</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Thanks A Lot</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Maribel Vives</Choregraphe>
+         <Musique>Thanks A Lot</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Thanks A Lot Cat</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Maribel Vives</Choregraphe>
+         <Musique>Thanks A Lot</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Thanks To You</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>I'll Think Of You That Way</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>That Don't Impress Me Much</Name>
+         <Niveau>N</Niveau>
+         <Compte>96/</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>That S All</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>That "Country" Girl</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>The Boat To Liverpool</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart>3*8</Depart>
+         <Choregraphe>Ross Brown</Choregraphe>
+         <Musique>On The Boat To Liverpool</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>The Boss</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Silvia Calsina</Choregraphe>
+         <Musique>Old Dan Tucker</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>The Cursty Cross</Name>
+         <Niveau>D</Niveau>
+         <Compte>40/f</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Pop A Top</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>The Final Test</Name>
+         <Niveau>I</Niveau>
+         <Compte>72/2 Rr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Marie Claude Gil</Choregraphe>
+         <Musique>Feral Kev and General Leeroy</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>The Gambler</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4 Tt</Compte>
+         <Depart>8</Depart>
+         <Choregraphe>Guy Dube and Denis Henley</Choregraphe>
+         <Musique>The Gambler (remix)</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>The Harvester</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>The Harvester</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>The Killer Love</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Valerie Azibert</Choregraphe>
+         <Musique>Wrong Side Of The Bed</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>The Party</Name>
+         <Niveau>N</Niveau>
+         <Compte>64 3r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Black Angels Belgium</Choregraphe>
+         <Musique>Wasn' T That A Party</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>The Past Behind</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>The Shoebox</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Dee Musk</Choregraphe>
+         <Musique>The Shoebox</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>The Spirit</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Karl Cregeen</Choregraphe>
+         <Musique>Spirit Of The Hawk</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>The Trail</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Judy Mcdonald</Choregraphe>
+         <Musique>Trail Of Tears</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>The Underdog</Name>
+         <Niveau>A</Niveau>
+         <Compte>Ab</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Underdog</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>The World</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Maggie Gallagher</Choregraphe>
+         <Musique>The World</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>This And That</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>16</Depart>
+         <Choregraphe>Gary Lafferty</Choregraphe>
+         <Musique>Woman</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Three Crosses</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Xavier Morano and Mari Carmes Garre</Choregraphe>
+         <Musique>Three Wooded Crosses</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Thunder Road</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Blues</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Timber</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Ivonne Verhagen</Choregraphe>
+         <Musique>Timber I'm Falling In Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Timebomb</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>The One For Me</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>To Be Continued</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas and Silvia Denise Staiti</Choregraphe>
+         <Musique>One Good Night</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>To Be Lucky</Name>
+         <Niveau>N</Niveau>
+         <Compte>32 3r1p</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lolita Tournatory</Choregraphe>
+         <Musique>Luck</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>To Be Saved</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adolfo Calderero</Choregraphe>
+         <Musique>To Be Saved</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Toes</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>60</Depart>
+         <Choregraphe>Rachael Mcenaney</Choregraphe>
+         <Musique>Toes</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Told You So</Name>
+         <Niveau>I</Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>The Girls</Choregraphe>
+         <Musique>I Told You So</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Tomorrow Never Knows</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>T'morrow Never Know</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Tonight</Name>
+         <Niveau>I</Niveau>
+         <Compte>64 3r1t</Compte>
+         <Depart></Depart>
+         <Choregraphe>Lolyta Tournatory</Choregraphe>
+         <Musique>Goin' Out Tonight</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Too Lucky</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Boys In The Band</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Too Much Fun</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Fatima Ouhibi</Choregraphe>
+         <Musique>Too Much Fun</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Tornado</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Manu Santos</Choregraphe>
+         <Musique>Daddy's Little Girl</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Tour In Mexico</Name>
+         <Niveau>N</Niveau>
+         <Compte>Ab/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Coffey Anderson</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Tower Town</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Trailerhood</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Peter Metelnick and Alison Biggs</Choregraphe>
+         <Musique>Trailerhood</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Train Of Dreams</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>S</Choregraphe>
+         <Musique>Trains I Missed</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Trick Rider</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 Tt</Compte>
+         <Depart>5*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Trick Rider</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Trinity</Name>
+         <Niveau>D</Niveau>
+         <Compte>44/2 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>They Call Mi Trinity</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Truck A Truck</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Six De Luxe</Choregraphe>
+         <Musique>A Girl Who Loves To Truck</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Turn It On Cowboy</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 Tr</Compte>
+         <Depart>1*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Turn In On, Turn It Up, Turn Me Loose</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Tush Push</Name>
+         <Niveau>D</Niveau>
+         <Compte>40/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Every Little Thing</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Twist And Shake</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>The Shake</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Twist And Turn</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Two Boys</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 Contra</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>F Alemany Et J Castellano</Choregraphe>
+         <Musique>Sailor Boy</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Under Love</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 Rt</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Yes</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Under The Kilt</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Undone</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/2 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Sandrine Tassinari</Choregraphe>
+         <Musique>Undone</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Urban Grace</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>But For The Grace Of God</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Verdi West</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 C</Compte>
+         <Depart></Depart>
+         <Choregraphe>Anna M. Guillen</Choregraphe>
+         <Musique>Talk Is Cheap</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Virginia</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Born In Virginia</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Virginie</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>If I Died Today</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Walk Down Town "mini"</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Tine Norup</Choregraphe>
+         <Musique>Somewhere Else</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Walk Of Life</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Walk A Life</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Walking Away</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Rachael Mcenaney</Choregraphe>
+         <Musique>As She's Walking Away</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Wanderer</Name>
+         <Niveau>D</Niveau>
+         <Compte>48/f</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Thierry Bouvet</Choregraphe>
+         <Musique>The Wanderer</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Wanna Dance</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>Makes You Wanna Sang</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Wave On Wave</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Alan Birchall</Choregraphe>
+         <Musique>Wave On Wave</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Wayfaring Stranger</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Wayfaring Stranger</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>We Are Tonight</Name>
+         <Niveau>I</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Dan Albro</Choregraphe>
+         <Musique>We Are Tonight</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>We Own The Night</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Peter Metelnick and Alison Biggs</Choregraphe>
+         <Musique>We Owned The Night</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>We Were Us</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Well Well Well</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab64/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Edu Et Lidia</Choregraphe>
+         <Musique>Well Well Well</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>West And Girl</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>West Party</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Lets Talk About Love</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Western Barn Dance</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>What I Love</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Fatima Ouhibi</Choregraphe>
+         <Musique>You Are You Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>What S Up</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>D. Shadows</Choregraphe>
+         <Musique>Let's Kill Saturday Night</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Whatcha Reckon</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Whatcha Reckon</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>When Love Comes Around</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Marie Sorensen</Choregraphe>
+         <Musique>When Love Comes Around</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Where I Belong</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Maggie Gallagher</Choregraphe>
+         <Musique>That\'s Where I Belong</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Where The Wind Blows</Name>
+         <Niveau>I</Niveau>
+         <Compte>102/1</Compte>
+         <Depart></Depart>
+         <Choregraphe>Alison and Peter</Choregraphe>
+         <Musique>The Wind</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Whiskey Instead Of Wine</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Vikki Morris</Choregraphe>
+         <Musique>Weed Instead Of Roses</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Whiskey S Gone</Name>
+         <Niveau>N</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>White Rose</Name>
+         <Niveau>N</Niveau>
+         <Compte>36/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Gaye Teather</Choregraphe>
+         <Musique>White Rose</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Whole Again</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Whole Again</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Why Not</Name>
+         <Niveau>A</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Wild Stallion</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Hillbilly Rick</Choregraphe>
+         <Musique>Ghost Riders In The Sky</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Wildfire</Name>
+         <Niveau>A</Niveau>
+         <Compte>Abc T</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Lili and Mario</Choregraphe>
+         <Musique>Wildfire</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Will To Try</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/4</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Bruno Morel</Choregraphe>
+         <Musique>Get Him This Time</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Wish You</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Sandrine Tassinari</Choregraphe>
+         <Musique>Stay Stay Stay</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Wishful Thinking</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/2</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Jim Oneill</Choregraphe>
+         <Musique>Lovin All Night</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Woah Woah Yeah Yeah</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tt</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Strikesha2's</Choregraphe>
+         <Musique>If That Ain't Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Woman In Dance</Name>
+         <Niveau>I</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Woman Trouble</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Tina Argyle and Karlharry Winson</Choregraphe>
+         <Musique>Take It Easy</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Wood Leg Stomp</Name>
+         <Niveau></Niveau>
+         <Compte>48/2</Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique>Doreen</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Would You Go With Me</Name>
+         <Niveau>I</Niveau>
+         <Compte>52/4 T</Compte>
+         <Depart>6x8+4</Depart>
+         <Choregraphe>Yvonne Anderson</Choregraphe>
+         <Musique>Would You Go With Me</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Yaboy</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Anna Campmajo</Choregraphe>
+         <Musique>Long Time Gone</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Yee Haa</Name>
+         <Niveau>D</Niveau>
+         <Compte>16/4</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Dennis Foley and Verity Mills</Choregraphe>
+         <Musique>Wrapped Around</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>You and Me</Name>
+         <Niveau>A</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>You Ain T Alone</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>You Better Run</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>You Better Run</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>You Get It</Name>
+         <Niveau>A</Niveau>
+         <Compte>Ph/1</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Ready To Go</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>You Got Away</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>You Look Good In My Shirt</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Roma's Rebels</Choregraphe>
+         <Musique>You Look Good In My Shirt</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>You Mean To Me</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Sandrine Tassinari and Magali Lebrun</Choregraphe>
+         <Musique>Karma</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Your Side Of Town</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/4</Compte>
+         <Depart></Depart>
+         <Choregraphe>Neville Fitzgerald and Julie Harris</Choregraphe>
+         <Musique>Your Side Of Town</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Come Over</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 2r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Algaly and Manu</Choregraphe>
+         <Musique>Come Over</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>For You</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/2 Rt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Maeva and Maelys</Choregraphe>
+         <Musique>Bluebonnets</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>14 Reasons</Name>
+         <Niveau>I</Niveau>
+         <Compte>64 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Feels Like Love</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Why Lie</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>Good Things In Life</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>"Country" Circle</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Mario and Lilly</Choregraphe>
+         <Musique>Will The Circle</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Enjoy</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 2r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Maite and Fred Barcelot</Choregraphe>
+         <Musique>Bring On The Good Time</Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Found</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>"Country" Rhone Valley</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Julian</Name>
+         <Niveau>A</Niveau>
+         <Compte>Ab /2t</Compte>
+         <Depart></Depart>
+         <Choregraphe>Meeting Point Group</Choregraphe>
+         <Musique>Legs</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Already Gone</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 R</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>The Teachers</Choregraphe>
+         <Musique>I'm Already Gone</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Holly's Church</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/4 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Mario and Lilly</Choregraphe>
+         <Musique>Mu Church</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>French Kiss</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique>Our First Kiss</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Broken Bridges</Name>
+         <Niveau>N</Niveau>
+         <Compte>48/2 Tr</Compte>
+         <Depart>2*8</Depart>
+         <Choregraphe>Claude Mela</Choregraphe>
+         <Musique>Broken Bridges</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Better Together</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Silvia Denise Stati</Choregraphe>
+         <Musique>Litle Crush</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Texas Dirt</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 2r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Moggia</Choregraphe>
+         <Musique>East Texas Dirt Road</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Tanja</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 Rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Claude Mela</Choregraphe>
+         <Musique>Where Did I Go Wrong</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Face To Face</Name>
+         <Niveau>A</Niveau>
+         <Compte>Ab T1t2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Soggy Bottom Summer</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Hangin Around</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Fatima Houhibi</Choregraphe>
+         <Musique>Hangin Around</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Monroe</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Teddy Fournet</Choregraphe>
+         <Musique>Monroe Suede</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Family Friends</Name>
+         <Niveau>N</Niveau>
+         <Compte>32/rr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Edu Roldos and Lidia Calderero</Choregraphe>
+         <Musique>Friends</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Chop</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 Rr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Montse Chafino</Choregraphe>
+         <Musique>Shut Up And Fish</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Do Dat Diddly Ding Dang</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Drift Away</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab 64 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Teddy Fournet</Choregraphe>
+         <Musique>Drift Away</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Darklight</Name>
+         <Niveau>I</Niveau>
+         <Compte>64 Trtr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Silvia Denise Stati</Choregraphe>
+         <Musique>The Rearview And Me</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Once Upon A Time</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/2 Tr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Virginie Barjaud</Choregraphe>
+         <Musique>You Ain't Doing It Right</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Four Hearts</Name>
+         <Niveau>N</Niveau>
+         <Compte>64/2 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>The Dreamers</Choregraphe>
+         <Musique>Hearts Were Born To Fall</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Rolling Away</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Run Highway Run</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>District 51</Name>
+         <Niveau>D</Niveau>
+         <Compte>32 C</Compte>
+         <Depart></Depart>
+         <Choregraphe>David Villellas</Choregraphe>
+         <Musique>All Gods Creatures</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Go For A Walk</Name>
+         <Niveau>A</Niveau>
+         <Compte>Abc</Compte>
+         <Depart></Depart>
+         <Choregraphe>Jerome Grodkowski</Choregraphe>
+         <Musique>Walking On The Waves</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Rebel Hearts</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Bud Spencer</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Rt</Compte>
+         <Depart>8*8</Depart>
+         <Choregraphe>Adriano Castagnoli</Choregraphe>
+         <Musique>Living For The Jive</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Anywhere With You</Name>
+         <Niveau>N</Niveau>
+         <Compte>2/32 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Teddy Fournet</Choregraphe>
+         <Musique>Anywhere With You</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Es Per Tu</Name>
+         <Niveau>N</Niveau>
+         <Compte>4/32</Compte>
+         <Depart></Depart>
+         <Choregraphe>Montse Chafino</Choregraphe>
+         <Musique>Goin' To The Beach</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Break In Mountain</Name>
+         <Niveau></Niveau>
+         <Compte>64/2 T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castognoli</Choregraphe>
+         <Musique>Did My Part</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>I Said It All</Name>
+         <Niveau></Niveau>
+         <Compte>Ab Tt /2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Montse Sweet</Choregraphe>
+         <Musique>I Said All That To Say All This</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>A Little Too Late</Name>
+         <Niveau></Niveau>
+         <Compte>64/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Mogia</Choregraphe>
+         <Musique>A Little Too Late</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Take A Little Drive</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 R</Compte>
+         <Depart></Depart>
+         <Choregraphe>Mario and Lilly</Choregraphe>
+         <Musique>Take A Little Drive</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>About Me</Name>
+         <Niveau></Niveau>
+         <Compte>64/2 Trr</Compte>
+         <Depart></Depart>
+         <Choregraphe>Silvia Denise Stati</Choregraphe>
+         <Musique>How Bout You</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Three Teacher</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 Rr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Araceli</Choregraphe>
+         <Musique>Head Over Heels</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Backbeat</Name>
+         <Niveau></Niveau>
+         <Compte>64/2 3t2r</Compte>
+         <Depart></Depart>
+         <Choregraphe>Merce Orriols</Choregraphe>
+         <Musique>For Lovin You</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Friends</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Sweet Home</Name>
+         <Niveau></Niveau>
+         <Compte>64/2 Rt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Montse and David</Choregraphe>
+         <Musique>What You Get Is What You See</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Heaven On Earth</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2</Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castognoli</Choregraphe>
+         <Musique>Heaven In My Women's Eyes</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Broken Windows</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Cajun Dance</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Shot Of Glory</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Teo Lattanzio</Choregraphe>
+         <Musique>Shot Of Glory</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Recreation Land</Name>
+         <Niveau>I</Niveau>
+         <Compte>64 Ttt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Teo Lattanzio</Choregraphe>
+         <Musique>Recreation Land </Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Think Your Present</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe>Adriano Castognoli</Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Puppies</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Guts</Name>
+         <Niveau>I</Niveau>
+         <Compte>64/2 Tt</Compte>
+         <Depart></Depart>
+         <Choregraphe>Bruno Mogia</Choregraphe>
+         <Musique>Authority Song</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Shot Of Glory</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Teo Lattanzio</Choregraphe>
+         <Musique>Shot Of Glory</Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>All Night Long</Name>
+         <Niveau>I</Niveau>
+         <Compte>Ab T</Compte>
+         <Depart></Depart>
+         <Choregraphe>Crazy Generation</Choregraphe>
+         <Musique>You Shook Me All Night Long</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Where I M Coming From</Name>
+         <Niveau>D</Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Guest Ranch</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Until Good Gets Here</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 T</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Gary Oreilly</Choregraphe>
+         <Musique>Good Gets Here</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Drinking With Dolly</Name>
+         <Niveau>D</Niveau>
+         <Compte>32/4 Tr</Compte>
+         <Depart>4*8</Depart>
+         <Choregraphe>Severine Fillion</Choregraphe>
+         <Musique>Drinking With Dolly</Musique>
+     </Danse>
+     <Danse Style="Country">
+         <Name>Rockland</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="Catalan">
+         <Name>Fine</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>Happy Happy Happy</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name>One Hundred</Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name></Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name></Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+     <Danse Style="NF">
+         <Name></Name>
+         <Niveau></Niveau>
+         <Compte></Compte>
+         <Depart></Depart>
+         <Choregraphe></Choregraphe>
+         <Musique></Musique>
+     </Danse>
+</Danses>
