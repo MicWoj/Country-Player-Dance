@@ -36,6 +36,7 @@ Public Class CountryPlayer
         'RAZ buton
         ButtonMusic.Enabled = True
         ButtonPdf.Enabled = True
+        Button_OpenURL.Enabled = True
         AxAcroPDF1.LoadFile("none")
 
         Dim selChore As Chore
@@ -48,6 +49,15 @@ Public Class CountryPlayer
         TextBoxArtist.Text = selChore.Artiste
         LabelPdfFile.Text = selChore.PdfPath
         LabelMusicFile.Text = selChore.MusicPath
+        Label_YoutubeURL.Text = selChore.Youtube
+
+        If Label_YoutubeURL.Text <> "" Then
+            Label_YoutubeURL.Text = "https://www.youtube.com/v/" & Label_YoutubeURL.Text
+            AxShockwaveFlash2.Show()
+        Else
+            Button_OpenURL.Enabled = False
+            AxShockwaveFlash2.Hide()
+        End If
 
         If LabelMusicFile.Text = "NF" Then
             ButtonMusic.Enabled = False
@@ -281,17 +291,18 @@ Public Class CountryPlayer
                         'Récupère le choregraph
                         document.ReadToNextSibling("Choregraphe")
                         laChore.Choregraph = document.ReadInnerXml.ToString()
+                        'Récupère l url Youtube
+                        document.ReadToNextSibling("Youtube")
+                        laChore.Youtube = document.ReadInnerXml.ToString()
                         'Récupère la musique
                         document.ReadToNextSibling("Musique")
                         laChore.Music = document.ReadInnerXml.ToString()
-                        'Récupère l Artiste
+                        'Récupère l'artiste
                         document.ReadToNextSibling("Artiste")
                         laChore.Artiste = document.ReadInnerXml.ToString()
                         'Récupère le chemin du pdf
-                        'laChore.PdfPath = FileInFolder(TextBoxPdfPath.Text, danse)
                         laChore.PdfPath = PdfInFolder(TextBoxPdfPath.Text, danse)
                         ''Récupère le chemin du music
-                        'laChore.MusicPath = FileInFolder(TextBoxMusicPath.Text, danse)
                         laChore.MusicPath = MusicInFolder(TextBoxMusicPath.Text, danse)
                         ProgressBar_Dance.Value() = i
                         i = i + 1
@@ -314,7 +325,8 @@ Public Class CountryPlayer
         End If
     End Sub
 
-    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
-        Label1.Text = getMacAddress()
+
+    Private Sub Button_OpenURL_Click(sender As System.Object, e As System.EventArgs) Handles Button_OpenURL.Click
+        AxShockwaveFlash2.Movie = Label_YoutubeURL.Text
     End Sub
 End Class

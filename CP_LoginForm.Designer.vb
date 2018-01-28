@@ -36,15 +36,17 @@ Partial Class CP_LoginForm
         Me.Cancel = New System.Windows.Forms.Button()
         Me.Label_TitleCP = New System.Windows.Forms.Label()
         Me.Label_VersionCP = New System.Windows.Forms.Label()
+        Me.Generate = New System.Windows.Forms.Button()
         CType(Me.LogoPictureBox, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'LogoPictureBox
         '
         Me.LogoPictureBox.Image = CType(resources.GetObject("LogoPictureBox.Image"), System.Drawing.Image)
-        Me.LogoPictureBox.Location = New System.Drawing.Point(0, 0)
+        Me.LogoPictureBox.Location = New System.Drawing.Point(12, 14)
         Me.LogoPictureBox.Name = "LogoPictureBox"
-        Me.LogoPictureBox.Size = New System.Drawing.Size(165, 193)
+        Me.LogoPictureBox.Size = New System.Drawing.Size(145, 166)
+        Me.LogoPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.LogoPictureBox.TabIndex = 0
         Me.LogoPictureBox.TabStop = False
         '
@@ -100,13 +102,23 @@ Partial Class CP_LoginForm
         Me.Label_VersionCP.TabIndex = 7
         Me.Label_VersionCP.Text = "Version 1.0"
         '
+        'Generate
+        '
+        Me.Generate.Location = New System.Drawing.Point(197, 190)
+        Me.Generate.Name = "Generate"
+        Me.Generate.Size = New System.Drawing.Size(197, 23)
+        Me.Generate.TabIndex = 8
+        Me.Generate.Text = "Obtenir une Clef"
+        Me.Generate.UseVisualStyleBackColor = True
+        '
         'CP_LoginForm
         '
         Me.AcceptButton = Me.OK
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.CancelButton = Me.Cancel
-        Me.ClientSize = New System.Drawing.Size(401, 192)
+        Me.ClientSize = New System.Drawing.Size(401, 217)
+        Me.Controls.Add(Me.Generate)
         Me.Controls.Add(Me.Label_VersionCP)
         Me.Controls.Add(Me.Label_TitleCP)
         Me.Controls.Add(Me.Cancel)
@@ -128,5 +140,6 @@ Partial Class CP_LoginForm
     End Sub
     Friend WithEvents Label_TitleCP As System.Windows.Forms.Label
     Friend WithEvents Label_VersionCP As System.Windows.Forms.Label
+    Friend WithEvents Generate As System.Windows.Forms.Button
 
 End Class

@@ -71,3 +71,33 @@ C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CountryPl
 C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.exe.manifest
 C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.application
 C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.CP_LoginForm.resources
+C:\Git\Country-Player-Dance\bin\Debug\CP_xml.exe.config
+C:\Git\Country-Player-Dance\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Git\Country-Player-Dance\obj\x86\Debug\Interop.WMPLib.dll
+C:\Git\Country-Player-Dance\obj\x86\Debug\Interop.WMPNSSCI.dll
+C:\Git\Country-Player-Dance\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Git\Country-Player-Dance\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Git\Country-Player-Dance\obj\x86\Debug\CountryPlayer.vbproj.ResolveComReference.cache
+C:\Git\Country-Player-Dance\obj\x86\Debug\CP_xml.exe
+C:\Git\Country-Player-Dance\obj\x86\Debug\CP_xml.xml
+C:\Git\Country-Player-Dance\obj\x86\Debug\CP_xml.pdb
+C:\Git\Country-Player-Dance\bin\Debug\CP_xml.exe.manifest
+C:\Git\Country-Player-Dance\bin\Debug\CP_xml.application
+C:\Git\Country-Player-Dance\bin\Debug\CP_xml.exe
+C:\Git\Country-Player-Dance\bin\Debug\CP_xml.pdb
+C:\Git\Country-Player-Dance\bin\Debug\CP_xml.xml
+C:\Git\Country-Player-Dance\bin\Debug\Interop.AcroPDFLib.dll
+C:\Git\Country-Player-Dance\bin\Debug\Interop.WMPLib.dll
+C:\Git\Country-Player-Dance\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Git\Country-Player-Dance\bin\Debug\AxInterop.WMPLib.dll
+C:\Git\Country-Player-Dance\obj\x86\Debug\CP_xml.CountryPlayer.resources
+C:\Git\Country-Player-Dance\obj\x86\Debug\CP_xml.CP_LoginForm.resources
+C:\Git\Country-Player-Dance\obj\x86\Debug\CP_xml.Resources.resources
+C:\Git\Country-Player-Dance\obj\x86\Debug\CountryPlayer.vbproj.GenerateResource.Cache
+C:\Git\Country-Player-Dance\obj\x86\Debug\CP_xml.exe.manifest
+C:\Git\Country-Player-Dance\obj\x86\Debug\CP_xml.application
+C:\Git\Country-Player-Dance\obj\x86\Debug\CP_xml.CP_keyGen.resources
+C:\Git\Country-Player-Dance\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Git\Country-Player-Dance\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Git\Country-Player-Dance\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Git\Country-Player-Dance\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll

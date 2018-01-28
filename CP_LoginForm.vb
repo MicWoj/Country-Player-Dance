@@ -11,11 +11,11 @@ Public Class CP_LoginForm
         ' string hexadécimal -> décimal
         lngMac = CLng(strMac)
         lngMac = lngMac * 2
-        keyPublic = CLng("&H" & PasswordTextBox.Text)
+        'keyPublic = CLng("&H" & PasswordTextBox.Text)
         If (PasswordTextBox.Text = "") Then
             MsgBox("Veuillez saisir un numéro de clef !")
         Else
-            'keyPublic = CLng("&H" & PasswordTextBox.Text)
+            keyPublic = CLng("&H" & PasswordTextBox.Text)
             If (keyPrivate = keyPublic - lngMac) Then
                 CountryPlayer.Show()
                 Me.Close()
@@ -38,5 +38,9 @@ Public Class CP_LoginForm
             strLicence = File.ReadAllText(licenceFile)
             PasswordTextBox.Text = strLicence
         End If
+    End Sub
+
+    Private Sub Generate_Click(sender As System.Object, e As System.EventArgs) Handles Generate.Click
+        CP_keyGen.Show()
     End Sub
 End Class

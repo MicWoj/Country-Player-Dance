@@ -10,6 +10,7 @@ Module CP_Model
         Private _sArtiste As String
         Private _sPdfPath As String
         Private _sMusicPath As String
+        Private _sYoutubeUrl As String
 
         Public Property Nom() As String
             Get
@@ -89,6 +90,14 @@ Module CP_Model
             End Get
             Set(ByVal value As String)
                 _sPdfPath = value
+            End Set
+        End Property
+        Public Property Youtube() As String
+            Get
+                Youtube = _sYoutubeUrl
+            End Get
+            Set(ByVal value As String)
+                _sYoutubeUrl = value
             End Set
         End Property
 
