@@ -49,10 +49,9 @@ Public Class CountryPlayer
         TextBoxArtist.Text = selChore.Artiste
         LabelPdfFile.Text = selChore.PdfPath
         LabelMusicFile.Text = selChore.MusicPath
-        Label_YoutubeURL.Text = selChore.Youtube
+        TextBox_YoutubeUrl.Text = selChore.Youtube
 
-        If Label_YoutubeURL.Text <> "" Then
-            Label_YoutubeURL.Text = "https://www.youtube.com/v/" & Label_YoutubeURL.Text
+        If TextBox_YoutubeUrl.Text <> "" Then
             AxShockwaveFlash2.Show()
         Else
             Button_OpenURL.Enabled = False
@@ -66,49 +65,6 @@ Public Class CountryPlayer
         If LabelPdfFile.Text = "NF" Then
             ButtonPdf.Enabled = False
         End If
-        'Dim danseSelected As String
-        'danseSelected = ListBoxDanses.SelectedItem.ToString
-        'Debug.Print(danseSelected)
-        'If (System.IO.File.Exists(TextBoxList.Text.ToString())) Then
-        '    Dim document As XmlReader = New XmlTextReader(TextBoxList.Text.ToString())
-        '    System.Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.WaitCursor   'Passe la souris en sablier
-        '    While (document.Read())
-        '        Dim type = document.NodeType
-        '        If (type = XmlNodeType.Element) Then
-        '            If (document.Name = "Name") Then
-        '                Dim danse = document.ReadInnerXml.ToString()
-        '                If danse.Equals(danseSelected) = True Then
-        '                    TextBoxName.Text = danse
-        '                    'Récupère le niveau
-        '                    document.ReadToNextSibling("Niveau")
-        '                    TextBoxLevel.Text = document.ReadInnerXml.ToString()
-        '                    'Récupère le compte
-        '                    document.ReadToNextSibling("Compte")
-        '                    TextBoxCount.Text = document.ReadInnerXml.ToString()
-        '                    'Récupère le depart
-        '                    document.ReadToNextSibling("Depart")
-        '                    TextBoxStart.Text = document.ReadInnerXml.ToString()
-        '                    'Récupère le choregraph
-        '                    document.ReadToNextSibling("Choregraphe")
-        '                    TextBoxChoregraph.Text = document.ReadInnerXml.ToString()
-        '                    'Récupère la musique
-        '                    document.ReadToNextSibling("Musique")
-        '                    TextBoxMusic.Text = document.ReadInnerXml.ToString()
-        '                    'Récupère l Artiste
-        '                    document.ReadToNextSibling("Artiste")
-        '                    TextBoxArtist.Text = document.ReadInnerXml.ToString()
-        '                    Exit While
-        '                End If
-        '            End If
-        '        End If
-        '    End While
-        '    Me.Cursor = Cursors.Default
-
-        '    LabelPdfFile.Text = FileInFolder(TextBoxPdfPath.Text, TextBoxName.Text)
-
-        'End If
-        'LabelMusicFile.Text = FileInFolder(TextBoxMusicPath.Text, TextBoxName.Text)
-
 
     End Sub
 
@@ -326,7 +282,42 @@ Public Class CountryPlayer
     End Sub
 
 
-    Private Sub Button_OpenURL_Click(sender As System.Object, e As System.EventArgs) Handles Button_OpenURL.Click
-        AxShockwaveFlash2.Movie = Label_YoutubeURL.Text
+    Private Sub Button_OpenURL_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button_OpenURL.Click
+        MsgBox("https://www.youtube.com/v/" & Label_YoutubeURL.Text)
+        AxShockwaveFlash2.Movie = "https://www.youtube.com/v/" & Label_YoutubeURL.Text
+    End Sub
+
+    Private Sub ButtonModify_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonModify.Click
+        Dim selChore As Chore
+        selChore = lesChores.Item(ListBoxDanses.SelectedIndex)
+        selChore.Nom = TextBoxName.Text
+        selChore.Compte = TextBoxCount.Text
+        selChore.Depart = TextBoxStart.Text
+        selChore.Choregraph = TextBoxChoregraph.Text
+        selChore.Music = TextBoxMusic.Text
+        selChore.Artiste = TextBoxArtist.Text
+
+        If Label_YoutubeURL.Text <> "" Then
+            selChore.Youtube = TextBox_YoutubeUrl.Text
+        Else
+            Button_OpenURL.Enabled = False
+            AxShockwaveFlash2.Hide()
+        End If
+
+    End Sub
+
+    Private Sub ButtonDelete_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonDelete.Click
+        Dim selChore As Chore
+        selChore = lesChores.Item(ListBoxDanses.SelectedIndex)
+        'lesChores.Remove(selChore.Nom)
+        ListBoxDanses.Items.RemoveAt(ListBoxDanses.SelectedIndex)
+    End Sub
+
+    Private Sub ButtonNew_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonNew.Click
+
+    End Sub
+
+    Private Sub ButtonAdd_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonAdd.Click
+
     End Sub
 End Class

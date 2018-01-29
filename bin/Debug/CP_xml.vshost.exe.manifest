@@ -78,26 +78,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CP_xml.exe" size="250368">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CP_xml.exe" size="251904">
       <assemblyIdentity name="CP_xml" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>lYga6wA1ctyz3FX0JRQXGBVc6U0=</dsig:DigestValue>
+        <dsig:DigestValue>NoSXO9ioYlc5xaYO67EcIpXPCDE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.AcroPDFLib.dll" size="11776">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.AcroPDFLib.dll" size="12800">
       <assemblyIdentity name="Interop.AcroPDFLib" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>kUC7szggZBqmF3g5qeYW+eSH9hw=</dsig:DigestValue>
+        <dsig:DigestValue>viDrJn5xpNz3gxBzfRz6rlC4Qzw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -109,7 +109,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>lUbDrEJos1qPW5wTgjp+tyFn56c=</dsig:DigestValue>
+        <dsig:DigestValue>U/xBFv2dmANFYhM9oSVw0hUhAjc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

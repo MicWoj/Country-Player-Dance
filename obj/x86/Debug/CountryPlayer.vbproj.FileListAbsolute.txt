@@ -101,3 +101,8 @@ C:\Git\Country-Player-Dance\bin\Debug\Interop.ShockwaveFlashObjects.dll
 C:\Git\Country-Player-Dance\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
 C:\Git\Country-Player-Dance\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
 C:\Git\Country-Player-Dance\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\CP_xml.CP_keyGen.resources

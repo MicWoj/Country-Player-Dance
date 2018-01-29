@@ -31,6 +31,7 @@ Partial Class CountryPlayer
         Me.LabelPdfFile = New System.Windows.Forms.Label()
         Me.AxAcroPDF1 = New AxAcroPDFLib.AxAcroPDF()
         Me.TabPage3 = New System.Windows.Forms.TabPage()
+        Me.AxShockwaveFlash2 = New AxShockwaveFlashObjects.AxShockwaveFlash()
         Me.Button_OpenURL = New System.Windows.Forms.Button()
         Me.Label_YoutubeURL = New System.Windows.Forms.Label()
         Me.TabPage4 = New System.Windows.Forms.TabPage()
@@ -74,21 +75,21 @@ Partial Class CountryPlayer
         Me.Label8 = New System.Windows.Forms.Label()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
         Me.TabPage7 = New System.Windows.Forms.TabPage()
-        Me.ListBox1 = New System.Windows.Forms.ListBox()
+        Me.ListBox_All = New System.Windows.Forms.ListBox()
         Me.ProgressBar_Dance = New System.Windows.Forms.ProgressBar()
         Me.AxWindowsMediaPlayer1 = New AxWMPLib.AxWindowsMediaPlayer()
-        Me.AxShockwaveFlash2 = New AxShockwaveFlashObjects.AxShockwaveFlash()
+        Me.TextBox_YoutubeUrl = New System.Windows.Forms.TextBox()
         Me.TabPage.SuspendLayout()
         Me.TabPage2.SuspendLayout()
         CType(Me.AxShockwaveFlash1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.AxAcroPDF1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage3.SuspendLayout()
+        CType(Me.AxShockwaveFlash2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage5.SuspendLayout()
         Me.TabControl1.SuspendLayout()
         Me.TabPage6.SuspendLayout()
         Me.TabPage7.SuspendLayout()
         CType(Me.AxWindowsMediaPlayer1, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.AxShockwaveFlash2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'ListBoxDanses
@@ -163,6 +164,7 @@ Partial Class CountryPlayer
         '
         'TabPage3
         '
+        Me.TabPage3.Controls.Add(Me.TextBox_YoutubeUrl)
         Me.TabPage3.Controls.Add(Me.AxShockwaveFlash2)
         Me.TabPage3.Controls.Add(Me.Button_OpenURL)
         Me.TabPage3.Controls.Add(Me.Label_YoutubeURL)
@@ -173,6 +175,15 @@ Partial Class CountryPlayer
         Me.TabPage3.TabIndex = 2
         Me.TabPage3.Text = "Youtube"
         Me.TabPage3.UseVisualStyleBackColor = True
+        '
+        'AxShockwaveFlash2
+        '
+        Me.AxShockwaveFlash2.Enabled = True
+        Me.AxShockwaveFlash2.Location = New System.Drawing.Point(42, 78)
+        Me.AxShockwaveFlash2.Name = "AxShockwaveFlash2"
+        Me.AxShockwaveFlash2.OcxState = CType(resources.GetObject("AxShockwaveFlash2.OcxState"), System.Windows.Forms.AxHost.State)
+        Me.AxShockwaveFlash2.Size = New System.Drawing.Size(192, 192)
+        Me.AxShockwaveFlash2.TabIndex = 21
         '
         'Button_OpenURL
         '
@@ -186,7 +197,7 @@ Partial Class CountryPlayer
         'Label_YoutubeURL
         '
         Me.Label_YoutubeURL.AutoSize = True
-        Me.Label_YoutubeURL.Location = New System.Drawing.Point(114, 16)
+        Me.Label_YoutubeURL.Location = New System.Drawing.Point(6, 40)
         Me.Label_YoutubeURL.Name = "Label_YoutubeURL"
         Me.Label_YoutubeURL.Size = New System.Drawing.Size(72, 13)
         Me.Label_YoutubeURL.TabIndex = 19
@@ -227,11 +238,10 @@ Partial Class CountryPlayer
         'LabelCount
         '
         Me.LabelCount.AutoSize = True
-        Me.LabelCount.Location = New System.Drawing.Point(481, 50)
+        Me.LabelCount.Location = New System.Drawing.Point(371, 53)
         Me.LabelCount.Name = "LabelCount"
-        Me.LabelCount.Size = New System.Drawing.Size(39, 13)
+        Me.LabelCount.Size = New System.Drawing.Size(0, 13)
         Me.LabelCount.TabIndex = 16
-        Me.LabelCount.Text = "Label1"
         '
         'Button_Init
         '
@@ -246,7 +256,7 @@ Partial Class CountryPlayer
         '
         Me.TextBoxChore.Location = New System.Drawing.Point(72, 50)
         Me.TextBoxChore.Name = "TextBoxChore"
-        Me.TextBoxChore.Size = New System.Drawing.Size(305, 20)
+        Me.TextBoxChore.Size = New System.Drawing.Size(293, 20)
         Me.TextBoxChore.TabIndex = 14
         Me.TextBoxChore.Text = ".\Chores.xml"
         '
@@ -263,7 +273,7 @@ Partial Class CountryPlayer
         '
         Me.TextBoxConfig.Location = New System.Drawing.Point(72, 11)
         Me.TextBoxConfig.Name = "TextBoxConfig"
-        Me.TextBoxConfig.Size = New System.Drawing.Size(305, 20)
+        Me.TextBoxConfig.Size = New System.Drawing.Size(293, 20)
         Me.TextBoxConfig.TabIndex = 12
         Me.TextBoxConfig.Text = ".\config.xml"
         '
@@ -289,7 +299,7 @@ Partial Class CountryPlayer
         '
         Me.TextBoxMusicPath.Location = New System.Drawing.Point(72, 129)
         Me.TextBoxMusicPath.Name = "TextBoxMusicPath"
-        Me.TextBoxMusicPath.Size = New System.Drawing.Size(305, 20)
+        Me.TextBoxMusicPath.Size = New System.Drawing.Size(293, 20)
         Me.TextBoxMusicPath.TabIndex = 9
         Me.TextBoxMusicPath.Text = ".\Music\"
         '
@@ -306,7 +316,7 @@ Partial Class CountryPlayer
         '
         Me.TextBoxPdfPath.Location = New System.Drawing.Point(72, 89)
         Me.TextBoxPdfPath.Name = "TextBoxPdfPath"
-        Me.TextBoxPdfPath.Size = New System.Drawing.Size(305, 20)
+        Me.TextBoxPdfPath.Size = New System.Drawing.Size(293, 20)
         Me.TextBoxPdfPath.TabIndex = 7
         Me.TextBoxPdfPath.Text = ".\Fiches\"
         '
@@ -552,7 +562,7 @@ Partial Class CountryPlayer
         '
         'TabPage7
         '
-        Me.TabPage7.Controls.Add(Me.ListBox1)
+        Me.TabPage7.Controls.Add(Me.ListBox_All)
         Me.TabPage7.Location = New System.Drawing.Point(4, 22)
         Me.TabPage7.Name = "TabPage7"
         Me.TabPage7.Padding = New System.Windows.Forms.Padding(3)
@@ -561,13 +571,13 @@ Partial Class CountryPlayer
         Me.TabPage7.Text = "Toutes"
         Me.TabPage7.UseVisualStyleBackColor = True
         '
-        'ListBox1
+        'ListBox_All
         '
-        Me.ListBox1.FormattingEnabled = True
-        Me.ListBox1.Location = New System.Drawing.Point(9, 5)
-        Me.ListBox1.Name = "ListBox1"
-        Me.ListBox1.Size = New System.Drawing.Size(208, 511)
-        Me.ListBox1.TabIndex = 0
+        Me.ListBox_All.FormattingEnabled = True
+        Me.ListBox_All.Location = New System.Drawing.Point(9, 5)
+        Me.ListBox_All.Name = "ListBox_All"
+        Me.ListBox_All.Size = New System.Drawing.Size(208, 355)
+        Me.ListBox_All.TabIndex = 0
         '
         'ProgressBar_Dance
         '
@@ -585,14 +595,12 @@ Partial Class CountryPlayer
         Me.AxWindowsMediaPlayer1.Size = New System.Drawing.Size(242, 129)
         Me.AxWindowsMediaPlayer1.TabIndex = 4
         '
-        'AxShockwaveFlash2
+        'TextBox_YoutubeUrl
         '
-        Me.AxShockwaveFlash2.Enabled = True
-        Me.AxShockwaveFlash2.Location = New System.Drawing.Point(42, 78)
-        Me.AxShockwaveFlash2.Name = "AxShockwaveFlash2"
-        Me.AxShockwaveFlash2.OcxState = CType(resources.GetObject("AxShockwaveFlash2.OcxState"), System.Windows.Forms.AxHost.State)
-        Me.AxShockwaveFlash2.Size = New System.Drawing.Size(192, 192)
-        Me.AxShockwaveFlash2.TabIndex = 21
+        Me.TextBox_YoutubeUrl.Location = New System.Drawing.Point(96, 16)
+        Me.TextBox_YoutubeUrl.Name = "TextBox_YoutubeUrl"
+        Me.TextBox_YoutubeUrl.Size = New System.Drawing.Size(219, 20)
+        Me.TextBox_YoutubeUrl.TabIndex = 22
         '
         'CountryPlayer
         '
@@ -620,6 +628,7 @@ Partial Class CountryPlayer
         CType(Me.AxAcroPDF1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabPage3.ResumeLayout(False)
         Me.TabPage3.PerformLayout()
+        CType(Me.AxShockwaveFlash2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabPage5.ResumeLayout(False)
         Me.TabPage5.PerformLayout()
         Me.TabControl1.ResumeLayout(False)
@@ -627,7 +636,6 @@ Partial Class CountryPlayer
         Me.TabPage6.PerformLayout()
         Me.TabPage7.ResumeLayout(False)
         CType(Me.AxWindowsMediaPlayer1, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.AxShockwaveFlash2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -677,7 +685,7 @@ Partial Class CountryPlayer
     Friend WithEvents ProgressBar_Dance As System.Windows.Forms.ProgressBar
     Friend WithEvents TextBoxChore As System.Windows.Forms.TextBox
     Friend WithEvents ButtonChore As System.Windows.Forms.Button
-    Friend WithEvents ListBox1 As System.Windows.Forms.ListBox
+    Friend WithEvents ListBox_All As System.Windows.Forms.ListBox
     Friend WithEvents Button_Init As System.Windows.Forms.Button
     Friend WithEvents LabelCount As System.Windows.Forms.Label
     Friend WithEvents Label8 As System.Windows.Forms.Label
@@ -687,5 +695,6 @@ Partial Class CountryPlayer
     Friend WithEvents Button_OpenURL As System.Windows.Forms.Button
     Friend WithEvents Label_YoutubeURL As System.Windows.Forms.Label
     Friend WithEvents AxShockwaveFlash2 As AxShockwaveFlashObjects.AxShockwaveFlash
+    Friend WithEvents TextBox_YoutubeUrl As System.Windows.Forms.TextBox
 
 End Class
