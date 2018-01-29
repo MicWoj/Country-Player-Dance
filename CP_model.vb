@@ -114,6 +114,11 @@ Module CP_Model
             maCol = New ArrayList()    'cela crée une ArrayList
         End Sub
 
+        Public Sub init() 'reinitialise la classe Chores, vide la collection
+            maCol = Nothing
+            maCol = New ArrayList()
+        End Sub
+
         Public Function GetEnumerator() As IEnumerator    'permet d'utiliser For Each
             GetEnumerator = maCol.GetEnumerator
         End Function
@@ -137,8 +142,8 @@ Module CP_Model
             End Get
         End Property
 
-        Public Sub Remove(ByVal Key As String)
-            maCol.Remove(Key)
+        Public Sub Remove(ByVal ChoreId As Chore)
+            maCol.Remove(ChoreId)
         End Sub
     End Class
 End Module

@@ -37,18 +37,19 @@ Public Class CountryPlayer
         ButtonMusic.Enabled = True
         ButtonPdf.Enabled = True
         Button_OpenURL.Enabled = True
+        TextBoxName.Enabled = False
         AxAcroPDF1.LoadFile("none")
 
         Dim selChore As Chore
         selChore = lesChores.Item(ListBoxDanses.SelectedIndex)
-        TextBoxName.Text = selChore.Nom
+        TextBoxName.Text = UCase(selChore.Nom)
         TextBoxCount.Text = selChore.Compte
         TextBoxStart.Text = selChore.Depart
         TextBoxChoregraph.Text = selChore.Choregraph
         TextBoxMusic.Text = selChore.Music
         TextBoxArtist.Text = selChore.Artiste
-        LabelPdfFile.Text = selChore.PdfPath
-        LabelMusicFile.Text = selChore.MusicPath
+        LabelPdfFile.Text = PdfInFolder(TextBoxPdfPath.Text, TextBoxName.Text)
+        LabelMusicFile.Text = MusicInFolder(TextBoxMusicPath.Text, TextBoxName.Text)
         TextBox_YoutubeUrl.Text = selChore.Youtube
 
         If TextBox_YoutubeUrl.Text <> "" Then
@@ -141,6 +142,9 @@ Public Class CountryPlayer
             While (document.Read())
                 Dim type = document.NodeType
                 If (type = XmlNodeType.Element) Then
+                    If (document.Name = "Chore") Then
+                        TextBoxChore.Text = document.ReadInnerXml.ToString()
+                    End If
                     If (document.Name = "PDF") Then
                         TextBoxPdfPath.Text = document.ReadInnerXml.ToString()
                     End If
@@ -162,8 +166,7 @@ Public Class CountryPlayer
         With XmlWrt
 
             ' Write the Xml declaration.
-            .WriteStartDocument()
-
+            .WriteStartDocument() 
             ' Write a comment.
             .WriteComment("XML Database.")
 
@@ -172,6 +175,10 @@ Public Class CountryPlayer
 
             ' Start directories.
             .WriteStartElement("directories")
+
+            .WriteStartElement("Chore")
+            .WriteString(TextBoxChore.Text.ToString())
+            .WriteEndElement()
 
             .WriteStartElement("PDF")
             .WriteString(TextBoxPdfPath.Text.ToString())
@@ -211,7 +218,8 @@ Public Class CountryPlayer
         Dim document1 As XmlReader = New XmlTextReader(TextBoxChore.Text.ToString())
         Dim i As Integer
         ProgressBar_Dance.Minimum = 0
-
+        lesChores.init()
+        ButtonAdd.Enabled = False
         i = 0
         While (document1.Read())
             Dim type = document1.NodeType
@@ -257,9 +265,9 @@ Public Class CountryPlayer
                         document.ReadToNextSibling("Artiste")
                         laChore.Artiste = document.ReadInnerXml.ToString()
                         'Récupère le chemin du pdf
-                        laChore.PdfPath = PdfInFolder(TextBoxPdfPath.Text, danse)
+                        'laChore.PdfPath = PdfInFolder(TextBoxPdfPath.Text, danse)
                         ''Récupère le chemin du music
-                        laChore.MusicPath = MusicInFolder(TextBoxMusicPath.Text, danse)
+                        'laChore.MusicPath = MusicInFolder(TextBoxMusicPath.Text, danse)
                         ProgressBar_Dance.Value() = i
                         i = i + 1
                 End If
@@ -290,7 +298,7 @@ Public Class CountryPlayer
     Private Sub ButtonModify_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonModify.Click
         Dim selChore As Chore
         selChore = lesChores.Item(ListBoxDanses.SelectedIndex)
-        selChore.Nom = TextBoxName.Text
+        'selChore.Nom = TextBoxName.Text
         selChore.Compte = TextBoxCount.Text
         selChore.Depart = TextBoxStart.Text
         selChore.Choregraph = TextBoxChoregraph.Text
@@ -309,15 +317,42 @@ Public Class CountryPlayer
     Private Sub ButtonDelete_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonDelete.Click
         Dim selChore As Chore
         selChore = lesChores.Item(ListBoxDanses.SelectedIndex)
-        'lesChores.Remove(selChore.Nom)
-        ListBoxDanses.Items.RemoveAt(ListBoxDanses.SelectedIndex)
+        'ListBoxDanses.SelectedItem
+        lesChores.Remove(selChore)
+        'ListBoxDanses.Items.RemoveAt(ListBoxDanses.SelectedIndex)
+        ListBoxDanses.Items.Clear()
+        For Each _chore As Chore In lesChores
+            ListBoxDanses.Items.Add(_chore.Nom)
+        Next
     End Sub
 
     Private Sub ButtonNew_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonNew.Click
+        TextBoxName.ResetText()
+        TextBoxCount.ResetText()
+        TextBoxStart.ResetText()
+        TextBoxChoregraph.ResetText()
+        TextBoxMusic.ResetText()
+        TextBoxArtist.ResetText()
+        LabelPdfFile.ResetText()
+        LabelMusicFile.ResetText()
+        TextBox_YoutubeUrl.ResetText()
+        ButtonAdd.Enabled = True
 
     End Sub
 
     Private Sub ButtonAdd_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonAdd.Click
+        Dim laChore As Chore
+        If TextBoxName.Text <> "" Then
+            laChore = lesChores.Add(TextBoxName.Text)    'Ajout d'une chore avec le nom
+            laChore.Niveau = TextBoxLevel.Text
+            laChore.Compte = TextBoxCount.Text
+            laChore.Depart = TextBoxStart.Text
+            laChore.Choregraph = TextBoxChoregraph.Text
+            laChore.Youtube = TextBox_YoutubeUrl.Text
+            laChore.Music = TextBoxMusic.Text
+            laChore.Artiste = TextBoxArtist.Text
+            laChore.PdfPath = TextBoxPdfPath.Text
+        End If
 
     End Sub
 End Class
