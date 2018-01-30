@@ -129,6 +129,15 @@ Module CP_Model
             Add = UneChore
         End Function
 
+        Public Function GetChore(ByVal LaChore As String) As Chore    'permet d'utiliser For Each
+            GetChore = Nothing
+            For i = 0 To maCol.Count - 1
+                If maCol.Contains(LaChore) Then
+                    GetChore = (CType(maCol.Item(i), Chore))
+                End If
+            Next i
+        End Function
+
         Public ReadOnly Property Item(ByVal lIndex As Integer) As Chore
             Get
                 Item = (CType(maCol.Item(lIndex), Chore))

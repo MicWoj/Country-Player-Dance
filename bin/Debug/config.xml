@@ -2,8 +2,8 @@
 <!--XML Database.-->
 <Configs>
   <directories>
-    <Chore>C:\Git\Country-Player-Dance\res\CountryDanses.xml</Chore>
-    <PDF>D:\COUNTRY\CountryPlayer\Fiches\</PDF>
-    <Music>D:\Music\</Music>
+    <Chore>C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\res\CountryDanses.xml</Chore>
+    <PDF>C:\Data\My Music\copy\</PDF>
+    <Music>C:\Data\My Music\copy\</Music>
   </directories>
 </Configs>
