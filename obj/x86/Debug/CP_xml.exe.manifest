@@ -78,14 +78,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CP_xml.exe" size="256512">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CP_xml.exe" size="503808">
       <assemblyIdentity name="CP_xml" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>mD/bLAIn4jyBg68f90fRALpgc6Y=</dsig:DigestValue>
+        <dsig:DigestValue>jG5AADhuYdvXoProAHU1ril2+zg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

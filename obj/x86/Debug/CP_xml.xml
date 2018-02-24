@@ -15,6 +15,26 @@ CP_xml
   Remplace la propriété CurrentUICulture du thread actuel pour toutes
   les recherches de ressources à l'aide de cette classe de ressource fortement typée.
 </summary>
+</member><member name="P:CP_xml.My.Resources.Resources.CountryPlayerDance">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CP_xml.My.Resources.Resources.CountryPlayerDance1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CP_xml.My.Resources.Resources.Fond_LukyLuke">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CP_xml.My.Resources.Resources.Fond_paper">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CP_xml.My.Resources.Resources.Fond_wood">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
 </member><member name="T:CP_xml.My.Resources.Resources">
 	<summary>
   Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.

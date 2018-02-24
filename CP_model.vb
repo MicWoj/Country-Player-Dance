@@ -134,7 +134,6 @@ Module CP_Model
                 Item = (CType(maCol.Item(lIndex), Chore))
             End Get
         End Property
-
         Public ReadOnly Property Count() As Integer
             Get
                 Count = maCol.Count
@@ -145,6 +144,17 @@ Module CP_Model
         Public Sub Remove(ByVal ChoreId As Chore)
             maCol.Remove(ChoreId)
         End Sub
+
+        Public Function getItem(ByVal LeNom As String) As Chore
+            getItem = Nothing
+            For Each _chore As Chore In maCol
+                If _chore.Nom = LeNom Then
+                    getItem = _chore
+                    Exit For
+                End If
+            Next
+            Return getItem
+        End Function
     End Class
 End Module
 
