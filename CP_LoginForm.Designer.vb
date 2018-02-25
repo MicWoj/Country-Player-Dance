@@ -14,7 +14,6 @@ Partial Class CP_LoginForm
             MyBase.Dispose(disposing)
         End Try
     End Sub
-    Friend WithEvents LogoPictureBox As System.Windows.Forms.PictureBox
     Friend WithEvents PasswordLabel As System.Windows.Forms.Label
     Friend WithEvents PasswordTextBox As System.Windows.Forms.TextBox
     Friend WithEvents OK As System.Windows.Forms.Button
@@ -29,29 +28,17 @@ Partial Class CP_LoginForm
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(CP_LoginForm))
-        Me.LogoPictureBox = New System.Windows.Forms.PictureBox()
         Me.PasswordLabel = New System.Windows.Forms.Label()
         Me.PasswordTextBox = New System.Windows.Forms.TextBox()
         Me.OK = New System.Windows.Forms.Button()
         Me.Cancel = New System.Windows.Forms.Button()
-        Me.Label_TitleCP = New System.Windows.Forms.Label()
         Me.Label_VersionCP = New System.Windows.Forms.Label()
         Me.Generate = New System.Windows.Forms.Button()
-        CType(Me.LogoPictureBox, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
-        '
-        'LogoPictureBox
-        '
-        Me.LogoPictureBox.Image = CType(resources.GetObject("LogoPictureBox.Image"), System.Drawing.Image)
-        Me.LogoPictureBox.Location = New System.Drawing.Point(12, 14)
-        Me.LogoPictureBox.Name = "LogoPictureBox"
-        Me.LogoPictureBox.Size = New System.Drawing.Size(145, 166)
-        Me.LogoPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
-        Me.LogoPictureBox.TabIndex = 0
-        Me.LogoPictureBox.TabStop = False
         '
         'PasswordLabel
         '
+        Me.PasswordLabel.BackColor = System.Drawing.Color.Transparent
         Me.PasswordLabel.Location = New System.Drawing.Point(174, 108)
         Me.PasswordLabel.Name = "PasswordLabel"
         Me.PasswordLabel.Size = New System.Drawing.Size(220, 23)
@@ -61,18 +48,20 @@ Partial Class CP_LoginForm
         '
         'PasswordTextBox
         '
-        Me.PasswordTextBox.Location = New System.Drawing.Point(176, 128)
+        Me.PasswordTextBox.Location = New System.Drawing.Point(174, 134)
         Me.PasswordTextBox.Name = "PasswordTextBox"
         Me.PasswordTextBox.Size = New System.Drawing.Size(220, 20)
         Me.PasswordTextBox.TabIndex = 3
         '
         'OK
         '
+        Me.OK.BackColor = System.Drawing.Color.Transparent
         Me.OK.Location = New System.Drawing.Point(197, 161)
         Me.OK.Name = "OK"
         Me.OK.Size = New System.Drawing.Size(94, 23)
         Me.OK.TabIndex = 4
         Me.OK.Text = "&OK"
+        Me.OK.UseVisualStyleBackColor = False
         '
         'Cancel
         '
@@ -83,20 +72,11 @@ Partial Class CP_LoginForm
         Me.Cancel.TabIndex = 5
         Me.Cancel.Text = "&Annuler"
         '
-        'Label_TitleCP
-        '
-        Me.Label_TitleCP.AutoSize = True
-        Me.Label_TitleCP.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label_TitleCP.Location = New System.Drawing.Point(181, 9)
-        Me.Label_TitleCP.Name = "Label_TitleCP"
-        Me.Label_TitleCP.Size = New System.Drawing.Size(208, 31)
-        Me.Label_TitleCP.TabIndex = 6
-        Me.Label_TitleCP.Text = "Country Player"
-        '
         'Label_VersionCP
         '
         Me.Label_VersionCP.AutoSize = True
-        Me.Label_VersionCP.Location = New System.Drawing.Point(245, 64)
+        Me.Label_VersionCP.BackColor = System.Drawing.Color.Transparent
+        Me.Label_VersionCP.Location = New System.Drawing.Point(12, 195)
         Me.Label_VersionCP.Name = "Label_VersionCP"
         Me.Label_VersionCP.Size = New System.Drawing.Size(60, 13)
         Me.Label_VersionCP.TabIndex = 7
@@ -116,16 +96,16 @@ Partial Class CP_LoginForm
         Me.AcceptButton = Me.OK
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
+        Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.CancelButton = Me.Cancel
         Me.ClientSize = New System.Drawing.Size(401, 217)
         Me.Controls.Add(Me.Generate)
         Me.Controls.Add(Me.Label_VersionCP)
-        Me.Controls.Add(Me.Label_TitleCP)
         Me.Controls.Add(Me.Cancel)
         Me.Controls.Add(Me.OK)
         Me.Controls.Add(Me.PasswordTextBox)
         Me.Controls.Add(Me.PasswordLabel)
-        Me.Controls.Add(Me.LogoPictureBox)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
         Me.MaximizeBox = False
         Me.MinimizeBox = False
@@ -133,12 +113,10 @@ Partial Class CP_LoginForm
         Me.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "Country Player Login"
-        CType(Me.LogoPictureBox, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
-    Friend WithEvents Label_TitleCP As System.Windows.Forms.Label
     Friend WithEvents Label_VersionCP As System.Windows.Forms.Label
     Friend WithEvents Generate As System.Windows.Forms.Button
 

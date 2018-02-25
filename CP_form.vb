@@ -342,7 +342,8 @@ Public Class CountryPlayer
 
     Private Sub Button_OpenURL_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button_OpenURL.Click
         MsgBox("https://www.youtube.com/v/" & Label_YoutubeURL.Text)
-        AxShockwaveFlash2.Movie = "https://www.youtube.com/v/" & Label_YoutubeURL.Text
+        Me.AxShockwaveFlash2.Movie = "https://www.youtube.com/v/" & Label_YoutubeURL.Text
+
     End Sub
 
 

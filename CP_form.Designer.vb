@@ -102,7 +102,7 @@ Partial Class CountryPlayer
         'ListBoxDanses
         '
         Me.ListBoxDanses.BackColor = System.Drawing.Color.LemonChiffon
-        Me.ListBoxDanses.ForeColor = System.Drawing.SystemColors.ScrollBar
+        Me.ListBoxDanses.ForeColor = System.Drawing.SystemColors.MenuText
         Me.ListBoxDanses.FormattingEnabled = True
         Me.ListBoxDanses.Location = New System.Drawing.Point(12, 82)
         Me.ListBoxDanses.Name = "ListBoxDanses"
@@ -123,7 +123,7 @@ Partial Class CountryPlayer
         'TabPage_pdf
         '
         Me.TabPage_pdf.BackColor = System.Drawing.Color.DarkGoldenrod
-        Me.TabPage_pdf.BackgroundImage = Global.CP_xml.My.Resources.Resources.Fond_paper
+        Me.TabPage_pdf.BackgroundImage = Global.CountryPlayerDance.My.Resources.Resources.Fond_paper
         Me.TabPage_pdf.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.TabPage_pdf.Controls.Add(Me.AxShockwaveFlash1)
         Me.TabPage_pdf.Controls.Add(Me.ButtonPdf)
@@ -158,6 +158,7 @@ Partial Class CountryPlayer
         'LabelPdfFile
         '
         Me.LabelPdfFile.AutoSize = True
+        Me.LabelPdfFile.BackColor = System.Drawing.Color.Transparent
         Me.LabelPdfFile.Location = New System.Drawing.Point(105, 19)
         Me.LabelPdfFile.Name = "LabelPdfFile"
         Me.LabelPdfFile.Size = New System.Drawing.Size(0, 13)
@@ -174,7 +175,7 @@ Partial Class CountryPlayer
         '
         'TabPage_Youtube
         '
-        Me.TabPage_Youtube.BackgroundImage = Global.CP_xml.My.Resources.Resources.Fond_paper
+        Me.TabPage_Youtube.BackgroundImage = Global.CountryPlayerDance.My.Resources.Resources.Fond_paper
         Me.TabPage_Youtube.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.TabPage_Youtube.Controls.Add(Me.TextBox_YoutubeUrl)
         Me.TabPage_Youtube.Controls.Add(Me.AxShockwaveFlash2)
@@ -226,7 +227,7 @@ Partial Class CountryPlayer
         'TabPage_Parametre
         '
         Me.TabPage_Parametre.AutoScroll = True
-        Me.TabPage_Parametre.BackgroundImage = Global.CP_xml.My.Resources.Resources.Fond_paper
+        Me.TabPage_Parametre.BackgroundImage = Global.CountryPlayerDance.My.Resources.Resources.Fond_paper
         Me.TabPage_Parametre.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.TabPage_Parametre.Controls.Add(Me.TextBoxPLPath)
         Me.TabPage_Parametre.Controls.Add(Me.ButtonPLPath)
@@ -638,7 +639,7 @@ Partial Class CountryPlayer
         '
         'TabPage_Danses
         '
-        Me.TabPage_Danses.BackgroundImage = Global.CP_xml.My.Resources.Resources.Fond_paper
+        Me.TabPage_Danses.BackgroundImage = Global.CountryPlayerDance.My.Resources.Resources.Fond_paper
         Me.TabPage_Danses.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.TabPage_Danses.Controls.Add(Me.Button_NewPL)
         Me.TabPage_Danses.Controls.Add(Me.Button_EffacerList)
