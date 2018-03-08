@@ -24,32 +24,6 @@ Partial Class CountryPlayer
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(CountryPlayer))
         Me.ListBoxDanses = New System.Windows.Forms.ListBox()
-        Me.TabPage = New System.Windows.Forms.TabControl()
-        Me.TabPage_pdf = New System.Windows.Forms.TabPage()
-        Me.AxShockwaveFlash1 = New AxShockwaveFlashObjects.AxShockwaveFlash()
-        Me.ButtonPdf = New System.Windows.Forms.Button()
-        Me.LabelPdfFile = New System.Windows.Forms.Label()
-        Me.AxAcroPDF1 = New AxAcroPDFLib.AxAcroPDF()
-        Me.TabPage_Youtube = New System.Windows.Forms.TabPage()
-        Me.TextBox_YoutubeUrl = New System.Windows.Forms.TextBox()
-        Me.AxShockwaveFlash2 = New AxShockwaveFlashObjects.AxShockwaveFlash()
-        Me.Button_OpenURL = New System.Windows.Forms.Button()
-        Me.Label_YoutubeURL = New System.Windows.Forms.Label()
-        Me.TabPage_Parametre = New System.Windows.Forms.TabPage()
-        Me.TextBoxPLPath = New System.Windows.Forms.TextBox()
-        Me.ButtonPLPath = New System.Windows.Forms.Button()
-        Me.LabelCount = New System.Windows.Forms.Label()
-        Me.ProgressBar_Dance = New System.Windows.Forms.ProgressBar()
-        Me.Button_Init = New System.Windows.Forms.Button()
-        Me.TextBoxChore = New System.Windows.Forms.TextBox()
-        Me.ButtonChore = New System.Windows.Forms.Button()
-        Me.TextBoxConfig = New System.Windows.Forms.TextBox()
-        Me.ButtonParamLoad = New System.Windows.Forms.Button()
-        Me.ButtonParamSave = New System.Windows.Forms.Button()
-        Me.TextBoxMusicPath = New System.Windows.Forms.TextBox()
-        Me.ButtonMusicPath = New System.Windows.Forms.Button()
-        Me.TextBoxPdfPath = New System.Windows.Forms.TextBox()
-        Me.ButtonPdfPath = New System.Windows.Forms.Button()
         Me.FolderBrowserDialog1 = New System.Windows.Forms.FolderBrowserDialog()
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
         Me.TabControl1 = New System.Windows.Forms.TabControl()
@@ -78,6 +52,8 @@ Partial Class CountryPlayer
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.TabPage_Danses = New System.Windows.Forms.TabPage()
+        Me.Button_PlBas = New System.Windows.Forms.Button()
+        Me.Button_PlHaut = New System.Windows.Forms.Button()
         Me.Button_NewPL = New System.Windows.Forms.Button()
         Me.Button_EffacerList = New System.Windows.Forms.Button()
         Me.Button_SauverList = New System.Windows.Forms.Button()
@@ -86,17 +62,36 @@ Partial Class CountryPlayer
         Me.ListBox_All = New System.Windows.Forms.ListBox()
         Me.Label_NbPL = New System.Windows.Forms.Label()
         Me.ComboBox_PL = New System.Windows.Forms.ComboBox()
-        Me.TabPage.SuspendLayout()
-        Me.TabPage_pdf.SuspendLayout()
-        CType(Me.AxShockwaveFlash1, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.AxAcroPDF1, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.TabPage_Youtube.SuspendLayout()
-        CType(Me.AxShockwaveFlash2, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.TabPage_Parametre.SuspendLayout()
+        Me.TabPage_Parametre = New System.Windows.Forms.TabPage()
+        Me.TextBoxPLPath = New System.Windows.Forms.TextBox()
+        Me.TextBoxChore = New System.Windows.Forms.TextBox()
+        Me.TextBoxConfig = New System.Windows.Forms.TextBox()
+        Me.TextBoxMusicPath = New System.Windows.Forms.TextBox()
+        Me.TextBoxPdfPath = New System.Windows.Forms.TextBox()
+        Me.ButtonPLPath = New System.Windows.Forms.Button()
+        Me.LabelCount = New System.Windows.Forms.Label()
+        Me.ProgressBar_Dance = New System.Windows.Forms.ProgressBar()
+        Me.Button_Init = New System.Windows.Forms.Button()
+        Me.ButtonChore = New System.Windows.Forms.Button()
+        Me.ButtonParamLoad = New System.Windows.Forms.Button()
+        Me.ButtonParamSave = New System.Windows.Forms.Button()
+        Me.ButtonMusicPath = New System.Windows.Forms.Button()
+        Me.ButtonPdfPath = New System.Windows.Forms.Button()
+        Me.TabPage_pdf = New System.Windows.Forms.TabPage()
+        Me.TextBox_Youtube = New System.Windows.Forms.TextBox()
+        Me.Button_Youtube = New System.Windows.Forms.Button()
+        Me.AxAcroPDF1 = New AxAcroPDFLib.AxAcroPDF()
+        Me.ButtonPdf = New System.Windows.Forms.Button()
+        Me.LabelPdfFile = New System.Windows.Forms.Label()
+        Me.TabPage = New System.Windows.Forms.TabControl()
         Me.TabControl1.SuspendLayout()
         Me.TabPage_Chore.SuspendLayout()
         CType(Me.AxWindowsMediaPlayer1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage_Danses.SuspendLayout()
+        Me.TabPage_Parametre.SuspendLayout()
+        Me.TabPage_pdf.SuspendLayout()
+        CType(Me.AxAcroPDF1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.TabPage.SuspendLayout()
         Me.SuspendLayout()
         '
         'ListBoxDanses
@@ -109,273 +104,6 @@ Partial Class CountryPlayer
         Me.ListBoxDanses.Size = New System.Drawing.Size(230, 472)
         Me.ListBoxDanses.TabIndex = 0
         '
-        'TabPage
-        '
-        Me.TabPage.Controls.Add(Me.TabPage_pdf)
-        Me.TabPage.Controls.Add(Me.TabPage_Youtube)
-        Me.TabPage.Controls.Add(Me.TabPage_Parametre)
-        Me.TabPage.Location = New System.Drawing.Point(509, 12)
-        Me.TabPage.Name = "TabPage"
-        Me.TabPage.SelectedIndex = 0
-        Me.TabPage.Size = New System.Drawing.Size(503, 543)
-        Me.TabPage.TabIndex = 1
-        '
-        'TabPage_pdf
-        '
-        Me.TabPage_pdf.BackColor = System.Drawing.Color.DarkGoldenrod
-        Me.TabPage_pdf.BackgroundImage = Global.CountryPlayerDance.My.Resources.Resources.Fond_paper
-        Me.TabPage_pdf.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.TabPage_pdf.Controls.Add(Me.AxShockwaveFlash1)
-        Me.TabPage_pdf.Controls.Add(Me.ButtonPdf)
-        Me.TabPage_pdf.Controls.Add(Me.LabelPdfFile)
-        Me.TabPage_pdf.Controls.Add(Me.AxAcroPDF1)
-        Me.TabPage_pdf.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage_pdf.Name = "TabPage_pdf"
-        Me.TabPage_pdf.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage_pdf.Size = New System.Drawing.Size(495, 517)
-        Me.TabPage_pdf.TabIndex = 1
-        Me.TabPage_pdf.Text = "PDF"
-        '
-        'AxShockwaveFlash1
-        '
-        Me.AxShockwaveFlash1.Enabled = True
-        Me.AxShockwaveFlash1.Location = New System.Drawing.Point(554, 42)
-        Me.AxShockwaveFlash1.Name = "AxShockwaveFlash1"
-        Me.AxShockwaveFlash1.OcxState = CType(resources.GetObject("AxShockwaveFlash1.OcxState"), System.Windows.Forms.AxHost.State)
-        Me.AxShockwaveFlash1.Size = New System.Drawing.Size(192, 192)
-        Me.AxShockwaveFlash1.TabIndex = 19
-        '
-        'ButtonPdf
-        '
-        Me.ButtonPdf.BackColor = System.Drawing.Color.Tan
-        Me.ButtonPdf.Location = New System.Drawing.Point(6, 13)
-        Me.ButtonPdf.Name = "ButtonPdf"
-        Me.ButtonPdf.Size = New System.Drawing.Size(84, 24)
-        Me.ButtonPdf.TabIndex = 18
-        Me.ButtonPdf.Text = "Ouvrir PDF"
-        Me.ButtonPdf.UseVisualStyleBackColor = False
-        '
-        'LabelPdfFile
-        '
-        Me.LabelPdfFile.AutoSize = True
-        Me.LabelPdfFile.BackColor = System.Drawing.Color.Transparent
-        Me.LabelPdfFile.Location = New System.Drawing.Point(105, 19)
-        Me.LabelPdfFile.Name = "LabelPdfFile"
-        Me.LabelPdfFile.Size = New System.Drawing.Size(0, 13)
-        Me.LabelPdfFile.TabIndex = 1
-        '
-        'AxAcroPDF1
-        '
-        Me.AxAcroPDF1.Enabled = True
-        Me.AxAcroPDF1.Location = New System.Drawing.Point(6, 42)
-        Me.AxAcroPDF1.Name = "AxAcroPDF1"
-        Me.AxAcroPDF1.OcxState = CType(resources.GetObject("AxAcroPDF1.OcxState"), System.Windows.Forms.AxHost.State)
-        Me.AxAcroPDF1.Size = New System.Drawing.Size(483, 469)
-        Me.AxAcroPDF1.TabIndex = 0
-        '
-        'TabPage_Youtube
-        '
-        Me.TabPage_Youtube.BackgroundImage = Global.CountryPlayerDance.My.Resources.Resources.Fond_paper
-        Me.TabPage_Youtube.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.TabPage_Youtube.Controls.Add(Me.TextBox_YoutubeUrl)
-        Me.TabPage_Youtube.Controls.Add(Me.AxShockwaveFlash2)
-        Me.TabPage_Youtube.Controls.Add(Me.Button_OpenURL)
-        Me.TabPage_Youtube.Controls.Add(Me.Label_YoutubeURL)
-        Me.TabPage_Youtube.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage_Youtube.Name = "TabPage_Youtube"
-        Me.TabPage_Youtube.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage_Youtube.Size = New System.Drawing.Size(495, 517)
-        Me.TabPage_Youtube.TabIndex = 2
-        Me.TabPage_Youtube.Text = "Youtube"
-        Me.TabPage_Youtube.UseVisualStyleBackColor = True
-        '
-        'TextBox_YoutubeUrl
-        '
-        Me.TextBox_YoutubeUrl.Location = New System.Drawing.Point(96, 16)
-        Me.TextBox_YoutubeUrl.Name = "TextBox_YoutubeUrl"
-        Me.TextBox_YoutubeUrl.Size = New System.Drawing.Size(219, 20)
-        Me.TextBox_YoutubeUrl.TabIndex = 22
-        '
-        'AxShockwaveFlash2
-        '
-        Me.AxShockwaveFlash2.Enabled = True
-        Me.AxShockwaveFlash2.Location = New System.Drawing.Point(42, 78)
-        Me.AxShockwaveFlash2.Name = "AxShockwaveFlash2"
-        Me.AxShockwaveFlash2.OcxState = CType(resources.GetObject("AxShockwaveFlash2.OcxState"), System.Windows.Forms.AxHost.State)
-        Me.AxShockwaveFlash2.Size = New System.Drawing.Size(192, 192)
-        Me.AxShockwaveFlash2.TabIndex = 21
-        '
-        'Button_OpenURL
-        '
-        Me.Button_OpenURL.BackColor = System.Drawing.Color.Tan
-        Me.Button_OpenURL.Location = New System.Drawing.Point(6, 13)
-        Me.Button_OpenURL.Name = "Button_OpenURL"
-        Me.Button_OpenURL.Size = New System.Drawing.Size(84, 24)
-        Me.Button_OpenURL.TabIndex = 20
-        Me.Button_OpenURL.Text = "Ouvrir Youtube"
-        Me.Button_OpenURL.UseVisualStyleBackColor = False
-        '
-        'Label_YoutubeURL
-        '
-        Me.Label_YoutubeURL.AutoSize = True
-        Me.Label_YoutubeURL.Location = New System.Drawing.Point(6, 40)
-        Me.Label_YoutubeURL.Name = "Label_YoutubeURL"
-        Me.Label_YoutubeURL.Size = New System.Drawing.Size(72, 13)
-        Me.Label_YoutubeURL.TabIndex = 19
-        Me.Label_YoutubeURL.Text = "Youtube URL"
-        '
-        'TabPage_Parametre
-        '
-        Me.TabPage_Parametre.AutoScroll = True
-        Me.TabPage_Parametre.BackgroundImage = Global.CountryPlayerDance.My.Resources.Resources.Fond_paper
-        Me.TabPage_Parametre.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.TabPage_Parametre.Controls.Add(Me.TextBoxPLPath)
-        Me.TabPage_Parametre.Controls.Add(Me.ButtonPLPath)
-        Me.TabPage_Parametre.Controls.Add(Me.LabelCount)
-        Me.TabPage_Parametre.Controls.Add(Me.ProgressBar_Dance)
-        Me.TabPage_Parametre.Controls.Add(Me.Button_Init)
-        Me.TabPage_Parametre.Controls.Add(Me.TextBoxChore)
-        Me.TabPage_Parametre.Controls.Add(Me.ButtonChore)
-        Me.TabPage_Parametre.Controls.Add(Me.TextBoxConfig)
-        Me.TabPage_Parametre.Controls.Add(Me.ButtonParamLoad)
-        Me.TabPage_Parametre.Controls.Add(Me.ButtonParamSave)
-        Me.TabPage_Parametre.Controls.Add(Me.TextBoxMusicPath)
-        Me.TabPage_Parametre.Controls.Add(Me.ButtonMusicPath)
-        Me.TabPage_Parametre.Controls.Add(Me.TextBoxPdfPath)
-        Me.TabPage_Parametre.Controls.Add(Me.ButtonPdfPath)
-        Me.TabPage_Parametre.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage_Parametre.Name = "TabPage_Parametre"
-        Me.TabPage_Parametre.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage_Parametre.Size = New System.Drawing.Size(495, 517)
-        Me.TabPage_Parametre.TabIndex = 4
-        Me.TabPage_Parametre.Text = "Parametres"
-        Me.TabPage_Parametre.UseVisualStyleBackColor = True
-        '
-        'TextBoxPLPath
-        '
-        Me.TextBoxPLPath.Location = New System.Drawing.Point(72, 169)
-        Me.TextBoxPLPath.Name = "TextBoxPLPath"
-        Me.TextBoxPLPath.Size = New System.Drawing.Size(293, 20)
-        Me.TextBoxPLPath.TabIndex = 18
-        Me.TextBoxPLPath.Text = ".\PalyList\"
-        '
-        'ButtonPLPath
-        '
-        Me.ButtonPLPath.BackColor = System.Drawing.Color.DarkKhaki
-        Me.ButtonPLPath.Location = New System.Drawing.Point(7, 167)
-        Me.ButtonPLPath.Name = "ButtonPLPath"
-        Me.ButtonPLPath.Size = New System.Drawing.Size(59, 23)
-        Me.ButtonPLPath.TabIndex = 17
-        Me.ButtonPLPath.Text = "PL Dir"
-        Me.ButtonPLPath.UseVisualStyleBackColor = False
-        '
-        'LabelCount
-        '
-        Me.LabelCount.AutoSize = True
-        Me.LabelCount.Location = New System.Drawing.Point(371, 53)
-        Me.LabelCount.Name = "LabelCount"
-        Me.LabelCount.Size = New System.Drawing.Size(0, 13)
-        Me.LabelCount.TabIndex = 16
-        '
-        'ProgressBar_Dance
-        '
-        Me.ProgressBar_Dance.Location = New System.Drawing.Point(7, 206)
-        Me.ProgressBar_Dance.Name = "ProgressBar_Dance"
-        Me.ProgressBar_Dance.Size = New System.Drawing.Size(197, 19)
-        Me.ProgressBar_Dance.TabIndex = 19
-        '
-        'Button_Init
-        '
-        Me.Button_Init.BackColor = System.Drawing.Color.Goldenrod
-        Me.Button_Init.Location = New System.Drawing.Point(400, 47)
-        Me.Button_Init.Name = "Button_Init"
-        Me.Button_Init.Size = New System.Drawing.Size(75, 23)
-        Me.Button_Init.TabIndex = 15
-        Me.Button_Init.Text = "Init"
-        Me.Button_Init.UseVisualStyleBackColor = False
-        '
-        'TextBoxChore
-        '
-        Me.TextBoxChore.Location = New System.Drawing.Point(72, 50)
-        Me.TextBoxChore.Name = "TextBoxChore"
-        Me.TextBoxChore.Size = New System.Drawing.Size(293, 20)
-        Me.TextBoxChore.TabIndex = 14
-        Me.TextBoxChore.Text = ".\Chores.xml"
-        '
-        'ButtonChore
-        '
-        Me.ButtonChore.BackColor = System.Drawing.Color.DarkKhaki
-        Me.ButtonChore.Location = New System.Drawing.Point(7, 50)
-        Me.ButtonChore.Name = "ButtonChore"
-        Me.ButtonChore.Size = New System.Drawing.Size(59, 23)
-        Me.ButtonChore.TabIndex = 13
-        Me.ButtonChore.Text = "Chore"
-        Me.ButtonChore.UseVisualStyleBackColor = False
-        '
-        'TextBoxConfig
-        '
-        Me.TextBoxConfig.Location = New System.Drawing.Point(72, 11)
-        Me.TextBoxConfig.Name = "TextBoxConfig"
-        Me.TextBoxConfig.Size = New System.Drawing.Size(293, 20)
-        Me.TextBoxConfig.TabIndex = 12
-        Me.TextBoxConfig.Text = ".\config.xml"
-        '
-        'ButtonParamLoad
-        '
-        Me.ButtonParamLoad.BackColor = System.Drawing.Color.DarkKhaki
-        Me.ButtonParamLoad.Location = New System.Drawing.Point(7, 11)
-        Me.ButtonParamLoad.Name = "ButtonParamLoad"
-        Me.ButtonParamLoad.Size = New System.Drawing.Size(59, 23)
-        Me.ButtonParamLoad.TabIndex = 11
-        Me.ButtonParamLoad.Text = "Config"
-        Me.ButtonParamLoad.UseVisualStyleBackColor = False
-        '
-        'ButtonParamSave
-        '
-        Me.ButtonParamSave.BackColor = System.Drawing.Color.Goldenrod
-        Me.ButtonParamSave.Location = New System.Drawing.Point(400, 11)
-        Me.ButtonParamSave.Name = "ButtonParamSave"
-        Me.ButtonParamSave.Size = New System.Drawing.Size(75, 23)
-        Me.ButtonParamSave.TabIndex = 10
-        Me.ButtonParamSave.Text = "Sauver"
-        Me.ButtonParamSave.UseVisualStyleBackColor = False
-        '
-        'TextBoxMusicPath
-        '
-        Me.TextBoxMusicPath.Location = New System.Drawing.Point(72, 129)
-        Me.TextBoxMusicPath.Name = "TextBoxMusicPath"
-        Me.TextBoxMusicPath.Size = New System.Drawing.Size(293, 20)
-        Me.TextBoxMusicPath.TabIndex = 9
-        Me.TextBoxMusicPath.Text = ".\Music\"
-        '
-        'ButtonMusicPath
-        '
-        Me.ButtonMusicPath.BackColor = System.Drawing.Color.DarkKhaki
-        Me.ButtonMusicPath.Location = New System.Drawing.Point(7, 127)
-        Me.ButtonMusicPath.Name = "ButtonMusicPath"
-        Me.ButtonMusicPath.Size = New System.Drawing.Size(59, 23)
-        Me.ButtonMusicPath.TabIndex = 8
-        Me.ButtonMusicPath.Text = "Music Dir"
-        Me.ButtonMusicPath.UseVisualStyleBackColor = False
-        '
-        'TextBoxPdfPath
-        '
-        Me.TextBoxPdfPath.Location = New System.Drawing.Point(72, 89)
-        Me.TextBoxPdfPath.Name = "TextBoxPdfPath"
-        Me.TextBoxPdfPath.Size = New System.Drawing.Size(293, 20)
-        Me.TextBoxPdfPath.TabIndex = 7
-        Me.TextBoxPdfPath.Text = ".\Fiches\"
-        '
-        'ButtonPdfPath
-        '
-        Me.ButtonPdfPath.BackColor = System.Drawing.Color.DarkKhaki
-        Me.ButtonPdfPath.Location = New System.Drawing.Point(7, 87)
-        Me.ButtonPdfPath.Name = "ButtonPdfPath"
-        Me.ButtonPdfPath.Size = New System.Drawing.Size(59, 23)
-        Me.ButtonPdfPath.TabIndex = 6
-        Me.ButtonPdfPath.Text = "PDF Dir"
-        Me.ButtonPdfPath.UseVisualStyleBackColor = False
-        '
         'OpenFileDialog1
         '
         Me.OpenFileDialog1.FileName = "OpenFileDialog1"
@@ -384,10 +112,10 @@ Partial Class CountryPlayer
         '
         Me.TabControl1.Controls.Add(Me.TabPage_Chore)
         Me.TabControl1.Controls.Add(Me.TabPage_Danses)
-        Me.TabControl1.Location = New System.Drawing.Point(248, 53)
+        Me.TabControl1.Location = New System.Drawing.Point(248, 56)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
-        Me.TabControl1.Size = New System.Drawing.Size(259, 502)
+        Me.TabControl1.Size = New System.Drawing.Size(255, 499)
         Me.TabControl1.TabIndex = 18
         '
         'TabPage_Chore
@@ -420,7 +148,7 @@ Partial Class CountryPlayer
         Me.TabPage_Chore.Location = New System.Drawing.Point(4, 22)
         Me.TabPage_Chore.Name = "TabPage_Chore"
         Me.TabPage_Chore.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage_Chore.Size = New System.Drawing.Size(251, 476)
+        Me.TabPage_Chore.Size = New System.Drawing.Size(247, 473)
         Me.TabPage_Chore.TabIndex = 0
         Me.TabPage_Chore.Text = "Chore"
         Me.TabPage_Chore.UseVisualStyleBackColor = True
@@ -641,6 +369,8 @@ Partial Class CountryPlayer
         '
         Me.TabPage_Danses.BackgroundImage = Global.CountryPlayerDance.My.Resources.Resources.Fond_paper
         Me.TabPage_Danses.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
+        Me.TabPage_Danses.Controls.Add(Me.Button_PlBas)
+        Me.TabPage_Danses.Controls.Add(Me.Button_PlHaut)
         Me.TabPage_Danses.Controls.Add(Me.Button_NewPL)
         Me.TabPage_Danses.Controls.Add(Me.Button_EffacerList)
         Me.TabPage_Danses.Controls.Add(Me.Button_SauverList)
@@ -650,13 +380,31 @@ Partial Class CountryPlayer
         Me.TabPage_Danses.Location = New System.Drawing.Point(4, 22)
         Me.TabPage_Danses.Name = "TabPage_Danses"
         Me.TabPage_Danses.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage_Danses.Size = New System.Drawing.Size(251, 476)
+        Me.TabPage_Danses.Size = New System.Drawing.Size(247, 473)
         Me.TabPage_Danses.TabIndex = 1
         Me.TabPage_Danses.Text = "Toutes"
         '
+        'Button_PlBas
+        '
+        Me.Button_PlBas.Location = New System.Drawing.Point(105, 446)
+        Me.Button_PlBas.Name = "Button_PlBas"
+        Me.Button_PlBas.Size = New System.Drawing.Size(33, 23)
+        Me.Button_PlBas.TabIndex = 7
+        Me.Button_PlBas.Text = "B"
+        Me.Button_PlBas.UseVisualStyleBackColor = True
+        '
+        'Button_PlHaut
+        '
+        Me.Button_PlHaut.Location = New System.Drawing.Point(105, 417)
+        Me.Button_PlHaut.Name = "Button_PlHaut"
+        Me.Button_PlHaut.Size = New System.Drawing.Size(33, 23)
+        Me.Button_PlHaut.TabIndex = 6
+        Me.Button_PlHaut.Text = "H"
+        Me.Button_PlHaut.UseVisualStyleBackColor = True
+        '
         'Button_NewPL
         '
-        Me.Button_NewPL.Location = New System.Drawing.Point(9, 430)
+        Me.Button_NewPL.Location = New System.Drawing.Point(23, 390)
         Me.Button_NewPL.Name = "Button_NewPL"
         Me.Button_NewPL.Size = New System.Drawing.Size(208, 22)
         Me.Button_NewPL.TabIndex = 5
@@ -665,25 +413,25 @@ Partial Class CountryPlayer
         '
         'Button_EffacerList
         '
-        Me.Button_EffacerList.Location = New System.Drawing.Point(95, 486)
+        Me.Button_EffacerList.Location = New System.Drawing.Point(144, 446)
         Me.Button_EffacerList.Name = "Button_EffacerList"
-        Me.Button_EffacerList.Size = New System.Drawing.Size(122, 23)
+        Me.Button_EffacerList.Size = New System.Drawing.Size(94, 23)
         Me.Button_EffacerList.TabIndex = 4
         Me.Button_EffacerList.Text = "Effacer Liste"
         Me.Button_EffacerList.UseVisualStyleBackColor = True
         '
         'Button_SauverList
         '
-        Me.Button_SauverList.Location = New System.Drawing.Point(95, 457)
+        Me.Button_SauverList.Location = New System.Drawing.Point(144, 417)
         Me.Button_SauverList.Name = "Button_SauverList"
-        Me.Button_SauverList.Size = New System.Drawing.Size(122, 23)
+        Me.Button_SauverList.Size = New System.Drawing.Size(94, 23)
         Me.Button_SauverList.TabIndex = 3
         Me.Button_SauverList.Text = "Sauver Liste"
         Me.Button_SauverList.UseVisualStyleBackColor = True
         '
         'Button_EnleverList
         '
-        Me.Button_EnleverList.Location = New System.Drawing.Point(9, 486)
+        Me.Button_EnleverList.Location = New System.Drawing.Point(15, 446)
         Me.Button_EnleverList.Name = "Button_EnleverList"
         Me.Button_EnleverList.Size = New System.Drawing.Size(80, 23)
         Me.Button_EnleverList.TabIndex = 2
@@ -692,7 +440,7 @@ Partial Class CountryPlayer
         '
         'Button_AjouterList
         '
-        Me.Button_AjouterList.Location = New System.Drawing.Point(9, 457)
+        Me.Button_AjouterList.Location = New System.Drawing.Point(15, 417)
         Me.Button_AjouterList.Name = "Button_AjouterList"
         Me.Button_AjouterList.Size = New System.Drawing.Size(80, 23)
         Me.Button_AjouterList.TabIndex = 1
@@ -704,9 +452,9 @@ Partial Class CountryPlayer
         Me.ListBox_All.BackColor = System.Drawing.Color.PaleGoldenrod
         Me.ListBox_All.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.ListBox_All.FormattingEnabled = True
-        Me.ListBox_All.Location = New System.Drawing.Point(9, 5)
+        Me.ListBox_All.Location = New System.Drawing.Point(9, 8)
         Me.ListBox_All.Name = "ListBox_All"
-        Me.ListBox_All.Size = New System.Drawing.Size(208, 416)
+        Me.ListBox_All.Size = New System.Drawing.Size(236, 377)
         Me.ListBox_All.Sorted = True
         Me.ListBox_All.TabIndex = 0
         '
@@ -727,6 +475,226 @@ Partial Class CountryPlayer
         Me.ComboBox_PL.Size = New System.Drawing.Size(188, 21)
         Me.ComboBox_PL.TabIndex = 21
         '
+        'TabPage_Parametre
+        '
+        Me.TabPage_Parametre.AutoScroll = True
+        Me.TabPage_Parametre.BackgroundImage = Global.CountryPlayerDance.My.Resources.Resources.Fond_paper
+        Me.TabPage_Parametre.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
+        Me.TabPage_Parametre.Controls.Add(Me.TextBoxPLPath)
+        Me.TabPage_Parametre.Controls.Add(Me.TextBoxChore)
+        Me.TabPage_Parametre.Controls.Add(Me.TextBoxConfig)
+        Me.TabPage_Parametre.Controls.Add(Me.TextBoxMusicPath)
+        Me.TabPage_Parametre.Controls.Add(Me.TextBoxPdfPath)
+        Me.TabPage_Parametre.Controls.Add(Me.ButtonPLPath)
+        Me.TabPage_Parametre.Controls.Add(Me.LabelCount)
+        Me.TabPage_Parametre.Controls.Add(Me.ProgressBar_Dance)
+        Me.TabPage_Parametre.Controls.Add(Me.Button_Init)
+        Me.TabPage_Parametre.Controls.Add(Me.ButtonChore)
+        Me.TabPage_Parametre.Controls.Add(Me.ButtonParamLoad)
+        Me.TabPage_Parametre.Controls.Add(Me.ButtonParamSave)
+        Me.TabPage_Parametre.Controls.Add(Me.ButtonMusicPath)
+        Me.TabPage_Parametre.Controls.Add(Me.ButtonPdfPath)
+        Me.TabPage_Parametre.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage_Parametre.Name = "TabPage_Parametre"
+        Me.TabPage_Parametre.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage_Parametre.Size = New System.Drawing.Size(495, 517)
+        Me.TabPage_Parametre.TabIndex = 4
+        Me.TabPage_Parametre.Text = "Parametres"
+        Me.TabPage_Parametre.UseVisualStyleBackColor = True
+        '
+        'TextBoxPLPath
+        '
+        Me.TextBoxPLPath.Location = New System.Drawing.Point(72, 169)
+        Me.TextBoxPLPath.Name = "TextBoxPLPath"
+        Me.TextBoxPLPath.Size = New System.Drawing.Size(293, 20)
+        Me.TextBoxPLPath.TabIndex = 18
+        '
+        'TextBoxChore
+        '
+        Me.TextBoxChore.Location = New System.Drawing.Point(72, 50)
+        Me.TextBoxChore.Name = "TextBoxChore"
+        Me.TextBoxChore.Size = New System.Drawing.Size(293, 20)
+        Me.TextBoxChore.TabIndex = 14
+        '
+        'TextBoxConfig
+        '
+        Me.TextBoxConfig.Location = New System.Drawing.Point(72, 11)
+        Me.TextBoxConfig.Name = "TextBoxConfig"
+        Me.TextBoxConfig.Size = New System.Drawing.Size(293, 20)
+        Me.TextBoxConfig.TabIndex = 12
+        Me.TextBoxConfig.Text = ".\config.xml"
+        '
+        'TextBoxMusicPath
+        '
+        Me.TextBoxMusicPath.Location = New System.Drawing.Point(72, 129)
+        Me.TextBoxMusicPath.Name = "TextBoxMusicPath"
+        Me.TextBoxMusicPath.Size = New System.Drawing.Size(293, 20)
+        Me.TextBoxMusicPath.TabIndex = 9
+        '
+        'TextBoxPdfPath
+        '
+        Me.TextBoxPdfPath.Location = New System.Drawing.Point(72, 89)
+        Me.TextBoxPdfPath.Name = "TextBoxPdfPath"
+        Me.TextBoxPdfPath.Size = New System.Drawing.Size(293, 20)
+        Me.TextBoxPdfPath.TabIndex = 7
+        '
+        'ButtonPLPath
+        '
+        Me.ButtonPLPath.BackColor = System.Drawing.Color.DarkKhaki
+        Me.ButtonPLPath.Location = New System.Drawing.Point(7, 167)
+        Me.ButtonPLPath.Name = "ButtonPLPath"
+        Me.ButtonPLPath.Size = New System.Drawing.Size(59, 23)
+        Me.ButtonPLPath.TabIndex = 17
+        Me.ButtonPLPath.Text = "PL Dir"
+        Me.ButtonPLPath.UseVisualStyleBackColor = False
+        '
+        'LabelCount
+        '
+        Me.LabelCount.AutoSize = True
+        Me.LabelCount.Location = New System.Drawing.Point(371, 53)
+        Me.LabelCount.Name = "LabelCount"
+        Me.LabelCount.Size = New System.Drawing.Size(0, 13)
+        Me.LabelCount.TabIndex = 16
+        '
+        'ProgressBar_Dance
+        '
+        Me.ProgressBar_Dance.Location = New System.Drawing.Point(7, 206)
+        Me.ProgressBar_Dance.Name = "ProgressBar_Dance"
+        Me.ProgressBar_Dance.Size = New System.Drawing.Size(197, 19)
+        Me.ProgressBar_Dance.TabIndex = 19
+        '
+        'Button_Init
+        '
+        Me.Button_Init.BackColor = System.Drawing.Color.Goldenrod
+        Me.Button_Init.Location = New System.Drawing.Point(400, 47)
+        Me.Button_Init.Name = "Button_Init"
+        Me.Button_Init.Size = New System.Drawing.Size(75, 23)
+        Me.Button_Init.TabIndex = 15
+        Me.Button_Init.Text = "Init"
+        Me.Button_Init.UseVisualStyleBackColor = False
+        '
+        'ButtonChore
+        '
+        Me.ButtonChore.BackColor = System.Drawing.Color.DarkKhaki
+        Me.ButtonChore.Location = New System.Drawing.Point(7, 50)
+        Me.ButtonChore.Name = "ButtonChore"
+        Me.ButtonChore.Size = New System.Drawing.Size(59, 23)
+        Me.ButtonChore.TabIndex = 13
+        Me.ButtonChore.Text = "Chore"
+        Me.ButtonChore.UseVisualStyleBackColor = False
+        '
+        'ButtonParamLoad
+        '
+        Me.ButtonParamLoad.BackColor = System.Drawing.Color.DarkKhaki
+        Me.ButtonParamLoad.Location = New System.Drawing.Point(7, 11)
+        Me.ButtonParamLoad.Name = "ButtonParamLoad"
+        Me.ButtonParamLoad.Size = New System.Drawing.Size(59, 23)
+        Me.ButtonParamLoad.TabIndex = 11
+        Me.ButtonParamLoad.Text = "Config"
+        Me.ButtonParamLoad.UseVisualStyleBackColor = False
+        '
+        'ButtonParamSave
+        '
+        Me.ButtonParamSave.BackColor = System.Drawing.Color.Goldenrod
+        Me.ButtonParamSave.Location = New System.Drawing.Point(400, 11)
+        Me.ButtonParamSave.Name = "ButtonParamSave"
+        Me.ButtonParamSave.Size = New System.Drawing.Size(75, 23)
+        Me.ButtonParamSave.TabIndex = 10
+        Me.ButtonParamSave.Text = "Sauver"
+        Me.ButtonParamSave.UseVisualStyleBackColor = False
+        '
+        'ButtonMusicPath
+        '
+        Me.ButtonMusicPath.BackColor = System.Drawing.Color.DarkKhaki
+        Me.ButtonMusicPath.Location = New System.Drawing.Point(7, 127)
+        Me.ButtonMusicPath.Name = "ButtonMusicPath"
+        Me.ButtonMusicPath.Size = New System.Drawing.Size(59, 23)
+        Me.ButtonMusicPath.TabIndex = 8
+        Me.ButtonMusicPath.Text = "Music Dir"
+        Me.ButtonMusicPath.UseVisualStyleBackColor = False
+        '
+        'ButtonPdfPath
+        '
+        Me.ButtonPdfPath.BackColor = System.Drawing.Color.DarkKhaki
+        Me.ButtonPdfPath.Location = New System.Drawing.Point(7, 87)
+        Me.ButtonPdfPath.Name = "ButtonPdfPath"
+        Me.ButtonPdfPath.Size = New System.Drawing.Size(59, 23)
+        Me.ButtonPdfPath.TabIndex = 6
+        Me.ButtonPdfPath.Text = "PDF Dir"
+        Me.ButtonPdfPath.UseVisualStyleBackColor = False
+        '
+        'TabPage_pdf
+        '
+        Me.TabPage_pdf.BackColor = System.Drawing.Color.DarkGoldenrod
+        Me.TabPage_pdf.BackgroundImage = Global.CountryPlayerDance.My.Resources.Resources.Fond_paper
+        Me.TabPage_pdf.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
+        Me.TabPage_pdf.Controls.Add(Me.TextBox_Youtube)
+        Me.TabPage_pdf.Controls.Add(Me.Button_Youtube)
+        Me.TabPage_pdf.Controls.Add(Me.AxAcroPDF1)
+        Me.TabPage_pdf.Controls.Add(Me.ButtonPdf)
+        Me.TabPage_pdf.Controls.Add(Me.LabelPdfFile)
+        Me.TabPage_pdf.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage_pdf.Name = "TabPage_pdf"
+        Me.TabPage_pdf.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage_pdf.Size = New System.Drawing.Size(495, 517)
+        Me.TabPage_pdf.TabIndex = 1
+        Me.TabPage_pdf.Text = "PDF"
+        '
+        'TextBox_Youtube
+        '
+        Me.TextBox_Youtube.Location = New System.Drawing.Point(96, 487)
+        Me.TextBox_Youtube.Name = "TextBox_Youtube"
+        Me.TextBox_Youtube.Size = New System.Drawing.Size(393, 20)
+        Me.TextBox_Youtube.TabIndex = 21
+        '
+        'Button_Youtube
+        '
+        Me.Button_Youtube.BackColor = System.Drawing.Color.Tan
+        Me.Button_Youtube.Location = New System.Drawing.Point(6, 487)
+        Me.Button_Youtube.Name = "Button_Youtube"
+        Me.Button_Youtube.Size = New System.Drawing.Size(84, 24)
+        Me.Button_Youtube.TabIndex = 20
+        Me.Button_Youtube.Text = "Youtube"
+        Me.Button_Youtube.UseVisualStyleBackColor = False
+        '
+        'AxAcroPDF1
+        '
+        Me.AxAcroPDF1.Enabled = True
+        Me.AxAcroPDF1.Location = New System.Drawing.Point(6, 42)
+        Me.AxAcroPDF1.Name = "AxAcroPDF1"
+        Me.AxAcroPDF1.OcxState = CType(resources.GetObject("AxAcroPDF1.OcxState"), System.Windows.Forms.AxHost.State)
+        Me.AxAcroPDF1.Size = New System.Drawing.Size(483, 439)
+        Me.AxAcroPDF1.TabIndex = 0
+        '
+        'ButtonPdf
+        '
+        Me.ButtonPdf.BackColor = System.Drawing.Color.Tan
+        Me.ButtonPdf.Location = New System.Drawing.Point(6, 13)
+        Me.ButtonPdf.Name = "ButtonPdf"
+        Me.ButtonPdf.Size = New System.Drawing.Size(84, 24)
+        Me.ButtonPdf.TabIndex = 18
+        Me.ButtonPdf.Text = "Ouvrir PDF"
+        Me.ButtonPdf.UseVisualStyleBackColor = False
+        '
+        'LabelPdfFile
+        '
+        Me.LabelPdfFile.AutoSize = True
+        Me.LabelPdfFile.BackColor = System.Drawing.Color.Transparent
+        Me.LabelPdfFile.Location = New System.Drawing.Point(105, 19)
+        Me.LabelPdfFile.Name = "LabelPdfFile"
+        Me.LabelPdfFile.Size = New System.Drawing.Size(0, 13)
+        Me.LabelPdfFile.TabIndex = 1
+        '
+        'TabPage
+        '
+        Me.TabPage.Controls.Add(Me.TabPage_pdf)
+        Me.TabPage.Controls.Add(Me.TabPage_Parametre)
+        Me.TabPage.Location = New System.Drawing.Point(509, 12)
+        Me.TabPage.Name = "TabPage"
+        Me.TabPage.SelectedIndex = 0
+        Me.TabPage.Size = New System.Drawing.Size(503, 543)
+        Me.TabPage.TabIndex = 1
+        '
         'CountryPlayer
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -740,57 +708,31 @@ Partial Class CountryPlayer
         Me.Controls.Add(Me.ListBoxDanses)
         Me.Controls.Add(Me.TabPage)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.Name = "CountryPlayer"
-        Me.Text = "Country Player"
-        Me.TabPage.ResumeLayout(False)
-        Me.TabPage_pdf.ResumeLayout(False)
-        Me.TabPage_pdf.PerformLayout()
-        CType(Me.AxShockwaveFlash1, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.AxAcroPDF1, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.TabPage_Youtube.ResumeLayout(False)
-        Me.TabPage_Youtube.PerformLayout()
-        CType(Me.AxShockwaveFlash2, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.TabPage_Parametre.ResumeLayout(False)
-        Me.TabPage_Parametre.PerformLayout()
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "Country Player Dance"
         Me.TabControl1.ResumeLayout(False)
         Me.TabPage_Chore.ResumeLayout(False)
         Me.TabPage_Chore.PerformLayout()
         CType(Me.AxWindowsMediaPlayer1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabPage_Danses.ResumeLayout(False)
+        Me.TabPage_Parametre.ResumeLayout(False)
+        Me.TabPage_Parametre.PerformLayout()
+        Me.TabPage_pdf.ResumeLayout(False)
+        Me.TabPage_pdf.PerformLayout()
+        CType(Me.AxAcroPDF1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.TabPage.ResumeLayout(False)
         Me.ResumeLayout(False)
 
     End Sub
     Friend WithEvents ListBoxDanses As System.Windows.Forms.ListBox
-    Friend WithEvents TabPage As System.Windows.Forms.TabControl
-    Friend WithEvents TabPage_pdf As System.Windows.Forms.TabPage
     Friend WithEvents FolderBrowserDialog1 As System.Windows.Forms.FolderBrowserDialog
-    Friend WithEvents TabPage_Youtube As System.Windows.Forms.TabPage
     Friend WithEvents OpenFileDialog1 As System.Windows.Forms.OpenFileDialog
-    Friend WithEvents AxAcroPDF1 As AxAcroPDFLib.AxAcroPDF
-    Friend WithEvents TabPage_Parametre As System.Windows.Forms.TabPage
-    Friend WithEvents TextBoxPdfPath As System.Windows.Forms.TextBox
-    Friend WithEvents ButtonPdfPath As System.Windows.Forms.Button
-    Friend WithEvents TextBoxMusicPath As System.Windows.Forms.TextBox
-    Friend WithEvents ButtonMusicPath As System.Windows.Forms.Button
-    Friend WithEvents ButtonParamLoad As System.Windows.Forms.Button
-    Friend WithEvents ButtonParamSave As System.Windows.Forms.Button
-    Friend WithEvents TextBoxConfig As System.Windows.Forms.TextBox
-    Friend WithEvents ButtonPdf As System.Windows.Forms.Button
-    Friend WithEvents LabelPdfFile As System.Windows.Forms.Label
     Friend WithEvents TabControl1 As System.Windows.Forms.TabControl
     Friend WithEvents TabPage_Danses As System.Windows.Forms.TabPage
-    Friend WithEvents ProgressBar_Dance As System.Windows.Forms.ProgressBar
-    Friend WithEvents TextBoxChore As System.Windows.Forms.TextBox
-    Friend WithEvents ButtonChore As System.Windows.Forms.Button
     Friend WithEvents ListBox_All As System.Windows.Forms.ListBox
-    Friend WithEvents Button_Init As System.Windows.Forms.Button
-    Friend WithEvents LabelCount As System.Windows.Forms.Label
-    Friend WithEvents AxShockwaveFlash1 As AxShockwaveFlashObjects.AxShockwaveFlash
-    Friend WithEvents Button_OpenURL As System.Windows.Forms.Button
-    Friend WithEvents Label_YoutubeURL As System.Windows.Forms.Label
-    Friend WithEvents AxShockwaveFlash2 As AxShockwaveFlashObjects.AxShockwaveFlash
-    Friend WithEvents TextBox_YoutubeUrl As System.Windows.Forms.TextBox
     Friend WithEvents TabPage_Chore As System.Windows.Forms.TabPage
     Friend WithEvents AxWindowsMediaPlayer1 As AxWMPLib.AxWindowsMediaPlayer
     Friend WithEvents Button_DanseSave As System.Windows.Forms.Button
@@ -819,10 +761,32 @@ Partial Class CountryPlayer
     Friend WithEvents Button_Valider As System.Windows.Forms.Button
     Friend WithEvents Button_NewPL As System.Windows.Forms.Button
     Friend WithEvents Label_NbPL As System.Windows.Forms.Label
-    Friend WithEvents TextBoxPLPath As System.Windows.Forms.TextBox
-    Friend WithEvents ButtonPLPath As System.Windows.Forms.Button
     Friend WithEvents ComboBox_PL As System.Windows.Forms.ComboBox
     Friend WithEvents Button_Cancel As System.Windows.Forms.Button
     Friend WithEvents LabelMusicFile As System.Windows.Forms.Label
+    Friend WithEvents TabPage_Parametre As System.Windows.Forms.TabPage
+    Friend WithEvents TextBoxPLPath As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxChore As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxConfig As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxMusicPath As System.Windows.Forms.TextBox
+    Friend WithEvents TextBoxPdfPath As System.Windows.Forms.TextBox
+    Friend WithEvents ButtonPLPath As System.Windows.Forms.Button
+    Friend WithEvents LabelCount As System.Windows.Forms.Label
+    Friend WithEvents ProgressBar_Dance As System.Windows.Forms.ProgressBar
+    Friend WithEvents Button_Init As System.Windows.Forms.Button
+    Friend WithEvents ButtonChore As System.Windows.Forms.Button
+    Friend WithEvents ButtonParamLoad As System.Windows.Forms.Button
+    Friend WithEvents ButtonParamSave As System.Windows.Forms.Button
+    Friend WithEvents ButtonMusicPath As System.Windows.Forms.Button
+    Friend WithEvents ButtonPdfPath As System.Windows.Forms.Button
+    Friend WithEvents TabPage_pdf As System.Windows.Forms.TabPage
+    Friend WithEvents AxAcroPDF1 As AxAcroPDFLib.AxAcroPDF
+    Friend WithEvents ButtonPdf As System.Windows.Forms.Button
+    Friend WithEvents LabelPdfFile As System.Windows.Forms.Label
+    Friend WithEvents TabPage As System.Windows.Forms.TabControl
+    Friend WithEvents Button_PlBas As System.Windows.Forms.Button
+    Friend WithEvents Button_PlHaut As System.Windows.Forms.Button
+    Friend WithEvents Button_Youtube As System.Windows.Forms.Button
+    Friend WithEvents TextBox_Youtube As System.Windows.Forms.TextBox
 
 End Class

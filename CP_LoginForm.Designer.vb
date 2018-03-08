@@ -111,7 +111,7 @@ Partial Class CP_LoginForm
         Me.MinimizeBox = False
         Me.Name = "CP_LoginForm"
         Me.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide
-        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Country Player Login"
         Me.ResumeLayout(False)
         Me.PerformLayout()

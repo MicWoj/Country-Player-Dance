@@ -12,7 +12,7 @@ Module CP_Fonctions
     Public Function GetFileName(ByVal Titre As String) As FOLDERFILE
         'open a input box to choose a file and return the directory and the name of the file
         ' return "Empty" if the application was cancered
-        Dim FileName As String
+        Dim FileName As String = ""
 
         'FileName = Application.GetOpenFilename(Title:=Titre)
         'FileName = Application.GetOpenFilename("Image Files (*.jpg), *.jpg", Title:=Titre)

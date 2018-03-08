@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XML Database.-->
+<Configs>
+  <directories>
+    <Chore>C:\Git\Country-Player-Dance\res\CountryDanses.xml</Chore>
+    <PDF>D:\COUNTRY\CountryPlayer\Fiches\</PDF>
+    <Music>D:\Music\</Music>
+    <PlayList>D:\Documents\PL\</PlayList>
+  </directories>
+</Configs>
