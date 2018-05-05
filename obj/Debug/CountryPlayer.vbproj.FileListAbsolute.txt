@@ -24,3 +24,13 @@ c:\Git\Country-Player-Dance\obj\Debug\CountryPlayerDance.application
 c:\Git\Country-Player-Dance\obj\Debug\CountryPlayerDance.exe
 c:\Git\Country-Player-Dance\obj\Debug\CountryPlayerDance.xml
 c:\Git\Country-Player-Dance\obj\Debug\CountryPlayerDance.pdb
+c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.exe.config
+c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.exe.manifest
+c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.application
+c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.exe
+c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.pdb
+c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.xml
+c:\Git\Country-Player-Dance\bin\Release\Interop.AcroPDFLib.dll
+c:\Git\Country-Player-Dance\bin\Release\Interop.WMPLib.dll
+c:\Git\Country-Player-Dance\bin\Release\AxInterop.AcroPDFLib.dll
+c:\Git\Country-Player-Dance\bin\Release\AxInterop.WMPLib.dll

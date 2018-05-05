@@ -84,8 +84,6 @@ C:\Git\Country-Player-Dance\bin\Debug\AxInterop.WMPLib.dll
 C:\Git\Country-Player-Dance\obj\x86\Debug\CountryPlayer.vbproj.GenerateResource.Cache
 C:\Git\Country-Player-Dance\bin\Debug\Interop.ShockwaveFlashObjects.dll
 C:\Git\Country-Player-Dance\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
-C:\Git\Country-Player-Dance\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
-C:\Git\Country-Player-Dance\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
 C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
 C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
 C:\Data\Visual Studio 2010\Projects\Country-Player-Dance\bin\Debug\Interop.ShockwaveFlashObjects.dll
@@ -155,3 +153,12 @@ F:\COUNTRY\Country-Player-Dance\obj\x86\Debug\CountryPlayerDance.exe
 F:\COUNTRY\Country-Player-Dance\obj\x86\Debug\CountryPlayerDance.xml
 F:\COUNTRY\Country-Player-Dance\obj\x86\Debug\CountryPlayerDance.pdb
 c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.exe.config
+c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.exe.manifest
+c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.application
+c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.exe
+c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.pdb
+c:\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.xml
+c:\Git\Country-Player-Dance\bin\Release\Interop.AcroPDFLib.dll
+c:\Git\Country-Player-Dance\bin\Release\Interop.WMPLib.dll
+c:\Git\Country-Player-Dance\bin\Release\AxInterop.AcroPDFLib.dll
+c:\Git\Country-Player-Dance\bin\Release\AxInterop.WMPLib.dll

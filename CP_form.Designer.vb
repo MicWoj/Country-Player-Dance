@@ -28,6 +28,10 @@ Partial Class CountryPlayer
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
         Me.TabControl1 = New System.Windows.Forms.TabControl()
         Me.TabPage_Chore = New System.Windows.Forms.TabPage()
+        Me.Button_rienvu = New System.Windows.Forms.Button()
+        Me.Button_vu = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.TextBox_Comment = New System.Windows.Forms.TextBox()
         Me.LabelMusicFile = New System.Windows.Forms.Label()
         Me.Button_Cancel = New System.Windows.Forms.Button()
         Me.Button_Valider = New System.Windows.Forms.Button()
@@ -52,6 +56,8 @@ Partial Class CountryPlayer
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.TabPage_Danses = New System.Windows.Forms.TabPage()
+        Me.Button_Texte = New System.Windows.Forms.Button()
+        Me.TextBox_texte = New System.Windows.Forms.TextBox()
         Me.Button_PlBas = New System.Windows.Forms.Button()
         Me.Button_PlHaut = New System.Windows.Forms.Button()
         Me.Button_NewPL = New System.Windows.Forms.Button()
@@ -60,6 +66,9 @@ Partial Class CountryPlayer
         Me.Button_EnleverList = New System.Windows.Forms.Button()
         Me.Button_AjouterList = New System.Windows.Forms.Button()
         Me.ListBox_All = New System.Windows.Forms.ListBox()
+        Me.TabPage1 = New System.Windows.Forms.TabPage()
+        Me.Button_initChoregraph = New System.Windows.Forms.Button()
+        Me.ListBox_Choregraphe = New System.Windows.Forms.ListBox()
         Me.Label_NbPL = New System.Windows.Forms.Label()
         Me.ComboBox_PL = New System.Windows.Forms.ComboBox()
         Me.TabPage_Parametre = New System.Windows.Forms.TabPage()
@@ -84,10 +93,13 @@ Partial Class CountryPlayer
         Me.ButtonPdf = New System.Windows.Forms.Button()
         Me.LabelPdfFile = New System.Windows.Forms.Label()
         Me.TabPage = New System.Windows.Forms.TabControl()
+        Me.CListBoxDance = New System.Windows.Forms.CheckedListBox()
+        Me.CheckBox_Tri = New System.Windows.Forms.CheckBox()
         Me.TabControl1.SuspendLayout()
         Me.TabPage_Chore.SuspendLayout()
         CType(Me.AxWindowsMediaPlayer1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage_Danses.SuspendLayout()
+        Me.TabPage1.SuspendLayout()
         Me.TabPage_Parametre.SuspendLayout()
         Me.TabPage_pdf.SuspendLayout()
         CType(Me.AxAcroPDF1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -101,7 +113,7 @@ Partial Class CountryPlayer
         Me.ListBoxDanses.FormattingEnabled = True
         Me.ListBoxDanses.Location = New System.Drawing.Point(12, 82)
         Me.ListBoxDanses.Name = "ListBoxDanses"
-        Me.ListBoxDanses.Size = New System.Drawing.Size(230, 472)
+        Me.ListBoxDanses.Size = New System.Drawing.Size(230, 602)
         Me.ListBoxDanses.TabIndex = 0
         '
         'OpenFileDialog1
@@ -112,16 +124,21 @@ Partial Class CountryPlayer
         '
         Me.TabControl1.Controls.Add(Me.TabPage_Chore)
         Me.TabControl1.Controls.Add(Me.TabPage_Danses)
+        Me.TabControl1.Controls.Add(Me.TabPage1)
         Me.TabControl1.Location = New System.Drawing.Point(248, 56)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
-        Me.TabControl1.Size = New System.Drawing.Size(255, 499)
+        Me.TabControl1.Size = New System.Drawing.Size(255, 625)
         Me.TabControl1.TabIndex = 18
         '
         'TabPage_Chore
         '
         Me.TabPage_Chore.BackgroundImage = CType(resources.GetObject("TabPage_Chore.BackgroundImage"), System.Drawing.Image)
         Me.TabPage_Chore.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
+        Me.TabPage_Chore.Controls.Add(Me.Button_rienvu)
+        Me.TabPage_Chore.Controls.Add(Me.Button_vu)
+        Me.TabPage_Chore.Controls.Add(Me.Label1)
+        Me.TabPage_Chore.Controls.Add(Me.TextBox_Comment)
         Me.TabPage_Chore.Controls.Add(Me.LabelMusicFile)
         Me.TabPage_Chore.Controls.Add(Me.Button_Cancel)
         Me.TabPage_Chore.Controls.Add(Me.Button_Valider)
@@ -148,16 +165,60 @@ Partial Class CountryPlayer
         Me.TabPage_Chore.Location = New System.Drawing.Point(4, 22)
         Me.TabPage_Chore.Name = "TabPage_Chore"
         Me.TabPage_Chore.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage_Chore.Size = New System.Drawing.Size(247, 473)
+        Me.TabPage_Chore.Size = New System.Drawing.Size(247, 599)
         Me.TabPage_Chore.TabIndex = 0
         Me.TabPage_Chore.Text = "Chore"
         Me.TabPage_Chore.UseVisualStyleBackColor = True
         '
+        'Button_rienvu
+        '
+        Me.Button_rienvu.BackColor = System.Drawing.Color.Transparent
+        Me.Button_rienvu.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button_rienvu.ForeColor = System.Drawing.Color.Maroon
+        Me.Button_rienvu.Location = New System.Drawing.Point(124, 372)
+        Me.Button_rienvu.Name = "Button_rienvu"
+        Me.Button_rienvu.Size = New System.Drawing.Size(103, 27)
+        Me.Button_rienvu.TabIndex = 35
+        Me.Button_rienvu.Text = "RIENVU"
+        Me.Button_rienvu.UseVisualStyleBackColor = False
+        '
+        'Button_vu
+        '
+        Me.Button_vu.BackColor = System.Drawing.Color.Transparent
+        Me.Button_vu.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button_vu.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.Button_vu.Location = New System.Drawing.Point(18, 372)
+        Me.Button_vu.Name = "Button_vu"
+        Me.Button_vu.Size = New System.Drawing.Size(98, 27)
+        Me.Button_vu.TabIndex = 34
+        Me.Button_vu.Text = "VU"
+        Me.Button_vu.UseVisualStyleBackColor = False
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.ForeColor = System.Drawing.SystemColors.Control
+        Me.Label1.Location = New System.Drawing.Point(32, 279)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(85, 13)
+        Me.Label1.TabIndex = 32
+        Me.Label1.Text = "Commentaires"
+        '
+        'TextBox_Comment
+        '
+        Me.TextBox_Comment.Location = New System.Drawing.Point(21, 295)
+        Me.TextBox_Comment.Multiline = True
+        Me.TextBox_Comment.Name = "TextBox_Comment"
+        Me.TextBox_Comment.Size = New System.Drawing.Size(208, 65)
+        Me.TextBox_Comment.TabIndex = 31
+        '
         'LabelMusicFile
         '
-        Me.LabelMusicFile.Location = New System.Drawing.Point(123, 309)
+        Me.LabelMusicFile.BackColor = System.Drawing.Color.White
+        Me.LabelMusicFile.Location = New System.Drawing.Point(20, 468)
         Me.LabelMusicFile.Name = "LabelMusicFile"
-        Me.LabelMusicFile.Size = New System.Drawing.Size(97, 34)
+        Me.LabelMusicFile.Size = New System.Drawing.Size(216, 19)
         Me.LabelMusicFile.TabIndex = 30
         '
         'Button_Cancel
@@ -165,9 +226,9 @@ Partial Class CountryPlayer
         Me.Button_Cancel.BackColor = System.Drawing.Color.Transparent
         Me.Button_Cancel.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button_Cancel.ForeColor = System.Drawing.Color.Red
-        Me.Button_Cancel.Location = New System.Drawing.Point(19, 257)
+        Me.Button_Cancel.Location = New System.Drawing.Point(19, 243)
         Me.Button_Cancel.Name = "Button_Cancel"
-        Me.Button_Cancel.Size = New System.Drawing.Size(98, 36)
+        Me.Button_Cancel.Size = New System.Drawing.Size(98, 29)
         Me.Button_Cancel.TabIndex = 29
         Me.Button_Cancel.Text = "ANNULER"
         Me.Button_Cancel.UseVisualStyleBackColor = False
@@ -176,18 +237,19 @@ Partial Class CountryPlayer
         '
         Me.Button_Valider.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button_Valider.ForeColor = System.Drawing.Color.DarkSlateGray
-        Me.Button_Valider.Location = New System.Drawing.Point(123, 218)
+        Me.Button_Valider.Location = New System.Drawing.Point(123, 210)
         Me.Button_Valider.Name = "Button_Valider"
-        Me.Button_Valider.Size = New System.Drawing.Size(103, 33)
+        Me.Button_Valider.Size = New System.Drawing.Size(103, 26)
         Me.Button_Valider.TabIndex = 28
         Me.Button_Valider.Text = "VALIDER"
         Me.Button_Valider.UseVisualStyleBackColor = True
         '
         'ButtonMusic
         '
-        Me.ButtonMusic.Location = New System.Drawing.Point(21, 309)
+        Me.ButtonMusic.Font = New System.Drawing.Font("Nandaka Western", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.ButtonMusic.Location = New System.Drawing.Point(21, 408)
         Me.ButtonMusic.Name = "ButtonMusic"
-        Me.ButtonMusic.Size = New System.Drawing.Size(89, 34)
+        Me.ButtonMusic.Size = New System.Drawing.Size(215, 57)
         Me.ButtonMusic.TabIndex = 26
         Me.ButtonMusic.Text = "Music"
         Me.ButtonMusic.UseVisualStyleBackColor = True
@@ -257,18 +319,18 @@ Partial Class CountryPlayer
         Me.Button_DanseSave.BackColor = System.Drawing.Color.Transparent
         Me.Button_DanseSave.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button_DanseSave.ForeColor = System.Drawing.Color.Olive
-        Me.Button_DanseSave.Location = New System.Drawing.Point(123, 257)
+        Me.Button_DanseSave.Location = New System.Drawing.Point(123, 243)
         Me.Button_DanseSave.Name = "Button_DanseSave"
-        Me.Button_DanseSave.Size = New System.Drawing.Size(104, 36)
+        Me.Button_DanseSave.Size = New System.Drawing.Size(104, 29)
         Me.Button_DanseSave.TabIndex = 24
         Me.Button_DanseSave.Text = "SAUVER"
         Me.Button_DanseSave.UseVisualStyleBackColor = False
         '
         'ButtonNew
         '
-        Me.ButtonNew.Location = New System.Drawing.Point(18, 218)
+        Me.ButtonNew.Location = New System.Drawing.Point(18, 210)
         Me.ButtonNew.Name = "ButtonNew"
-        Me.ButtonNew.Size = New System.Drawing.Size(99, 33)
+        Me.ButtonNew.Size = New System.Drawing.Size(99, 26)
         Me.ButtonNew.TabIndex = 23
         Me.ButtonNew.Text = "Nouveau"
         Me.ButtonNew.UseVisualStyleBackColor = True
@@ -277,7 +339,7 @@ Partial Class CountryPlayer
         '
         Me.ButtonDelete.Location = New System.Drawing.Point(123, 179)
         Me.ButtonDelete.Name = "ButtonDelete"
-        Me.ButtonDelete.Size = New System.Drawing.Size(104, 33)
+        Me.ButtonDelete.Size = New System.Drawing.Size(104, 26)
         Me.ButtonDelete.TabIndex = 15
         Me.ButtonDelete.Text = "Supprimer"
         Me.ButtonDelete.UseVisualStyleBackColor = True
@@ -286,7 +348,7 @@ Partial Class CountryPlayer
         '
         Me.ButtonModify.Location = New System.Drawing.Point(18, 180)
         Me.ButtonModify.Name = "ButtonModify"
-        Me.ButtonModify.Size = New System.Drawing.Size(99, 33)
+        Me.ButtonModify.Size = New System.Drawing.Size(99, 26)
         Me.ButtonModify.TabIndex = 14
         Me.ButtonModify.Text = "Modifier"
         Me.ButtonModify.UseVisualStyleBackColor = True
@@ -294,10 +356,10 @@ Partial Class CountryPlayer
         'AxWindowsMediaPlayer1
         '
         Me.AxWindowsMediaPlayer1.Enabled = True
-        Me.AxWindowsMediaPlayer1.Location = New System.Drawing.Point(18, 357)
+        Me.AxWindowsMediaPlayer1.Location = New System.Drawing.Point(19, 490)
         Me.AxWindowsMediaPlayer1.Name = "AxWindowsMediaPlayer1"
         Me.AxWindowsMediaPlayer1.OcxState = CType(resources.GetObject("AxWindowsMediaPlayer1.OcxState"), System.Windows.Forms.AxHost.State)
-        Me.AxWindowsMediaPlayer1.Size = New System.Drawing.Size(217, 113)
+        Me.AxWindowsMediaPlayer1.Size = New System.Drawing.Size(217, 103)
         Me.AxWindowsMediaPlayer1.TabIndex = 25
         '
         'Label8
@@ -369,6 +431,8 @@ Partial Class CountryPlayer
         '
         Me.TabPage_Danses.BackgroundImage = Global.CountryPlayerDance.My.Resources.Resources.Fond_paper
         Me.TabPage_Danses.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
+        Me.TabPage_Danses.Controls.Add(Me.Button_Texte)
+        Me.TabPage_Danses.Controls.Add(Me.TextBox_texte)
         Me.TabPage_Danses.Controls.Add(Me.Button_PlBas)
         Me.TabPage_Danses.Controls.Add(Me.Button_PlHaut)
         Me.TabPage_Danses.Controls.Add(Me.Button_NewPL)
@@ -380,13 +444,29 @@ Partial Class CountryPlayer
         Me.TabPage_Danses.Location = New System.Drawing.Point(4, 22)
         Me.TabPage_Danses.Name = "TabPage_Danses"
         Me.TabPage_Danses.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage_Danses.Size = New System.Drawing.Size(247, 473)
+        Me.TabPage_Danses.Size = New System.Drawing.Size(247, 599)
         Me.TabPage_Danses.TabIndex = 1
         Me.TabPage_Danses.Text = "Toutes"
         '
+        'Button_Texte
+        '
+        Me.Button_Texte.Location = New System.Drawing.Point(18, 568)
+        Me.Button_Texte.Name = "Button_Texte"
+        Me.Button_Texte.Size = New System.Drawing.Size(52, 23)
+        Me.Button_Texte.TabIndex = 9
+        Me.Button_Texte.Text = "Texte"
+        Me.Button_Texte.UseVisualStyleBackColor = True
+        '
+        'TextBox_texte
+        '
+        Me.TextBox_texte.Location = New System.Drawing.Point(76, 571)
+        Me.TextBox_texte.Name = "TextBox_texte"
+        Me.TextBox_texte.Size = New System.Drawing.Size(165, 20)
+        Me.TextBox_texte.TabIndex = 8
+        '
         'Button_PlBas
         '
-        Me.Button_PlBas.Location = New System.Drawing.Point(105, 446)
+        Me.Button_PlBas.Location = New System.Drawing.Point(105, 540)
         Me.Button_PlBas.Name = "Button_PlBas"
         Me.Button_PlBas.Size = New System.Drawing.Size(33, 23)
         Me.Button_PlBas.TabIndex = 7
@@ -395,7 +475,7 @@ Partial Class CountryPlayer
         '
         'Button_PlHaut
         '
-        Me.Button_PlHaut.Location = New System.Drawing.Point(105, 417)
+        Me.Button_PlHaut.Location = New System.Drawing.Point(105, 511)
         Me.Button_PlHaut.Name = "Button_PlHaut"
         Me.Button_PlHaut.Size = New System.Drawing.Size(33, 23)
         Me.Button_PlHaut.TabIndex = 6
@@ -404,7 +484,7 @@ Partial Class CountryPlayer
         '
         'Button_NewPL
         '
-        Me.Button_NewPL.Location = New System.Drawing.Point(23, 390)
+        Me.Button_NewPL.Location = New System.Drawing.Point(23, 484)
         Me.Button_NewPL.Name = "Button_NewPL"
         Me.Button_NewPL.Size = New System.Drawing.Size(208, 22)
         Me.Button_NewPL.TabIndex = 5
@@ -413,7 +493,7 @@ Partial Class CountryPlayer
         '
         'Button_EffacerList
         '
-        Me.Button_EffacerList.Location = New System.Drawing.Point(144, 446)
+        Me.Button_EffacerList.Location = New System.Drawing.Point(144, 540)
         Me.Button_EffacerList.Name = "Button_EffacerList"
         Me.Button_EffacerList.Size = New System.Drawing.Size(94, 23)
         Me.Button_EffacerList.TabIndex = 4
@@ -422,7 +502,7 @@ Partial Class CountryPlayer
         '
         'Button_SauverList
         '
-        Me.Button_SauverList.Location = New System.Drawing.Point(144, 417)
+        Me.Button_SauverList.Location = New System.Drawing.Point(144, 511)
         Me.Button_SauverList.Name = "Button_SauverList"
         Me.Button_SauverList.Size = New System.Drawing.Size(94, 23)
         Me.Button_SauverList.TabIndex = 3
@@ -431,7 +511,7 @@ Partial Class CountryPlayer
         '
         'Button_EnleverList
         '
-        Me.Button_EnleverList.Location = New System.Drawing.Point(15, 446)
+        Me.Button_EnleverList.Location = New System.Drawing.Point(15, 540)
         Me.Button_EnleverList.Name = "Button_EnleverList"
         Me.Button_EnleverList.Size = New System.Drawing.Size(80, 23)
         Me.Button_EnleverList.TabIndex = 2
@@ -440,7 +520,7 @@ Partial Class CountryPlayer
         '
         'Button_AjouterList
         '
-        Me.Button_AjouterList.Location = New System.Drawing.Point(15, 417)
+        Me.Button_AjouterList.Location = New System.Drawing.Point(15, 511)
         Me.Button_AjouterList.Name = "Button_AjouterList"
         Me.Button_AjouterList.Size = New System.Drawing.Size(80, 23)
         Me.Button_AjouterList.TabIndex = 1
@@ -454,15 +534,48 @@ Partial Class CountryPlayer
         Me.ListBox_All.FormattingEnabled = True
         Me.ListBox_All.Location = New System.Drawing.Point(9, 8)
         Me.ListBox_All.Name = "ListBox_All"
-        Me.ListBox_All.Size = New System.Drawing.Size(236, 377)
+        Me.ListBox_All.Size = New System.Drawing.Size(232, 468)
         Me.ListBox_All.Sorted = True
         Me.ListBox_All.TabIndex = 0
+        '
+        'TabPage1
+        '
+        Me.TabPage1.Controls.Add(Me.Button_initChoregraph)
+        Me.TabPage1.Controls.Add(Me.ListBox_Choregraphe)
+        Me.TabPage1.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage1.Name = "TabPage1"
+        Me.TabPage1.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage1.Size = New System.Drawing.Size(247, 599)
+        Me.TabPage1.TabIndex = 2
+        Me.TabPage1.Text = "Choregraphes"
+        Me.TabPage1.UseVisualStyleBackColor = True
+        '
+        'Button_initChoregraph
+        '
+        Me.Button_initChoregraph.Location = New System.Drawing.Point(9, 6)
+        Me.Button_initChoregraph.Name = "Button_initChoregraph"
+        Me.Button_initChoregraph.Size = New System.Drawing.Size(232, 23)
+        Me.Button_initChoregraph.TabIndex = 2
+        Me.Button_initChoregraph.Tag = ""
+        Me.Button_initChoregraph.Text = "Mettre a jour Liste"
+        Me.Button_initChoregraph.UseVisualStyleBackColor = True
+        '
+        'ListBox_Choregraphe
+        '
+        Me.ListBox_Choregraphe.BackColor = System.Drawing.Color.PaleGoldenrod
+        Me.ListBox_Choregraphe.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.ListBox_Choregraphe.FormattingEnabled = True
+        Me.ListBox_Choregraphe.Location = New System.Drawing.Point(9, 35)
+        Me.ListBox_Choregraphe.Name = "ListBox_Choregraphe"
+        Me.ListBox_Choregraphe.Size = New System.Drawing.Size(232, 559)
+        Me.ListBox_Choregraphe.Sorted = True
+        Me.ListBox_Choregraphe.TabIndex = 1
         '
         'Label_NbPL
         '
         Me.Label_NbPL.Anchor = System.Windows.Forms.AnchorStyles.Left
         Me.Label_NbPL.BackColor = System.Drawing.Color.Transparent
-        Me.Label_NbPL.Location = New System.Drawing.Point(12, 56)
+        Me.Label_NbPL.Location = New System.Drawing.Point(12, 58)
         Me.Label_NbPL.Name = "Label_NbPL"
         Me.Label_NbPL.Size = New System.Drawing.Size(36, 21)
         Me.Label_NbPL.TabIndex = 20
@@ -497,7 +610,7 @@ Partial Class CountryPlayer
         Me.TabPage_Parametre.Location = New System.Drawing.Point(4, 22)
         Me.TabPage_Parametre.Name = "TabPage_Parametre"
         Me.TabPage_Parametre.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage_Parametre.Size = New System.Drawing.Size(495, 517)
+        Me.TabPage_Parametre.Size = New System.Drawing.Size(741, 647)
         Me.TabPage_Parametre.TabIndex = 4
         Me.TabPage_Parametre.Text = "Parametres"
         Me.TabPage_Parametre.UseVisualStyleBackColor = True
@@ -636,21 +749,21 @@ Partial Class CountryPlayer
         Me.TabPage_pdf.Location = New System.Drawing.Point(4, 22)
         Me.TabPage_pdf.Name = "TabPage_pdf"
         Me.TabPage_pdf.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage_pdf.Size = New System.Drawing.Size(495, 517)
+        Me.TabPage_pdf.Size = New System.Drawing.Size(741, 647)
         Me.TabPage_pdf.TabIndex = 1
         Me.TabPage_pdf.Text = "PDF"
         '
         'TextBox_Youtube
         '
-        Me.TextBox_Youtube.Location = New System.Drawing.Point(96, 487)
+        Me.TextBox_Youtube.Location = New System.Drawing.Point(372, 11)
         Me.TextBox_Youtube.Name = "TextBox_Youtube"
-        Me.TextBox_Youtube.Size = New System.Drawing.Size(393, 20)
+        Me.TextBox_Youtube.Size = New System.Drawing.Size(363, 20)
         Me.TextBox_Youtube.TabIndex = 21
         '
         'Button_Youtube
         '
         Me.Button_Youtube.BackColor = System.Drawing.Color.Tan
-        Me.Button_Youtube.Location = New System.Drawing.Point(6, 487)
+        Me.Button_Youtube.Location = New System.Drawing.Point(282, 8)
         Me.Button_Youtube.Name = "Button_Youtube"
         Me.Button_Youtube.Size = New System.Drawing.Size(84, 24)
         Me.Button_Youtube.TabIndex = 20
@@ -663,7 +776,7 @@ Partial Class CountryPlayer
         Me.AxAcroPDF1.Location = New System.Drawing.Point(6, 42)
         Me.AxAcroPDF1.Name = "AxAcroPDF1"
         Me.AxAcroPDF1.OcxState = CType(resources.GetObject("AxAcroPDF1.OcxState"), System.Windows.Forms.AxHost.State)
-        Me.AxAcroPDF1.Size = New System.Drawing.Size(483, 439)
+        Me.AxAcroPDF1.Size = New System.Drawing.Size(729, 599)
         Me.AxAcroPDF1.TabIndex = 0
         '
         'ButtonPdf
@@ -692,8 +805,26 @@ Partial Class CountryPlayer
         Me.TabPage.Location = New System.Drawing.Point(509, 12)
         Me.TabPage.Name = "TabPage"
         Me.TabPage.SelectedIndex = 0
-        Me.TabPage.Size = New System.Drawing.Size(503, 543)
+        Me.TabPage.Size = New System.Drawing.Size(749, 673)
         Me.TabPage.TabIndex = 1
+        '
+        'CListBoxDance
+        '
+        Me.CListBoxDance.FormattingEnabled = True
+        Me.CListBoxDance.Location = New System.Drawing.Point(15, 83)
+        Me.CListBoxDance.Name = "CListBoxDance"
+        Me.CListBoxDance.Size = New System.Drawing.Size(227, 559)
+        Me.CListBoxDance.TabIndex = 22
+        '
+        'CheckBox_Tri
+        '
+        Me.CheckBox_Tri.AutoSize = True
+        Me.CheckBox_Tri.Location = New System.Drawing.Point(26, 660)
+        Me.CheckBox_Tri.Name = "CheckBox_Tri"
+        Me.CheckBox_Tri.Size = New System.Drawing.Size(47, 17)
+        Me.CheckBox_Tri.TabIndex = 23
+        Me.CheckBox_Tri.Text = "Trier"
+        Me.CheckBox_Tri.UseVisualStyleBackColor = True
         '
         'CountryPlayer
         '
@@ -701,7 +832,9 @@ Partial Class CountryPlayer
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.ClientSize = New System.Drawing.Size(1029, 563)
+        Me.ClientSize = New System.Drawing.Size(1270, 687)
+        Me.Controls.Add(Me.CheckBox_Tri)
+        Me.Controls.Add(Me.CListBoxDance)
         Me.Controls.Add(Me.Label_NbPL)
         Me.Controls.Add(Me.ComboBox_PL)
         Me.Controls.Add(Me.TabControl1)
@@ -718,6 +851,8 @@ Partial Class CountryPlayer
         Me.TabPage_Chore.PerformLayout()
         CType(Me.AxWindowsMediaPlayer1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabPage_Danses.ResumeLayout(False)
+        Me.TabPage_Danses.PerformLayout()
+        Me.TabPage1.ResumeLayout(False)
         Me.TabPage_Parametre.ResumeLayout(False)
         Me.TabPage_Parametre.PerformLayout()
         Me.TabPage_pdf.ResumeLayout(False)
@@ -725,6 +860,7 @@ Partial Class CountryPlayer
         CType(Me.AxAcroPDF1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabPage.ResumeLayout(False)
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents ListBoxDanses As System.Windows.Forms.ListBox
@@ -788,5 +924,16 @@ Partial Class CountryPlayer
     Friend WithEvents Button_PlHaut As System.Windows.Forms.Button
     Friend WithEvents Button_Youtube As System.Windows.Forms.Button
     Friend WithEvents TextBox_Youtube As System.Windows.Forms.TextBox
+    Friend WithEvents TextBox_Comment As System.Windows.Forms.TextBox
+    Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents Button_vu As System.Windows.Forms.Button
+    Friend WithEvents Button_rienvu As System.Windows.Forms.Button
+    Friend WithEvents CListBoxDance As System.Windows.Forms.CheckedListBox
+    Friend WithEvents Button_Texte As System.Windows.Forms.Button
+    Friend WithEvents TextBox_texte As System.Windows.Forms.TextBox
+    Friend WithEvents CheckBox_Tri As System.Windows.Forms.CheckBox
+    Friend WithEvents TabPage1 As System.Windows.Forms.TabPage
+    Friend WithEvents ListBox_Choregraphe As System.Windows.Forms.ListBox
+    Friend WithEvents Button_initChoregraph As System.Windows.Forms.Button
 
 End Class

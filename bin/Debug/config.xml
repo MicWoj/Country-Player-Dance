@@ -2,9 +2,9 @@
 <!--XML Database.-->
 <Configs>
   <directories>
-    <Chore>C:\COUNTRY\CountryDanses.xml</Chore>
-    <PDF>C:\COUNTRY\Musique\</PDF>
-    <Music>C:\COUNTRY\Fiches\</Music>
-    <PlayList>C:\COUNTRY\Playlist\</PlayList>
+    <Chore>D:\COUNTRY\CountryPlayer\Data\CountryDanses.xml</Chore>
+    <PDF>D:\COUNTRY\CountryPlayer\Fiches\</PDF>
+    <Music>D:\Music\</Music>
+    <PlayList>D:\COUNTRY\PL\</PlayList>
   </directories>
 </Configs>

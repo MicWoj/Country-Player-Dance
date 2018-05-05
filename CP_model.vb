@@ -11,6 +11,7 @@ Module CP_Model
         Private _sPdfPath As String
         Private _sMusicPath As String
         Private _sYoutubeUrl As String
+        Private _sComment As String
 
         Public Property Nom() As String
             Get
@@ -101,6 +102,15 @@ Module CP_Model
             End Set
         End Property
 
+        Public Property Comment() As String
+            Get
+                Comment = _sComment
+            End Get
+            Set(ByVal value As String)
+                _sComment = value
+            End Set
+        End Property
+
         Public Sub New(ByVal sNom As String)
             Nom = sNom
         End Sub
@@ -148,7 +158,7 @@ Module CP_Model
         Public Function getItem(ByVal LeNom As String) As Chore
             getItem = Nothing
             For Each _chore As Chore In maCol
-                If _chore.Nom = LeNom Then
+                If UCase(_chore.Nom) = UCase(LeNom) Then
                     getItem = _chore
                     Exit For
                 End If
