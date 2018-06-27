@@ -35,13 +35,32 @@ Module CP_Fonctions
         End If
     End Function
 
-
-
     Function getMacAddress()
         Dim nics() As NetworkInterface = _
               NetworkInterface.GetAllNetworkInterfaces
         Return nics(0).GetPhysicalAddress.ToString
     End Function
 
+    Public Sub newTbPress(DestListe As String)
+        '        DestFile = "d:\COUNTRY\CountryPlayer\Data\" & DestListe & ".html"
+        '        CreateAfile(DestFile)
+        'Open DestFile For Append As #1
+        '        Print #1, "<h2><i>" & DestListe & "</i></h2>"    ' Ajoute dans le fichier text
+        'Close #1
+    End Sub
 
+    Public Sub writeTbPress(Textline As String)
+        'FileOpen(1, savePlPath, OpenMode.Output) ' Ouvre en ecriture premiere ligne.
+        'Open DestFile For Append As #1
+        '        Print #1, "<p>" & Textline & "</p>"         ' Ajoute dans le fichier text
+        'Close #1
+    End Sub
+
+    Sub CreateAfile(filePath As String)
+        'fs = CreateObject("Scripting.FileSystemObject")
+        'a = fs.CreateTextFile(filePath, True)
+        ''    a.WriteLine ("This is a test.")
+        'a.Close()
+    End Sub
 End Module
+

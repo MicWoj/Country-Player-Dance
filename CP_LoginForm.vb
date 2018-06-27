@@ -43,4 +43,8 @@ Public Class CP_LoginForm
     Private Sub Generate_Click(sender As System.Object, e As System.EventArgs) Handles Generate.Click
         CP_keyGen.Show()
     End Sub
+
+    Private Sub Label_VersionCP_Click(sender As System.Object, e As System.EventArgs) Handles Label_VersionCP.Click
+
+    End Sub
 End Class

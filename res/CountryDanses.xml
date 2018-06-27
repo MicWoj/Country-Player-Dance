@@ -1317,7 +1317,7 @@
     <Compte>64/2 T</Compte>
     <Depart>4*8</Depart>
     <Choregraphe>Virginie Barjaud</Choregraphe>
-    <Youtube></Youtube>
+    <Youtube>3k9qFxAIihw</Youtube>
     <Musique>Jar Of Clay</Musique>
     <Artiste>Pinmonkey</Artiste>
   </Danse>
@@ -2736,7 +2736,7 @@
     <Niveau>D</Niveau>
     <Compte>32/2</Compte>
     <Depart></Depart>
-    <Choregraphe>Fatima</Choregraphe>
+    <Choregraphe>Fatima Ouhibi</Choregraphe>
     <Youtube>nsx9ooLLF7Y</Youtube>
     <Musique>Honky Tonk Heartache</Musique>
     <Artiste>Wc Edgar</Artiste>
@@ -3832,27 +3832,6 @@
     <Artiste>Derek Ryan</Artiste>
   </Danse>
   <Danse>
-    <Name>MAndd</Name>
-    <Niveau>D</Niveau>
-    <Compte>32/2</Compte>
-    <Depart></Depart>
-    <Choregraphe>Marie Machu And Dominique Tritsch</Choregraphe>
-    <Youtube></Youtube>
-    <Musique>Dancing Int The Moonlight</Musique>
-    <Artiste>Derek Ryan</Artiste>
-  </Danse>
-  <Danse>
-    <Name>M
-Andj</Name>
-    <Niveau>N</Niveau>
-    <Compte></Compte>
-    <Depart>4*8</Depart>
-    <Choregraphe>David Villellas</Choregraphe>
-    <Youtube>HfGfYKAjKfE</Youtube>
-    <Musique>Some Lessons Learned</Musique>
-    <Artiste>Kristin Chenoweth</Artiste>
-  </Danse>
-  <Danse>
     <Name>Make This Day</Name>
     <Niveau>I</Niveau>
     <Compte>64/4 Rr</Compte>
@@ -4300,7 +4279,7 @@ Andj</Name>
     <Choregraphe>Guy Lories And Juliette Tobbak</Choregraphe>
     <Youtube></Youtube>
     <Musique>Old Dan Tucker</Musique>
-    <Artiste>Bruce Springteen</Artiste>
+    <Artiste>Bruce Springsteen</Artiste>
   </Danse>
   <Danse>
     <Name>Old Friend</Name>
@@ -6220,7 +6199,7 @@ Andj</Name>
     <Choregraphe></Choregraphe>
     <Youtube></Youtube>
     <Musique>T'morrow Never Know</Musique>
-    <Artiste>Bruce Springteen</Artiste>
+    <Artiste>Bruce Springsteen</Artiste>
   </Danse>
   <Danse>
     <Name>Tonight</Name>
@@ -6824,13 +6803,13 @@ Andj</Name>
   </Danse>
   <Danse>
     <Name>You And Me</Name>
-    <Niveau>A</Niveau>
-    <Compte></Compte>
+    <Niveau>I</Niveau>
+    <Compte>64/2</Compte>
     <Depart></Depart>
-    <Choregraphe></Choregraphe>
+    <Choregraphe>Johnny</Choregraphe>
     <Youtube></Youtube>
-    <Musique></Musique>
-    <Artiste></Artiste>
+    <Musique>Boom boom</Musique>
+    <Artiste>Lucas Hoge</Artiste>
   </Danse>
   <Danse>
     <Name>You Ain T Alone</Name>
@@ -7037,7 +7016,7 @@ Andj</Name>
     <Niveau>I</Niveau>
     <Compte>64/2 Tr</Compte>
     <Depart>4*8</Depart>
-    <Choregraphe>Silvia Denise Stati</Choregraphe>
+    <Choregraphe>Silvia Denise Staiti</Choregraphe>
     <Youtube>yaCo6Mmz6eU</Youtube>
     <Musique>Litle Crush</Musique>
     <Artiste>Diana Corcoran</Artiste>
@@ -7068,7 +7047,7 @@ Andj</Name>
     <Compte>Ab T1t2</Compte>
     <Depart></Depart>
     <Choregraphe>Adriano Castagnoli</Choregraphe>
-    <Youtube></Youtube>
+    <Youtube>VkzOTGUCfCg</Youtube>
     <Musique>Soggy Bottom Summer</Musique>
     <Artiste>Dean Brody</Artiste>
   </Danse>
@@ -7077,7 +7056,7 @@ Andj</Name>
     <Niveau>N</Niveau>
     <Compte>64/2</Compte>
     <Depart></Depart>
-    <Choregraphe>Fatima Houhibi</Choregraphe>
+    <Choregraphe>Fatima Ouhibi</Choregraphe>
     <Youtube></Youtube>
     <Musique>Hangin Around</Musique>
     <Artiste>The Steeldrivers</Artiste>
@@ -7137,8 +7116,8 @@ Andj</Name>
     <Niveau>I</Niveau>
     <Compte>64 Trtr</Compte>
     <Depart>4*8</Depart>
-    <Choregraphe>Silvia Denise Stati</Choregraphe>
-    <Youtube></Youtube>
+    <Choregraphe>Silvia Denise Staiti</Choregraphe>
+    <Youtube>5XE0PrTjZyI</Youtube>
     <Musique>The Rearview And Me</Musique>
     <Artiste>Bailey Rose</Artiste>
   </Danse>
@@ -7257,7 +7236,7 @@ Andj</Name>
     <Niveau></Niveau>
     <Compte>64/4 R</Compte>
     <Depart></Depart>
-    <Choregraphe>Bruno Mogia</Choregraphe>
+    <Choregraphe>Bruno Moggia</Choregraphe>
     <Youtube></Youtube>
     <Musique>A Little Too Late</Musique>
     <Artiste>Mark Chesnutt</Artiste>
@@ -7274,10 +7253,10 @@ Andj</Name>
   </Danse>
   <Danse>
     <Name>About Me</Name>
-    <Niveau></Niveau>
+    <Niveau>D</Niveau>
     <Compte>64/2 Trr</Compte>
     <Depart></Depart>
-    <Choregraphe>Silvia Denise Stati</Choregraphe>
+    <Choregraphe>Silvia Denise Staiti</Choregraphe>
     <Youtube>1SKKSlW_JZw</Youtube>
     <Musique>How Bout You</Musique>
     <Artiste>Lizzie Sider</Artiste>
@@ -7287,7 +7266,7 @@ Andj</Name>
     <Niveau>D</Niveau>
     <Compte>32/4 Rr</Compte>
     <Depart>4*8</Depart>
-    <Choregraphe>Araceli</Choregraphe>
+    <Choregraphe>Araceli Capitan and David Villellas and Montse Sweet</Choregraphe>
     <Youtube></Youtube>
     <Musique>Head Over Heels</Musique>
     <Artiste>The Washboard Union</Artiste>
@@ -7304,13 +7283,13 @@ Andj</Name>
   </Danse>
   <Danse>
     <Name>Friends</Name>
-    <Niveau></Niveau>
-    <Compte></Compte>
+    <Niveau>I</Niveau>
+    <Compte>AB 64/2</Compte>
     <Depart></Depart>
-    <Choregraphe></Choregraphe>
+    <Choregraphe>Ambros Sillero</Choregraphe>
     <Youtube></Youtube>
-    <Musique></Musique>
-    <Artiste></Artiste>
+    <Musique>You’ve Been a Friend to Me</Musique>
+    <Artiste>Bryan Adams</Artiste>
   </Danse>
   <Danse>
     <Name>Sweet Home</Name>
@@ -7387,7 +7366,7 @@ Andj</Name>
     <Niveau>I</Niveau>
     <Compte>64/2 Tt</Compte>
     <Depart></Depart>
-    <Choregraphe>Bruno Mogia</Choregraphe>
+    <Choregraphe>Bruno Moggia</Choregraphe>
     <Youtube>pPiHmv9SbSg</Youtube>
     <Musique>Authority Song</Musique>
     <Artiste>Chancey Williams</Artiste>
@@ -7444,13 +7423,13 @@ Andj</Name>
   </Danse>
   <Danse>
     <Name>Rockland</Name>
-    <Niveau></Niveau>
-    <Compte></Compte>
+    <Niveau>D</Niveau>
+    <Compte>32/4</Compte>
     <Depart></Depart>
-    <Choregraphe></Choregraphe>
+    <Choregraphe>Adriano Castagnoli</Choregraphe>
     <Youtube></Youtube>
-    <Musique></Musique>
-    <Artiste></Artiste>
+    <Musique>Trouble</Musique>
+    <Artiste>Sam Outlaw</Artiste>
   </Danse>
   <Danse>
     <Name>Fine</Name>
@@ -7464,13 +7443,13 @@ Andj</Name>
   </Danse>
   <Danse>
     <Name>One Hundred</Name>
-    <Niveau></Niveau>
-    <Compte></Compte>
+    <Niveau>A</Niveau>
+    <Compte>AB 2T</Compte>
     <Depart></Depart>
-    <Choregraphe></Choregraphe>
+    <Choregraphe>Adriano Castagnoli</Choregraphe>
     <Youtube>vJxtBe_6PmE</Youtube>
-    <Musique></Musique>
-    <Artiste></Artiste>
+    <Musique>You Can Depend On Me</Musique>
+    <Artiste>Restless Heart</Artiste>
   </Danse>
   <Danse>
     <Name>Happy Happy Happy</Name>
@@ -7498,29 +7477,29 @@ Andj</Name>
     <Compte>64/2</Compte>
     <Depart></Depart>
     <Choregraphe>Johnny</Choregraphe>
-    <Youtube>9KurjPd31pc&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;feature=youtu.be</Youtube>
+    <Youtube>9KurjPd31pc&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;feature=youtu.be</Youtube>
     <Musique>Seeing Bling</Musique>
     <Artiste>Niall Horan ft. Maren Morris</Artiste>
   </Danse>
   <Danse>
     <Name>Relax</Name>
-    <Niveau></Niveau>
-    <Compte></Compte>
+    <Niveau>A</Niveau>
+    <Compte>AB</Compte>
     <Depart></Depart>
-    <Choregraphe></Choregraphe>
+    <Choregraphe>Algaly and Manu Santos</Choregraphe>
     <Youtube></Youtube>
-    <Musique></Musique>
-    <Artiste></Artiste>
+    <Musique>Long Way Home</Musique>
+    <Artiste>High Valley</Artiste>
   </Danse>
   <Danse>
     <Name>Th Guest Ranch</Name>
-    <Niveau></Niveau>
-    <Compte></Compte>
+    <Niveau>I</Niveau>
+    <Compte>64/2 4R</Compte>
     <Depart></Depart>
-    <Choregraphe></Choregraphe>
+    <Choregraphe>David Villellas and Montse</Choregraphe>
     <Youtube></Youtube>
-    <Musique></Musique>
-    <Artiste></Artiste>
+    <Musique>Girl With The Fishing Rod</Musique>
+    <Artiste>Lisa McHugh</Artiste>
   </Danse>
   <Danse>
     <Name>Pretty Saloon</Name>
@@ -7534,21 +7513,21 @@ Andj</Name>
   </Danse>
   <Danse>
     <Name>Lifetime</Name>
-    <Niveau>N</Niveau>
+    <Niveau></Niveau>
     <Compte></Compte>
     <Depart></Depart>
-    <Choregraphe></Choregraphe>
+    <Choregraphe>Adriano Castagnoli</Choregraphe>
     <Youtube></Youtube>
     <Musique></Musique>
     <Artiste></Artiste>
   </Danse>
   <Danse>
     <Name>Skyline</Name>
-    <Niveau>D</Niveau>
+    <Niveau>I</Niveau>
     <Compte>64/2 4R1T</Compte>
     <Depart></Depart>
     <Choregraphe>Virginie Barjaud</Choregraphe>
-    <Youtube></Youtube>
+    <Youtube>GPQMSwApTTs</Youtube>
     <Musique>If i could fly</Musique>
     <Artiste>Hey Romeo</Artiste>
   </Danse>
@@ -7568,7 +7547,7 @@ Andj</Name>
     <Compte>AB T</Compte>
     <Depart></Depart>
     <Choregraphe>Anna Taroni</Choregraphe>
-    <Youtube>tDh_K1xJAFs&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;t=471s</Youtube>
+    <Youtube>tDh_K1xJAFs&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;t=471s</Youtube>
     <Musique>No Need To Be</Musique>
     <Artiste>The Crazy Bulls Band</Artiste>
   </Danse>
@@ -7577,8 +7556,8 @@ Andj</Name>
     <Niveau>A</Niveau>
     <Compte></Compte>
     <Depart></Depart>
-    <Choregraphe>David Vilellas</Choregraphe>
-    <Youtube>eaikj0CJy9U&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;t=45s</Youtube>
+    <Choregraphe>David Villellas</Choregraphe>
+    <Youtube>eaikj0CJy9U&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;t=45s</Youtube>
     <Musique></Musique>
     <Artiste></Artiste>
   </Danse>
@@ -7597,28 +7576,28 @@ Andj</Name>
     <Niveau>A</Niveau>
     <Compte></Compte>
     <Depart></Depart>
-    <Choregraphe>Horse Country</Choregraphe>
+    <Choregraphe>Happy Horse Country</Choregraphe>
     <Youtube>pIJS-cTJCJg</Youtube>
     <Musique>City of Chicago</Musique>
     <Artiste>Derek Ryan</Artiste>
   </Danse>
   <Danse>
     <Name>SuperStress</Name>
-    <Niveau></Niveau>
-    <Compte></Compte>
+    <Niveau>N</Niveau>
+    <Compte>64/2 2R</Compte>
     <Depart></Depart>
-    <Choregraphe></Choregraphe>
+    <Choregraphe>Adriano Castagnoli and Manu</Choregraphe>
     <Youtube></Youtube>
-    <Musique></Musique>
-    <Artiste></Artiste>
+    <Musique>Chasin Rodeo</Musique>
+    <Artiste>Troy Cassar Daley</Artiste>
   </Danse>
   <Danse>
     <Name>19 Forever</Name>
-    <Niveau></Niveau>
+    <Niveau>A</Niveau>
     <Compte>56 T</Compte>
     <Depart></Depart>
     <Choregraphe>Bruno Moggia</Choregraphe>
-    <Youtube></Youtube>
+    <Youtube>BqMhLZRbt0M&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;index=12&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;t=0s&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;list=PL31555ABCDF45678B</Youtube>
     <Musique>19 Forever</Musique>
     <Artiste>Granger Smith</Artiste>
   </Danse>
@@ -7638,7 +7617,7 @@ Andj</Name>
     <Compte>64/2 2TR</Compte>
     <Depart></Depart>
     <Choregraphe>Johnny</Choregraphe>
-    <Youtube></Youtube>
+    <Youtube>-7gCPI1o8rc</Youtube>
     <Musique>Shine</Musique>
     <Artiste>The Washboard Union</Artiste>
   </Danse>
@@ -7648,7 +7627,7 @@ Andj</Name>
     <Compte>64/2 4R</Compte>
     <Depart></Depart>
     <Choregraphe>Silvia Denise Staiti</Choregraphe>
-    <Youtube></Youtube>
+    <Youtube>bUTo6pKzOxI</Youtube>
     <Musique>Trip around the sun</Musique>
     <Artiste>Kenny Chesney</Artiste>
   </Danse>
@@ -7674,17 +7653,17 @@ Andj</Name>
   </Danse>
   <Danse>
     <Name>No Frost</Name>
-    <Niveau></Niveau>
-    <Compte></Compte>
+    <Niveau>I</Niveau>
+    <Compte>AB T</Compte>
     <Depart></Depart>
-    <Choregraphe>Josep Perez &amp; Jordi Bosser</Choregraphe>
+    <Choregraphe>Josep Perez and Jordi Bosser</Choregraphe>
     <Youtube></Youtube>
-    <Musique></Musique>
-    <Artiste></Artiste>
+    <Musique>Lil Gigger</Musique>
+    <Artiste>Keith Urban</Artiste>
   </Danse>
   <Danse>
     <Name>My Trashy Side</Name>
-    <Niveau></Niveau>
+    <Niveau>A</Niveau>
     <Compte></Compte>
     <Depart></Depart>
     <Choregraphe>Johnny</Choregraphe>
@@ -7709,6 +7688,116 @@ Andj</Name>
     <Depart></Depart>
     <Choregraphe></Choregraphe>
     <Youtube></Youtube>
+    <Musique></Musique>
+    <Artiste></Artiste>
+  </Danse>
+  <Danse>
+    <Name>Yellow</Name>
+    <Niveau></Niveau>
+    <Compte></Compte>
+    <Depart></Depart>
+    <Choregraphe></Choregraphe>
+    <Youtube></Youtube>
+    <Musique></Musique>
+    <Artiste></Artiste>
+  </Danse>
+  <Danse>
+    <Name>Old Wild West</Name>
+    <Niveau></Niveau>
+    <Compte></Compte>
+    <Depart></Depart>
+    <Choregraphe></Choregraphe>
+    <Youtube></Youtube>
+    <Musique></Musique>
+    <Artiste></Artiste>
+  </Danse>
+  <Danse>
+    <Name>Siesta</Name>
+    <Niveau>N</Niveau>
+    <Compte>64/2 1TR</Compte>
+    <Depart></Depart>
+    <Choregraphe>Algaly and Manu</Choregraphe>
+    <Youtube></Youtube>
+    <Musique>Mean</Musique>
+    <Artiste>Lisa McHugh</Artiste>
+  </Danse>
+  <Danse>
+    <Name>Peace!</Name>
+    <Niveau>I</Niveau>
+    <Compte>64/2 5R1T</Compte>
+    <Depart></Depart>
+    <Choregraphe>Algaly and Manu</Choregraphe>
+    <Youtube></Youtube>
+    <Musique>Peace</Musique>
+    <Artiste>O.A.R.</Artiste>
+  </Danse>
+  <Danse>
+    <Name>Ya Come Down</Name>
+    <Niveau></Niveau>
+    <Compte></Compte>
+    <Depart></Depart>
+    <Choregraphe></Choregraphe>
+    <Youtube></Youtube>
+    <Musique></Musique>
+    <Artiste></Artiste>
+  </Danse>
+  <Danse>
+    <Name>Taste Me</Name>
+    <Niveau>D</Niveau>
+    <Compte></Compte>
+    <Depart></Depart>
+    <Choregraphe>Virginie Barjaud</Choregraphe>
+    <Youtube></Youtube>
+    <Musique></Musique>
+    <Artiste></Artiste>
+  </Danse>
+  <Danse>
+    <Name>Pretty boy</Name>
+    <Niveau>I</Niveau>
+    <Compte>64/2</Compte>
+    <Depart></Depart>
+    <Choregraphe>Virginie Barjaud</Choregraphe>
+    <Youtube></Youtube>
+    <Musique>I think she likes me</Musique>
+    <Artiste>Billy Gilman</Artiste>
+  </Danse>
+  <Danse>
+    <Name>Trailer Hitch</Name>
+    <Niveau>I</Niveau>
+    <Compte>72/2 R</Compte>
+    <Depart></Depart>
+    <Choregraphe>Manu and Algaly</Choregraphe>
+    <Youtube></Youtube>
+    <Musique>Trailer Hitch</Musique>
+    <Artiste>Eamonn Jackson</Artiste>
+  </Danse>
+  <Danse>
+    <Name>Swingin Girl</Name>
+    <Niveau>N</Niveau>
+    <Compte>64/2 R</Compte>
+    <Depart></Depart>
+    <Choregraphe>Manu Santos</Choregraphe>
+    <Youtube></Youtube>
+    <Musique>Swingin Door</Musique>
+    <Artiste>Edens Edge</Artiste>
+  </Danse>
+  <Danse>
+    <Name>My Teacher My Friend</Name>
+    <Niveau>D</Niveau>
+    <Compte></Compte>
+    <Depart></Depart>
+    <Choregraphe>Edu</Choregraphe>
+    <Youtube></Youtube>
+    <Musique></Musique>
+    <Artiste></Artiste>
+  </Danse>
+  <Danse>
+    <Name>Good Time girls</Name>
+    <Niveau></Niveau>
+    <Compte></Compte>
+    <Depart></Depart>
+    <Choregraphe></Choregraphe>
+    <Youtube />
     <Musique></Musique>
     <Artiste></Artiste>
   </Danse>

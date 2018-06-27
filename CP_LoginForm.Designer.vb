@@ -80,7 +80,7 @@ Partial Class CP_LoginForm
         Me.Label_VersionCP.Name = "Label_VersionCP"
         Me.Label_VersionCP.Size = New System.Drawing.Size(60, 13)
         Me.Label_VersionCP.TabIndex = 7
-        Me.Label_VersionCP.Text = "Version 1.0"
+        Me.Label_VersionCP.Text = "Version 1.2"
         '
         'Generate
         '

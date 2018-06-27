@@ -6,9 +6,11 @@ Public Class CountryPlayer
     Dim lesChores As New Chores() 'création 
     Dim playList As ArrayList
     Dim choregraphList As ArrayList
+    Dim artistList As ArrayList
     Dim savePlPath As String
-
     Dim choreChange As Integer = 0
+    Dim pdfFile As String = "pdf"
+    Dim change As Boolean = False
 
     Private Sub CountryPlayer_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
             ' Read and set the config file directories
@@ -41,19 +43,19 @@ Public Class CountryPlayer
     '**************************************************************************************************************************
     ' *** PARAMETERS ***
     '**************************************************************************************************************************
-    Private Sub ButtonPdfPath_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonPdfPath.Click
+    Private Sub ButtonPdfPath_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
         If FolderBrowserDialog1.ShowDialog = DialogResult.OK Then
             TextBoxPdfPath.Text = FolderBrowserDialog1.SelectedPath & "\"
         End If
     End Sub
 
-    Private Sub ButtonMusicPath_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonMusicPath.Click
+    Private Sub ButtonMusicPath_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
         If FolderBrowserDialog1.ShowDialog = DialogResult.OK Then
             TextBoxMusicPath.Text = FolderBrowserDialog1.SelectedPath & "\"
         End If
     End Sub
 
-    Private Sub ButtonPLPath_Click(sender As System.Object, e As System.EventArgs) Handles ButtonPLPath.Click
+    Private Sub ButtonPLPath_Click(sender As System.Object, e As System.EventArgs)
         If FolderBrowserDialog1.ShowDialog = DialogResult.OK Then
             TextBoxPLPath.Text = FolderBrowserDialog1.SelectedPath & "\"
         End If
@@ -126,7 +128,7 @@ Public Class CountryPlayer
         Return PdfInFolder
     End Function
 
-    Private Sub ButtonParamLoad_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonParamLoad.Click
+    Private Sub ButtonParamLoad_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
         If (System.IO.File.Exists(TextBoxConfig.Text.ToString())) Then
             Dim document As XmlReader = New XmlTextReader(TextBoxConfig.Text.ToString())
             While (document.Read())
@@ -150,7 +152,7 @@ Public Class CountryPlayer
         End If
     End Sub
 
-    Private Sub ButtonParamSave_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonParamSave.Click
+    Private Sub ButtonParamSave_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
         Dim settings As New XmlWriterSettings()
         settings.Indent = True
 
@@ -208,11 +210,11 @@ Public Class CountryPlayer
         End If
     End Sub
 
-    Private Sub Button_Init_Click(sender As System.Object, e As System.EventArgs) Handles Button_Init.Click
+    Private Sub Button_Init_Click(sender As System.Object, e As System.EventArgs)
         Load_Danses()
     End Sub
 
-    Private Sub ButtonChore_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonChore.Click
+    Private Sub ButtonChore_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
         If (OpenFileDialog1.ShowDialog() = Windows.Forms.DialogResult.OK) Then
             TextBoxChore.Text = OpenFileDialog1.FileName
         End If
@@ -279,7 +281,10 @@ Public Class CountryPlayer
             TextBoxMusic.Text = selChore.Music
             TextBoxArtist.Text = selChore.Artiste
             TextBox_Comment.Text = selChore.Comment
+            'If Not change Then
             LabelPdfFile.Text = eFileName(PdfInFolder(TextBoxPdfPath.Text, TextBoxName.Text))
+            pdfFile = LabelPdfFile.Text
+            'End If
             LabelMusicFile.Text = eFileName(MusicInFolder(TextBoxMusicPath.Text, TextBoxName.Text))
             If selChore.Youtube <> "" Then
                 TextBox_Youtube.Text = "https://www.youtube.com/watch?v=" & selChore.Youtube
@@ -449,7 +454,6 @@ Public Class CountryPlayer
     '    'Me.AxShockwaveFlash2.Movie = "https://www.youtube.com/v/" & Label_YoutubeURL.Text
 
     'End Sub
-
 
     Private Sub ButtonModify_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonModify.Click
         TextBoxCount.Enabled = True
@@ -725,7 +729,6 @@ Public Class CountryPlayer
                 ComboBox_PL.Items.Add(eFileName(fichier))
             Next
         End If
-
     End Sub
 
     Private Sub chore_reset()
@@ -762,7 +765,13 @@ Public Class CountryPlayer
     End Sub
 
     Private Function inDance(_chore As String, _num As Integer) As String
-        inDance = _num & " : " & _chore
+        Dim level As String
+        level = getLevelDance(_chore)
+        If level = "" Then
+            inDance = _num & " : " & _chore
+        Else
+            inDance = _num & " (" & level & ") " & " : " & _chore
+        End If
     End Function
 
     Private Function selDance(_dance As String) As String
@@ -837,6 +846,32 @@ Public Class CountryPlayer
             End If
         Next
     End Sub
+    Private Sub getArtistes()
+        Dim trouve As Boolean
+        artistList = New ArrayList()
+        For Each _chore As Chore In lesChores
+            trouve = False
+            For Each _artist As String In artistList
+                If _artist.Equals(_chore.Artiste) Then
+                    trouve = True
+                End If
+            Next
+            If Not trouve Then
+                artistList.Add(_chore.Artiste)
+                ListBox_Artiste.Items.Add(_chore.Artiste)
+            End If
+        Next
+    End Sub
+
+    Private Function getLevelDance(selDance As String) As String
+        getLevelDance = ""
+        For Each _chore As Chore In lesChores
+            'If _chore.Nom.Equals(selDance) Then
+            If UCase(_chore.Nom) = UCase(selDance) Then
+                getLevelDance = _chore.Niveau
+            End If
+        Next
+    End Function
     Private Sub Button_initChoregraph_Click(sender As System.Object, e As System.EventArgs) Handles Button_initChoregraph.Click
         ListBox_Choregraphe.Items.Clear()
         getChoreGraph()
@@ -852,6 +887,57 @@ Public Class CountryPlayer
             End If
         Next
         Label_NbPL.Text = i
+        ComboBox_PL.Text = "Choregraph Liste"
     End Sub
+
+    Private Sub Button_Picture_Click(sender As System.Object, e As System.EventArgs) Handles Button_Picture.Click
+        If (OpenFileDialog1.ShowDialog() = Windows.Forms.DialogResult.OK) Then
+            TextBox_Picture.Text = OpenFileDialog1.FileName
+        End If
+    End Sub
+
+    Private Sub TextBox_Picture_TextChanged(sender As System.Object, e As System.EventArgs) Handles TextBox_Picture.TextChanged
+        If InStr(TextBox_Picture.Text, "jpg") Then
+            AxAcroPDF2.Visible = False
+            PictureBox_Editor.Load(TextBox_Picture.Text)
+        End If
+        If InStr(TextBox_Picture.Text, "pdf") Then
+            AxAcroPDF2.Visible = True
+            AxAcroPDF2.LoadFile(TextBox_Picture.Text)
+        End If
+    End Sub
+
+    'Private Sub LabelPdfFile_TextChanged(sender As System.Object, e As System.EventArgs) Handles LabelPdfFile.TextChanged
+    '    If Not LabelPdfFile.Text.Equals("NF") Then
+    '        AxAcroPDF1.Show()
+    '        AxAcroPDF1.LoadFile(TextBoxPdfPath.Text & LabelPdfFile.Text)
+    '    Else
+    '        AxAcroPDF1.Hide()
+    '    End If
+    '    If pdfFile = LabelPdfFile.Text Then
+    '        change = True
+    '    Else
+    '        change = False
+    '    End If
+    'End Sub
+
+    Private Sub Button_initArtistes_Click(sender As System.Object, e As System.EventArgs) Handles Button_initArtistes.Click
+        ListBox_Artiste.Items.Clear()
+        getArtistes()
+    End Sub
+    Private Sub ListBox_Artiste_SelectedIndexChanged_1(sender As System.Object, e As System.EventArgs) Handles ListBox_Artiste.SelectedIndexChanged
+        CListBoxDance.Items.Clear()
+        Dim i As Integer = 0
+        For Each _chore As Chore In lesChores
+            If _chore.Artiste.Equals(ListBox_Artiste.SelectedItem) Then
+                'If InStr(_chore.Choregraph, ListBox_Choregraphe.SelectedItem) Then
+                CListBoxDance.Items.Add(_chore.Nom)
+                i = i + 1
+            End If
+        Next
+        Label_NbPL.Text = i
+        ComboBox_PL.Text = "Artistes Liste"
+    End Sub
+
 End Class
 

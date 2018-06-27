@@ -34,3 +34,14 @@ c:\Git\Country-Player-Dance\bin\Release\Interop.AcroPDFLib.dll
 c:\Git\Country-Player-Dance\bin\Release\Interop.WMPLib.dll
 c:\Git\Country-Player-Dance\bin\Release\AxInterop.AcroPDFLib.dll
 c:\Git\Country-Player-Dance\bin\Release\AxInterop.WMPLib.dll
+c:\Git\Country-Player-Dance\obj\Debug\CountryPlayerDance.TrustInfo.xml
+d:\DEV\Git\Country-Player-Dance\bin\Release\CountryPlayerDance.exe.config
+d:\DEV\Git\Country-Player-Dance\obj\Debug\Interop.AcroPDFLib.dll
+d:\DEV\Git\Country-Player-Dance\obj\Debug\Interop.WMPLib.dll
+d:\DEV\Git\Country-Player-Dance\obj\Debug\Interop.WMPNSSCI.dll
+d:\DEV\Git\Country-Player-Dance\obj\Debug\AxInterop.AcroPDFLib.dll
+d:\DEV\Git\Country-Player-Dance\obj\Debug\AxInterop.WMPLib.dll
+d:\DEV\Git\Country-Player-Dance\obj\Debug\CountryPlayer.vbproj.ResolveComReference.cache
+d:\DEV\Git\Country-Player-Dance\obj\Debug\CountryPlayerDance.exe
+d:\DEV\Git\Country-Player-Dance\obj\Debug\CountryPlayerDance.xml
+d:\DEV\Git\Country-Player-Dance\obj\Debug\CountryPlayerDance.pdb
